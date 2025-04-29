@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
+                "file": "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3 - Question Lists"
+              "title": "Chapter 5 - Question Lists"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
+                "file": "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 3 - Question Lists"
+              "title": "Outline of Chapter 5 - Question Lists"
             }
           },
           {
@@ -261,14 +261,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef82c6be0b23cbd3",
+  "active": "ece2915b79c1105d",
   "lastOpenFiles": [
-    "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
-    "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
-    "Software Engineering/Chapter - 5/Chapter 5 - Question Lists.md",
+    "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
     "Software Engineering/Chapter 4 - Software Testing Technique and Strategies/Chapter 4 - Question Lists.md",
     "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
-    "Software Engineering/Chapter - 5",
+    "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
+    "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
+    "Software Engineering/Chapter 5 - Software Management and Maintenance Technique",
     "Software Engineering/Chapter 4 - Software Testing Technique and Strategies",
     "Software Engineering/Chapter 3 - Software Design Fundamentals",
     "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals",
