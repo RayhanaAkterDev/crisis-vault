@@ -17,4 +17,10 @@
 14. Briefly describe each step of software development life cycle.
 15. Explain incremental software process model with merits and demerits.
 16. Write a short note on RAD software process mode.
-17. 
+17. Explain spiral model with advantages and disadvantages.
+18. Explain the sector in each loop of Boehm's spiral model describe shortly.
+19. What is the need for a feasibility study of software development?
+20. Distinguish between s-process and s-process model.
+21. List 4 reasons why it is difficult to improve software process?
+22. List out the key challenges facing software engineering and discuss those.```
+```
