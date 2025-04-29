@@ -3,13 +3,13 @@
 3. State the principle of software design process.
 4. How do we transform an  informal design to a detailed design.
 5. Mention and briefly discuss some of the software design principles.
-6. Discuss about different types of coupling in the context of s/w design.
+6. Discuss about different types of coupling in the context of s/w design. #board_2022 
 7. Discuss about different types of cohesion in the context of software design. Which type of cohesion is best?
 8. Distinguish between cohesion and coupling.
 9. Write short note on object oriented software engineering.
 10. Explain various object oriented concepts used in SE.
-11. What different types of architectural styles exist for s/w design
-12. describe model view controller (MVC) architecture.
+11. What different types of architectural styles exist for s/w design. #board_2022 
+12. describe model view controller (MVC) architecture in detail. #board_2022 
 13. What is the user interface?
 14. Explain the principles of user interface design.
 15. Write short note on: Data flow diagram.
@@ -19,5 +19,5 @@
 19. Write short notes on top-down and bottom-up design.
 20. Write down pros and cons of top down integration testing.
 21. Distinguish between top-down and bottom up design.
-22. Explain some of the criteria that are used to define effective modular design.
+22. Explain some of the criteria that are used to define effective modular design. #board_2022 
 23. Differentiate between object oriented and function oriented and function oriented design.

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
+                "file": "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Question Lists"
+              "title": "Chapter 3 - Question Lists"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#borad_2021",
+                "query": "modular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
+                "file": "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1 - Question Lists"
+              "title": "Outline of Chapter 3 - Question Lists"
             }
           },
           {
@@ -261,8 +262,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ece2915b79c1105d",
+  "active": "0f9213d6b20963ea",
   "lastOpenFiles": [
+    "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
+    "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
     "Embedded System Programming/Non-Chapter Questions.md",
     "Embedded System Programming/Chapter 9 - Linker & Loader/Chapter 9 - Question Lists.md",
     "Embedded System Programming/Chapter 8 - Compiler & Assembler/Chapter 8 - Question Lists.md",
@@ -273,11 +276,9 @@
     "Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
     "Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
     "Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists.md",
-    "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
     "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
     "Software Engineering/Chapter 4 - Software Testing Technique and Strategies/Chapter 4 - Question Lists.md",
     "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
-    "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
     "Software Engineering/Chapter 5 - Software Management and Maintenance Technique",
     "Software Engineering/Chapter 4 - Software Testing Technique and Strategies",
     "Software Engineering/Chapter 3 - Software Design Fundamentals",
