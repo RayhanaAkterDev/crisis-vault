@@ -12,7 +12,7 @@
 12. What are the major factors that influence software cost?
 	- What are the factors affecting software pricing?
 13. Write a short note on software re-engineering.
-14. Explain software re-engineering process activities with figures.
+14. Explain software re-engineering process activities with figures. #board_2022 
 15. Distinguish between software re-engineering and reverse engineering.
 16. Write a short note on software reuse. Write down the advantages of software reuse.
 17. Explain each team of the CASE life cycle in an organization.
