@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Software Engineering Questions By Pouly Bhumic"
             }
+          },
+          {
+            "id": "ece2915b79c1105d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Chapter - 5/Chapter 5 - Question Lists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 5 - Question Lists"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering Questions By Pouly Bhumic.md",
+                "file": "Software Engineering/Chapter - 5/Chapter 5 - Question Lists.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Software Engineering Questions By Pouly Bhumic"
+              "title": "Outline of Chapter 5 - Question Lists"
             }
           },
           {
@@ -247,13 +261,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "883866c5bd4159f8",
+  "active": "ece2915b79c1105d",
   "lastOpenFiles": [
-    "Journal/Daily_Notes/2025-04-29.md",
+    "Software Engineering/Chapter - 4/Chapter 4 - Question Lists.md",
+    "Software Engineering/Chapter - 3/Chapter 3 - Question Lists.md",
+    "Software Engineering/Chapter - 2/Chapter 2 - Question Lists.md",
+    "Software Engineering/Chapter - 1/Chapter 1 - Question Lists.md",
+    "Software Engineering/Chapter - 5/Chapter 5 - Question Lists.md",
+    "Software Engineering/Chapter - 5",
+    "Software Engineering/Chapter - 4",
+    "Software Engineering/Chapter - 3",
+    "Software Engineering/Chapter - 2",
+    "Software Engineering/Chapter - 1 - Copy (3)/desktop.ini",
+    "Software Engineering/Chapter - 1 - Copy (4)/Chapter 1 - Question Lists.md",
+    "Software Engineering/Chapter - 1 - Copy (4)",
+    "Software Engineering/Chapter - 1 - Copy (3)/Chapter 1 - Question Lists.md",
+    "Software Engineering/Chapter - 1 - Copy (3)",
+    "Software Engineering/Chapter - 1 - Copy (2)/Chapter 1 - Question Lists.md",
+    "Software Engineering/Chapter - 1 - Copy (2)",
+    "Software Engineering/Chapter - 1 - Copy/Chapter 1 - Question Lists.md",
+    "Software Engineering/Chapter - 1 - Copy",
     "Software Engineering Questions By Pouly Bhumic.md",
+    "Software Engineering/Chapter - 1",
+    "Journal/Daily_Notes/2025-04-29.md",
     "Journal/Daily_Notes/2025-04-28.md",
     "Templates/daily_template.md",
-    "Software Engineering",
     "Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists.md",
     "Embedded System Programming/Non-Chapter Questions.md",
     "Embedded System Programming/Chapter 9 - Linker & Loader/Chapter 9 - Question Lists.md",
@@ -267,25 +299,7 @@
     "Templates/monthly_template.md",
     "Monthly_Schedule/2025-03.md",
     "Monthly_Schedule/2025-04.md",
-    "Monthly_Schedule/2025-05.md",
-    "Monthly_Schedule/2025-06.md",
     "Pasted image 20250428180437.png",
-    "Templates/weekly_template.md",
-    "Journal/Weekly_Dashboard/2025-W19.md",
-    "Journal/Weekly_Dashboard/2025-W18.md",
-    "2025-05.md",
-    "2025-03.md",
-    "Monthly Overview/Untitled.md",
-    "Monthly_Schedule",
-    "Question Lists.md",
-    "Embedded System Programming/Chapter 9 - Linker & Loader",
-    "Embedded System Programming/Chapter 8 - Compiler & Assembler",
-    "Embedded System Programming/Chapter 7 - XML",
-    "Embedded System Programming/Chapter 6 - WWW, Kernel, ASP",
-    "Embedded System Programming/Chapter 5 - Multithread, XSLT",
-    "Embedded System Programming/Chapter 4 - Web server and API",
-    "Embedded System Programming/Chapter -4",
-    "Embedded System Programming/Chapter -",
     "Untitled.canvas"
   ]
 }
