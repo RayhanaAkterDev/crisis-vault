@@ -11,7 +11,7 @@
 3. Objective of software engineering
 4. Generic activities followed in all s/w processes
 5. Key challenges facing in software development
-6. Professional and ethical responsibility of a s/w engineer
+6. Professional and ethical responsibility of a s/w engineer. #board_2021 
 7. Software Development Life Cycle (SDLC)
 8. Umbrella activities of s/w engineering
 9. CASE tools

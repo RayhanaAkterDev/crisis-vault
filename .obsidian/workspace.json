@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-04-29.md",
+                "file": "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-29"
+              "title": "Chapter 1 - Question Lists"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "software cost",
+                "query": "umb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -291,13 +292,15 @@
   },
   "active": "e343bbecbede4c4c",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
-    "Software Engineering/Non-Chapter  Questions.md",
-    "Software Engineering/Chapter 4 - Software Testing Technique and Strategies/Chapter 4 - Question Lists.md",
+    "Software Engineering/Software Engineering Questions By Pouly Bhumic.md",
     "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
-    "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
     "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
+    "Software Engineering/Chapter 4 - Software Testing Technique and Strategies/Chapter 4 - Question Lists.md",
+    "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
+    "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
+    "Journal/Daily_Notes/2025-04-29.md",
+    "Untitled.md",
+    "Software Engineering/Non-Chapter  Questions.md",
     "Embedded System Programming/Non-Chapter Questions.md",
     "Embedded System Programming/Chapter 9 - Linker & Loader/Chapter 9 - Question Lists.md",
     "Embedded System Programming/Chapter 8 - Compiler & Assembler/Chapter 8 - Question Lists.md",
@@ -321,9 +324,7 @@
     "Software Engineering/Chapter - 1 - Copy (2)",
     "Software Engineering/Chapter - 1 - Copy/Chapter 1 - Question Lists.md",
     "Software Engineering/Chapter - 1 - Copy",
-    "Software Engineering/Software Engineering Questions By Pouly Bhumic.md",
     "Software Engineering/Chapter 1 - Software Engineering Paradigms",
-    "Journal/Daily_Notes/2025-04-29.md",
     "Journal/Daily_Notes/2025-04-28.md",
     "Templates/daily_template.md",
     "Templates/monthly_template.md",

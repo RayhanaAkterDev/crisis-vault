@@ -6,7 +6,7 @@
 6. Discuss about different types of coupling in the context of s/w design. #board_2022 
 7. Discuss about different types of cohesion in the context of software design. Which type of cohesion is best?
 8. Distinguish between cohesion and coupling.
-9. Write short note on object oriented software engineering.
+9. Write short note on object oriented software engineering. #board_2022 
 10. Explain various object oriented concepts used in SE.
 11. What different types of architectural styles exist for s/w design. #board_2022 
 12. describe model view controller (MVC) architecture in detail. #board_2022 

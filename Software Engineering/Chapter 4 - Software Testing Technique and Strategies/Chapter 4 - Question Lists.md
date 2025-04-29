@@ -1,7 +1,7 @@
 1. What is testing? #board_2022 Why is testing necessary for S.D?
 2. What are the major components of system-testing? Mention their necessity.
 3. What is the objective of testing? #board_2022 
-4. What is software testing strategy?
+4. What is software testing strategy? #board_2022 
 5. What are the testing principles the software engineering must apply while performing the software testing.
 6. Define debugging.
 7. What are the common approaches in debugging?

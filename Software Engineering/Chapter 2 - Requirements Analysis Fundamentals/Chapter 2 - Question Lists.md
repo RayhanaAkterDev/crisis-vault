@@ -6,7 +6,7 @@
 6. Define the term stakeholder and use case. #board_2022 
 7. Brief the stages / process activities of **requirement elicitation** and analysis with figure. #board_2022 
 8. What is use case? Depict the online flight reservation system using a use case diagram.
-9. Draw a use a case diagram for virtual education management system.
+9. Draw a use a case diagram for virtual education management system. #board_2022 
 10. Mention some guidelines for conducting a collaborative requirement gathering meeting. #board_2022 
 11. Explain different types of check factors carried out during requirement validation. #board_2022 
-12. Write short note on class diagram.
+12. Write short note on class diagram. #board_2022 
