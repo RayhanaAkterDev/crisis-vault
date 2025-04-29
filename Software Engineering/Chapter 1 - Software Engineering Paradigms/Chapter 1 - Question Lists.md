@@ -1,4 +1,4 @@
-1. What do you mean by software engineering? #borad_2022 
+1. What do you mean by software engineering? #board_2022 
 	- What is software engineering?
 	- Give the IEEE definition of SE.
 2. State and explain some qualities that are used to access software.
@@ -10,7 +10,7 @@
 8. State and explain process maturity level in SEI and CMM.
 	- Describe the 5 levels defined in the SEI process maturity model.
 9. What is the difference between software engineering and system engineering?
-10. Distinguish between software engineering and computer science. #borad_2022 
+10. Distinguish between software engineering and computer science. #board_2022 
 11. Write a short note on software prototyping.
 12. What software engineering process?
 13. Write down the umbrella activities of software engineering.
