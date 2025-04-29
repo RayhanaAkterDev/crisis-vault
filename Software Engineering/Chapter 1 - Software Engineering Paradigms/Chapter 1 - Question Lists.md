@@ -15,7 +15,7 @@
 12. Distinguish between **software engineering** and **computer science**. #board_2022 
 13. Write a short note on software prototyping. #board_2022 
 14. What software engineering process?
-15. Write down the umbrella activities of software engineering. #board_2021 
+15. Write down the umbrella activities of software engineering. #board_2021
 16. Briefly describe each step of software development life cycle.
 17. Explain incremental software process model with merits and demerits. #board_2022 
 18. Write a short note on RAD software process mode. #board_2022 

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
+                "file": "Software Engineering/Chapter 4 - Software Testing Technique and Strategies/Chapter 4 - Question Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Question Lists"
+              "title": "Chapter 4 - Question Lists"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "umb",
+                "query": "complexi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -292,9 +292,9 @@
   },
   "active": "e343bbecbede4c4c",
   "lastOpenFiles": [
-    "Software Engineering/Software Engineering Questions By Pouly Bhumic.md",
-    "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
     "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
+    "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
+    "Software Engineering/Software Engineering Questions By Pouly Bhumic.md",
     "Software Engineering/Chapter 4 - Software Testing Technique and Strategies/Chapter 4 - Question Lists.md",
     "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
     "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
