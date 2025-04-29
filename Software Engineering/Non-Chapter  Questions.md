@@ -1,0 +1,1 @@
+1. Explain corrective maintenance, adaptive and perfective maintenance. #board_2022 

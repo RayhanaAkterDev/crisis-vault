@@ -7,7 +7,7 @@
 5. What is meant by software quality assurance?
 6. Write down the principles of agile process method. #board_2022 
 7. Write short note on CMM.
-8. State and explain process maturity level in SEI and CMM.
+8. State and explain process maturity level in SEI and CMM. #board_2022 
 	- Describe the 5 levels defined in the SEI process maturity model.
 9. What is the difference between software engineering and system engineering?
 10. Distinguish between **software engineering** and **computer science**. #board_2022 
