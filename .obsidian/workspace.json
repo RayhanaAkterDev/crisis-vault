@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
+                "file": "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 5 - Question Lists"
+              "title": "Chapter 1 - Question Lists"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#borad_2020 tag:#borad_2022  ",
+                "query": "difference between computer path:\"Software Engineering\"  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,11 +103,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 381.5
   },
   "right": {
     "id": "8f112ace402a832e",
@@ -171,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
+                "file": "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 5 - Question Lists"
+              "title": "Outline of Chapter 1 - Question Lists"
             }
           },
           {
@@ -225,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "50297d8c1b5ada63",
@@ -261,13 +262,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ece2915b79c1105d",
+  "active": "0f9213d6b20963ea",
   "lastOpenFiles": [
+    "Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
+    "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
     "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
     "Software Engineering/Chapter 4 - Software Testing Technique and Strategies/Chapter 4 - Question Lists.md",
     "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
     "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
-    "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
     "Software Engineering/Chapter 5 - Software Management and Maintenance Technique",
     "Software Engineering/Chapter 4 - Software Testing Technique and Strategies",
     "Software Engineering/Chapter 3 - Software Design Fundamentals",
@@ -292,7 +294,6 @@
     "Embedded System Programming/Chapter 8 - Compiler & Assembler/Chapter 8 - Question Lists.md",
     "Embedded System Programming/Chapter 7 - XML/Chapter 7 - Question Lists.md",
     "Embedded System Programming/Chapter 6 - WWW, Kernel, ASP/Chapter 6 - Question Lists.md",
-    "Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
     "Embedded System Programming/Chapter 4 - Web server and API/Chapter 4 - Question Lists.md",
     "Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
     "Embedded System Programming/Chapter 5 - Multithread, XSLT/Chapter 5 - Question Lists.md",
