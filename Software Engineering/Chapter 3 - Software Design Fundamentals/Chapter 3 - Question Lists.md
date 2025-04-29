@@ -4,7 +4,7 @@
 4. How do we transform an  informal design to a detailed design.
 5. Mention and briefly discuss some of the software design principles.
 6. Discuss about different types of coupling in the context of s/w design. #board_2022 
-7. Discuss about different types of cohesion in the context of software design. Which type of cohesion is best?
+7. Discuss about different types of cohesion in the context of software design. #board_2021  Which type of cohesion is best?
 8. Distinguish between cohesion and coupling.
 9. Write short note on object oriented software engineering. #board_2022 
 10. Explain various object oriented concepts used in SE.

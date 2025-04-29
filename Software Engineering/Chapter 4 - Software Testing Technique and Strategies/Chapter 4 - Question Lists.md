@@ -1,11 +1,11 @@
-1. What is testing? #board_2022 Why is testing necessary for S.D?
-2. What are the major components of system-testing? Mention their necessity.
+1. What is testing? #board_2022 Why is testing necessary for S.D? #board_2021 
+2. What are the major components of system-testing? Explain. #board_2021 
 3. What is the objective of testing? #board_2022 
 4. What is software testing strategy? #board_2022 
 5. What are the testing principles the software engineering must apply while performing the software testing.
 6. Define debugging.
 7. What are the common approaches in debugging?
-8. Describe the checklist software testability.
+8. Describe the checklist software testability. #board_2021 
 9. What do you mean by white-box-testing?
 10. Define black box testing with diagram.
 11. Write short notes on: Integration testing.
@@ -14,7 +14,7 @@
 14. Define alpha and beta testing. #board_2022 
 15. Distinguish between alpha and beta testing.
 16. Distinguish between validation and verification. #board_2022 
-17. What is cyclamate complexity?
-18. How to compute the cyclamate complexity in order to find the number of independent paths with examples.
+17. What is cyclomatic complexity? #board_2021 
+18. How to compute the cyclomatic complexity in order to find the number of independent paths with examples. #board_2021 
 19. Describe basic path of testing.
 20. Define code walkthrough and code inspection.
