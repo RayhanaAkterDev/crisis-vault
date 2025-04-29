@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "MCL Multi Column",
+    "View-mode"
+  ],
+  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "Candara",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false
+}
