@@ -8,4 +8,5 @@
 8. What is use case? Depict the online flight reservation system using a use case diagram.
 9. Draw a use a case diagram for virtual education management system.
 10. Mention some guidelines for conducting a collaborative requirement gathering meeting.
-11. Explain different types of check factors carried ou
+11. Explain different types of check factors carried out during requirement validation.
+12. Write short note on class diagram.
