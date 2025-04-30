@@ -9,7 +9,7 @@
 6. Discuss different types of network topologies.
 7. Draw a hybrid topology with a star backbone and a star networks.
 8. What is IoT?
-9. What is protocol? #board_2022 
+9. What is protocol? #board_2022 #board_2020 
 10. What are the key elements of protocols?
 11. Explain the seven layers of OSI system with diagram. #board_2022 
 12. Why TCP/IP model is more popular than OSI model? #board_2021 
@@ -20,7 +20,7 @@
 	- To run services like DNS, FTP, TELNET, etc.
 14. Describe the function of different types of TCP/IP. #board_2022 
 15. State the differences between TCP/IP and OSI reference model.
-16. With a configuration of TCP/IP show the operation of the following -
+16. With a configuration of TCP/IP show the operation of the following - #board_2021 
 	- action to sender
 	- action to router
 	- action receiver
@@ -32,9 +32,9 @@
 21. Compare the data rates for standard Ethernet, Fast Ethernet, Gigabit Ethernet, and Ten Gigabit Ethernet.
 22. What do you mean by transmission? What can be the different direction of transmission?
 23. VOIP
-24. Hand over process in cellular networks.
+24. What is cellular network? Explain handover process in the cellular networks. #board_2021  
 25. What are the features of cellular mobile.
-26. Is satellite orbit? Briefly discuss satellite technology.
+26. Is satellite orbit? Briefly discuss satellite technology. #board_2021 
 27. Briefly describe about the TCP header format with necessary figure.
 28. What is network software? What are the major parts of it?
 29. VSAT

@@ -1,16 +1,16 @@
 1. What is the purpose of the Address Resolution Protocol (ARP)? Is the size of the ARP packet fixed? Explain
 2. Distinguish between classless and class full IP addressing.
-3. Classify different classes of IP address with its range and also specify the list of all private IP address.
-4. Draw and describe the fields of  IPv4 header format. #board_2022 
+3. Classify different classes of IP address with its range and also specify the list of all private IP address. #board_2021 
+4. Draw and describe the fields of  IPv4 header format. #board_2022 #board_2021 
 5. Draw and describe the fields of IPv6 header format.
 6. IPv6 next headers.
-7. Write the advantages of IPv6 over that IPv4.
+7. Write the advantages of IPv6 over that IPv4. #board_2021 
 8. An organization is granted the block 211.17.180.0/24. The administrator wants to create 32 subnets -
 	- Find the subnet mask.
 	- Find the number of addresses in each subnet.
 	- Find the first and last addresses in subnet 1.
 	- Find the first and last addresses in subnet 32.
-9. An organization is granted the block 220.50.100.0/24. The administrator wants to create 32 subnets -
+9. An organization is granted the block 220.50.100.0/24. The administrator wants to create 32 fixed length subnets -
 	- Find the subnet mask.
 	- Find the number of addresses in each subnet.
 	- Find the first and last addresses in subnet 1.
@@ -22,7 +22,7 @@
 14. Network interface card (NIC).
 15. QoS in multimedia network.
 16. What are the four general techniques to improve quality of service (QoS).
-17. What is traffic shaping in congestion control? Describe traffic shaping algorithm in congestion control.
+17. What is traffic shipping in congestion control? Describe traffic shipping algorithm in congestion control.
 18. Describe the various approaches for controlling network congestion.
 19. Network connecting device.
 20. What is routing? Explain the working principle of any dynamic routing algorithm with a proper example. #board_2022 
