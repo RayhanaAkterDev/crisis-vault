@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-04-30.md",
-                "mode": "preview",
+                "file": "Journal/Daily_Notes/2025-05-01.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-04-30"
+              "title": "2025-05-01"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily_Notes/2025-04-30.md",
+                "file": "Journal/Daily_Notes/2025-05-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-04-30"
+              "title": "Outline of 2025-05-01"
             }
           },
           {
@@ -234,8 +234,9 @@
   },
   "active": "25254b30ddeb9936",
   "lastOpenFiles": [
-    "May Skin Care.md",
     "Journal/Daily_Notes/2025-04-30.md",
+    "Journal/Daily_Notes/2025-05-01.md",
+    "May Skin Care.md",
     "Journal/Daily_Notes/2025-04-27.md",
     "Journal/Weekly_Dashboard/2025-W18.md",
     "Monthly_Schedule/2025-05.md",
@@ -269,7 +270,6 @@
     "Theory of Computation/Chapter 1 - Language Theory - Copy (5)/Untitled.md",
     "Theory of Computation/Chapter 1 - Language Theory - Copy (4)/Untitled.md",
     "Theory of Computation/Chapter 1 - Language Theory - Copy (3)/Untitled.md",
-    "Theory of Computation/Chapter 1 - Language Theory - Copy (2)/Untitled.md",
     "Pasted image 20250428180437.png",
     "Untitled.canvas"
   ]
