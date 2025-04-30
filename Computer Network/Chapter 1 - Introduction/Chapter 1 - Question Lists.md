@@ -36,5 +36,10 @@
 26. Briefly describe about the TCP header format with necessary figure.
 27. What is network software? What are the major parts of it?
 28. VSAT
-29. Describe the function of each layer of the TCP/IP model.
-30. Show how to provide communication to the top layer of fiv
+29. An end system sends 50 packets per seconds data using the user data gram protocol over a full duplex 100 mbps ethernet; An connection each packet consists 1500 B of ethernet frame pay load data what is the throughput, when measure at the UDP layer.
+30. Describe the function of each layer of the TCP/IP model.
+31. Show how to provide communication to the top layer of five layer network.
+32. Describe the OSI layers which handle each of the following -
+	- Breaking the transmitted bit stream into frame
+	- Determine the which router through the subnet is used
+33. Define intranet, extranet, & the internet.
