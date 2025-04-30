@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
+                "file": "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3 - Question Lists"
+              "title": "Chapter 2 - Question Lists"
             }
           },
           {
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "top",
+                "query": "software analy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -275,11 +275,11 @@
   },
   "active": "0f9213d6b20963ea",
   "lastOpenFiles": [
-    "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
-    "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
-    "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
     "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
+    "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
+    "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
     "Software Engineering/Chapter 4 - Software Testing Technique and Strategies/Chapter 4 - Question Lists.md",
+    "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
     "Software Engineering/Non-Chapter  Questions.md",
     "Journal/Daily_Notes/2025-04-29.md",
     "Journal/Daily_Notes/2025-04-30.md",
