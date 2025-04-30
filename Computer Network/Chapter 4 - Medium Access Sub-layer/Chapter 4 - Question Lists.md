@@ -7,4 +7,7 @@
 7. Differentiate between hard handoff and soft handoff procedure.
 8. Write down two problems in 802.11 MAC sub layer protocol.
 9. Compare IEEE802.11 with IEEE802.16.
-10. 
+10. WiMaX(802.16)
+11. WIFI
+12. Communication medium.
+13. Discuss in detail about the wireless LAN MAC sub layers.
