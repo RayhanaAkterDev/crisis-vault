@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "356db19477db6853",
+        "id": "3d860b0a9374f621",
         "type": "tabs",
         "children": [
           {
-            "id": "ba282ca9f1ff1006",
+            "id": "25254b30ddeb9936",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory of Computation/Chapter 1 - Language Theory/Chapter 1 - Question Lists.md",
+                "file": "Monthly_Schedule/2025-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Question Lists"
+              "title": "2025-04"
             }
           }
         ]
@@ -218,10 +218,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ba282ca9f1ff1006",
+  "active": "25254b30ddeb9936",
   "lastOpenFiles": [
-    "Journal/Daily_Notes/2025-04-30.md",
+    "Monthly_Schedule/2025-05.md",
+    "Monthly_Schedule/2025-04.md",
     "Theory of Computation/Chapter 1 - Language Theory/Chapter 1 - Question Lists.md",
+    "Journal/Daily_Notes/2025-04-30.md",
     "Theory of Computation/Chapter 9 - Undesirability & Intractable Problems/Chapter 9 - Question Lists.md",
     "Theory of Computation/Chapter 8 - Mealy machine and Moore machine/Chapter 8 - Question Lists.md",
     "Theory of Computation/Chapter 7 - Turing Machine/Chapter 7 - Question Lists.md",
@@ -254,8 +256,6 @@
     "Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists.md",
     "Computer Network/Chapter 7 - Application Layer/Chapter 7 - Question Lists.md",
     "Computer Network/Chapter 5 - Network Layer/Chapter 5 - Question Lists.md",
-    "Computer Network/Chapter 3 - ATM Networks/Chapter 3 - Question Lists.md",
-    "Computer Network/Non-Chapter Questions.md",
     "Pasted image 20250428180437.png",
     "Untitled.canvas"
   ]

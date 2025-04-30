@@ -21,4 +21,6 @@
 	4. Grammar of language
 5. What is deductive and inductive proof?
 6. Using mathematical induction prove that for all $$ N \geq 0, \sum_{I=0}^{N} I^2 = \frac{N(N+1)(2N+1)}{6} $$
-7. Prove the theorem if $$ X\geq4, then  2^x \geq x^2 $$
+7. Prove the theorem if $$ X\geq4, \quad \text{then} \quad 2^x \geq x^2 $$ (Using deductive proof)
+8. What is binary relation? Write properties of relations.
+9. Exam kit Question No. 10 and 11.
