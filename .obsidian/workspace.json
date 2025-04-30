@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Monthly_Schedule/2025-05.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "50297d8c1b5ada63",
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,9 +220,9 @@
   },
   "active": "25254b30ddeb9936",
   "lastOpenFiles": [
-    "Templates/weekly_template.md",
-    "Monthly_Schedule/2025-05.md",
     "Monthly_Schedule/2025-04.md",
+    "Monthly_Schedule/2025-05.md",
+    "Templates/weekly_template.md",
     "Templates/monthly_template.md",
     "Theory of Computation/Chapter 1 - Language Theory/Chapter 1 - Question Lists.md",
     "Journal/Daily_Notes/2025-04-30.md",
