@@ -8,13 +8,13 @@
 8. Describe the checklist software testability. #board_2021 
 9. What do you mean by white-box-testing?
 10. Define black box testing with diagram.
-11. Write short notes on: Integration testing.
-12. Why is verification and validation important in testing?
-13. Distinguish between white box testing and black box testing. #board_2022 
+11. Write short notes on: Integration testing. #board_2020 
+12. Why is verification and validation important in software testing? #board_2020 
+13. Distinguish between white box testing and black box testing. #board_2022 #board_2020 
 14. Define alpha and beta testing. #board_2022 
 15. Distinguish between alpha and beta testing.
 16. Distinguish between validation and verification. #board_2022 
 17. What is cyclomatic complexity? #board_2021 
 18. How to compute the cyclomatic complexity in order to find the number of independent paths with examples. #board_2021 
 19. Describe basic path of testing.
-20. Define code walkthrough and code inspection.
+20. Define code walkthrough and code inspection. #board_2020 
