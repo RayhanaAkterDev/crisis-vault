@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b1e0ca60e1504fa9",
+        "id": "c316e39302d8da8d",
         "type": "tabs",
         "children": [
           {
-            "id": "444b025886e9a977",
+            "id": "3ddfbc4d8176b91b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-04-29.md",
+                "file": "Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-29"
+              "title": "Chapter 1 - Question Lists"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Chapter 1 - Question Lists"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Chapter 1 - Question Lists"
             }
           },
           {
@@ -143,37 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
-            }
-          },
-          {
-            "id": "b7d98bc6e87dad72",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "64e758f8e94b0e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily_Notes/2025-04-28.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-28"
+              "title": "Outline of Chapter 1 - Question Lists"
             }
           },
           {
@@ -195,19 +170,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "266a58c3fd6d26e2",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "50297d8c1b5ada63",
@@ -243,44 +208,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e018a2845a507435",
+  "active": "3ddfbc4d8176b91b",
   "lastOpenFiles": [
+    "Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists.md",
+    "Computer Network/Chapter 7 - Application Layer/Chapter 7 - Question Lists.md",
+    "Computer Network/Chapter 6 - Optical Fiber Network/Chapter 6 - Question Lists.md",
+    "Computer Network/Chapter 5 - Network Layer/Chapter 5 - Question Lists.md",
+    "Computer Network/Chapter 4 - Medium Access Sub-layer/Chapter 4 - Question Lists.md",
+    "Computer Network/Chapter 3 - ATM Networks/Chapter 3 - Question Lists.md",
+    "Computer Network/Chapter 2 - Frame Relay/Chapter 2 - Question Lists.md",
+    "Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists.md",
+    "Computer Network/Chapter 7 - Application Layer",
+    "Computer Network/Chapter 6 - Optical Fiber Network",
+    "Computer Network/Chapter 5 - Network Layer",
+    "Computer Network/Chapter 4 - Medium Access Sub-layer",
+    "Computer Network/Chapter 3 - ATM Networks",
+    "Computer Network/Chapter 2 - Frame Relay - Copy (5)/Untitled.md",
+    "Computer Network/Chapter 2 - Frame Relay - Copy (5)",
+    "Computer Network/Chapter 2 - Frame Relay - Copy (4)/Untitled.md",
+    "Computer Network/Chapter 2 - Frame Relay - Copy (4)",
+    "Computer Network/Chapter 2 - Frame Relay - Copy (3)/Untitled.md",
+    "Computer Network/Chapter 2 - Frame Relay - Copy (3)",
+    "Computer Network/Chapter 2 - Frame Relay - Copy (2)/Untitled.md",
+    "Computer Network/Chapter 2 - Frame Relay - Copy (2)",
+    "Computer Network/Chapter 2 - Frame Relay - Copy/Untitled.md",
+    "Computer Network/Chapter 2 - Frame Relay - Copy",
+    "Computer Network/Chapter 1 - Introduction - Copy/Untitled.md",
+    "Journal/Daily_Notes/2025-04-28.md",
+    "Untitled 1.md",
+    "Journal/Daily_Notes/2025-04-29.md",
     "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
     "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
     "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
     "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
     "Software Engineering/Non-Chapter  Questions.md",
     "Software Engineering/Chapter 4 - Software Testing Technique and Strategies/Chapter 4 - Question Lists.md",
-    "Journal/Daily_Notes/2025-04-29.md",
     "Journal/Daily_Notes/2025-04-30.md",
-    "Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists.md",
     "Software Engineering/Software Engineering Questions By Pouly Bhumic.md",
-    "Untitled.md",
     "Embedded System Programming/Non-Chapter Questions.md",
-    "Embedded System Programming/Chapter 9 - Linker & Loader/Chapter 9 - Question Lists.md",
-    "Embedded System Programming/Chapter 8 - Compiler & Assembler/Chapter 8 - Question Lists.md",
-    "Embedded System Programming/Chapter 7 - XML/Chapter 7 - Question Lists.md",
-    "Embedded System Programming/Chapter 6 - WWW, Kernel, ASP/Chapter 6 - Question Lists.md",
-    "Embedded System Programming/Chapter 5 - Multithread, XSLT/Chapter 5 - Question Lists.md",
-    "Embedded System Programming/Chapter 4 - Web server and API/Chapter 4 - Question Lists.md",
-    "Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
-    "Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
-    "Software Engineering/Chapter 5 - Software Management and Maintenance Technique",
-    "Software Engineering/Chapter 4 - Software Testing Technique and Strategies",
-    "Software Engineering/Chapter 3 - Software Design Fundamentals",
-    "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals",
-    "Software Engineering/Chapter - 1 - Copy (3)/desktop.ini",
-    "Software Engineering/Chapter - 1 - Copy (4)/Chapter 1 - Question Lists.md",
-    "Software Engineering/Chapter - 1 - Copy (4)",
-    "Software Engineering/Chapter - 1 - Copy (3)/Chapter 1 - Question Lists.md",
-    "Software Engineering/Chapter - 1 - Copy (3)",
-    "Software Engineering/Chapter - 1 - Copy (2)/Chapter 1 - Question Lists.md",
-    "Software Engineering/Chapter - 1 - Copy (2)",
-    "Software Engineering/Chapter - 1 - Copy/Chapter 1 - Question Lists.md",
-    "Software Engineering/Chapter - 1 - Copy",
-    "Software Engineering/Chapter 1 - Software Engineering Paradigms",
-    "Journal/Daily_Notes/2025-04-28.md",
-    "Templates/daily_template.md",
     "Pasted image 20250428180437.png",
     "Untitled.canvas"
   ]
