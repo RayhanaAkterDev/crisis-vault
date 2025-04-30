@@ -1,6 +1,6 @@
 1. What is testing? #board_2022 
 2. Why is testing necessary for Software Development? #board_2021 #board_2019 
-3. What are the major components of system-testing? Explain. #board_2021 
+3. What are the major components of system-testing? Explain. (Mention their necessity) #board_2021 #board_2019 
 4. What is the objective of testing? #board_2022 
 5. What is software testing strategy? #board_2022 
 6. What are the testing principles the software engineering must apply while performing the software testing.
