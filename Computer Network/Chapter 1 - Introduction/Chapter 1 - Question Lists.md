@@ -18,7 +18,7 @@
 	- To convert packet to frame
 	- To detect and correct errors
 	- To run services like DNS, FTP, TELNET, etc.
-14. Describe the function of different types of TCP/IP. #board_2022 
+14. Describe the function of different layers / types of TCP/IP. #board_2022 #board_2020 
 15. State the differences between TCP/IP and OSI reference model.
 16. With a configuration of TCP/IP show the operation of the following - #board_2021 
 	- action to sender
@@ -35,13 +35,13 @@
 24. What is cellular network? Explain handover process in the cellular networks. #board_2021  
 25. What are the features of cellular mobile.
 26. Is satellite orbit? Briefly discuss satellite technology. #board_2021 
-27. Briefly describe about the TCP header format with necessary figure.
+27. Describe TCP header format. #board_2020 
 28. What is network software? What are the major parts of it?
 29. VSAT
-30. An end system sends 50 packets per seconds data using the user data gram protocol over a full duplex 100 mbps ethernet; An connection each packet consists 1500 B of ethernet frame pay load data what is the throughput, when measure at the UDP layer.
+30. An end system sends 50 packets per seconds data using the user data gram protocol over a full duplex 100 mbps ethernet; An connection each packet consists 1500 B of ethernet frame pay load data what is the throughput, when measure at the UDP layer. #board_2020 
 31. Describe the function of each layer of the TCP/IP model.
-32. Show how to provide communication to the top layer of five layer network.
-33. Describe the OSI layers which handle each of the following -
+32. Show how to provide communication to the top layer of five layer network. #board_2020 
+33. Describe the OSI layers which handle each of the following - #board_2020 
 	- Breaking the transmitted bit stream into frame
 	- Determine the which router through the subnet is used
 34. Define intranet, extranet, & the internet. #board_2022 

@@ -6,10 +6,10 @@
 5. Explain briefly different methods used by HTTP protocol.
 6. Compare the way SMTP and GTTP transmit the images, which one do you think is more efficient? Why?
 7. SNMP;
-8. What is cryptography. #board_2022  
+8. What is cryptography. #board_2022 #board_2020 
 9. Why cryptography is needed in networking?
 10. What is the key idea used in public key encryption system?
 11. What are the advantages and disadvantages of public key encryption? #board_2021 
 12. What are the common threats to network security?
-13. How is a secret key different from public key? #board_2022 
-14. Describe the method of cryptography process. #board_2022 
+13. How is a secret key different from public key? #board_2022 #board_2020 
+14. Describe the method of cryptography process. #board_2022 #board_2020 
