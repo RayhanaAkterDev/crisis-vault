@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Non-Chapter  Questions.md",
+                "file": "Journal/Daily_Notes/2025-04-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Non-Chapter  Questions"
+              "title": "2025-04-30"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "structure coding",
+                "query": "top",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -249,14 +249,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0f9213d6b20963ea",
+  "active": "e343bbecbede4c4c",
   "lastOpenFiles": [
-    "Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists.md",
-    "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
-    "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
-    "Software Engineering/Chapter 4 - Software Testing Technique and Strategies/Chapter 4 - Question Lists.md",
-    "Software Engineering/Non-Chapter  Questions.md",
     "Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
+    "Journal/Daily_Notes/2025-04-30.md",
+    "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
+    "Software Engineering/Non-Chapter  Questions.md",
+    "Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
+    "Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists.md",
+    "Software Engineering/Chapter 4 - Software Testing Technique and Strategies/Chapter 4 - Question Lists.md",
     "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
     "Software Engineering/Software Engineering Questions By Pouly Bhumic.md",
     "Journal/Daily_Notes/2025-04-29.md",
@@ -286,7 +287,6 @@
     "Software Engineering/Chapter 1 - Software Engineering Paradigms",
     "Journal/Daily_Notes/2025-04-28.md",
     "Templates/daily_template.md",
-    "Templates/monthly_template.md",
     "Pasted image 20250428180437.png",
     "Untitled.canvas"
   ]

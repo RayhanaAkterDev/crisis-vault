@@ -12,12 +12,13 @@
 12. describe model view controller (MVC) architecture in detail. #board_2022 
 13. What is the user interface?
 14. Explain the principles of user interface design.
-15. Write short note on: Data flow diagram.
+15. Write short note on: Data flow diagram. #board_2021 #short_note 
 16. Cohesion should be high, coupling should be low. - Why?
 17. Describe the rules to beat OF DFD with examples. 
 18. Differentiate horizontal and vertical partitioning.
-19. Write short notes on top-down and bottom-up design.
-20. Write down pros and cons of top down integration testing.
-21. Distinguish between top-down and bottom up design.
-22. Explain some of the criteria that are used to define effective modular design. #board_2022 
-23. Differentiate between object oriented and function oriented and function oriented design.
+19. Write short notes on top-down and bottom-up design. #short_note 
+20. Write short notes on: top-down and bottom-up integration testing. #board_2021 #short_note 
+21. Write down pros and cons of top down integration testing.
+22. Distinguish between top-down and bottom up design.
+23. Explain some of the criteria that are used to define effective modular design. #board_2022 
+24. Differentiate between object oriented and function oriented and function oriented design.
