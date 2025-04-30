@@ -11,4 +11,4 @@
 11. Draw and explain a use-case diagram for an e-commerce system. #board_2017 
 12. Mention some guidelines for conducting a collaborative requirement gathering meeting. #board_2022 
 13. Explain different types of check factors carried out during requirement validation. #board_2022 
-14. Write short note on class diagram. #board_2022 
+14. Write short note on class diagram. #board_2022 #board_2017 

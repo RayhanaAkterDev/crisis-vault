@@ -1,6 +1,6 @@
 1. What is testing? #board_2022 
-2. Why is testing necessary for Software Development? #board_2021 #board_2019 
-3. What are the major components of system-testing? Explain. (Mention their necessity) #board_2021 #board_2019 
+2. Why is testing necessary for Software Development? #board_2021 #board_2019 #board_2017 
+3. What are the major components of system-testing? Explain. (Mention their necessity) #board_2021 #board_2019 #board_2017 
 4. What is the objective of testing? #board_2022 #board_2018 
 5. What is software testing strategy? #board_2022 
 6. What are the testing principles the software engineering must apply while performing the software testing. #board_2018 
@@ -18,4 +18,4 @@
 17. What is cyclomatic complexity? #board_2021 #board_2019 
 18. How to compute the cyclomatic complexity in order to find the number of independent paths with examples. #board_2021 #board_2019 
 19. Describe basic path of testing.
-20. Define code walkthrough and code inspection. #board_2020 
+20. Define code walkthrough and code inspection. #board_2020 #board_2017 
