@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "May Skin Care.md",
-                "mode": "preview",
+                "file": "Journal/Daily_Notes/2025-04-30.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "May Skin Care"
+              "title": "2025-04-30"
             }
           },
           {
@@ -236,9 +236,9 @@
   },
   "active": "25254b30ddeb9936",
   "lastOpenFiles": [
+    "May Skin Care.md",
     "Journal/Daily_Notes/2025-04-27.md",
     "Journal/Weekly_Dashboard/2025-W18.md",
-    "May Skin Care.md",
     "Monthly_Schedule/2025-05.md",
     "Journal/Daily_Notes/2025-04-30.md",
     "Monthly_Schedule/2025-04.md",

@@ -27,75 +27,67 @@
 >[!multi-column]
 >
 >> **Week 1 – Daily Routine:**
->> - **Daily Tasks** -
->> 	- **Day 1:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize with Gram Flour and Yogurt Mask
->> - **Special Treatments**:
->> 	- **Exfoliate with Coffee and Honey Scrub** once a week
->> - **Focus Areas**:
->> 	- Reduce dark spots, smooth fine lines, and treat acne scars
->
->> **Goal 2:** **Clear Acne & Age-Related Signs**
->> - **Daily Tasks**:
->> 	- Apply **Holud Gura and Honey Mask** every night to treat pigmentation and acne scars
->> 	- Apply **Lemon Juice** with a cotton pad after cleansing
->> 	- **Moisturize** with Gram Flour and Yogurt Mask to keep skin hydrated
->> - **Special Treatments**:
->> 	- Use **Holud Gura (Turmeric)** for its antibacterial properties on affected areas.
->
-
-
->> [!abstract] **📅 Daily Skin Care Routine:**
+>> - **Day 1:**
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize with Gram Flour and Yogurt Mask
+>>     
+>> - **Day 2:**
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>>     
+>> - **Day 3:**
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
+>> 	
+>> - **Day 4:**
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>> 	  
+>> - **Day 5:**
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
+>> 	   
+>> - **Day 6:**
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>> 	
+>> - **Day 7:**
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, exfoliate with Coffee and Honey Scrub (once a week), moisturize
 >
 >> **Week 1 – Daily Routine:**
 >> - **Day 1:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize with Gram Flour and Yogurt Mask
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize with Gram Flour and Yogurt Mask
+>>     
 >> - **Day 2:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>>     
 >> - **Day 3:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
+>> 	
 >> - **Day 4:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>> 	  
 >> - **Day 5:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
+>> 	   
 >> - **Day 6:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>> 	
 >> - **Day 7:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, exfoliate with Coffee and Honey Scrub (once a week), moisturize
->
->> ---
->> **Week 2 – Daily Routine:**
->> - **Day 8:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
->> - **Day 9:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
->> - **Day 10:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
->> - **Day 11:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
->> - **Day 12:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
->> - **Day 13:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
->> - **Day 14:**
->>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->>   - **Night**: Cleanse, exfoliate with Coffee and Honey Scrub, moisturize
->
->> ---
+>> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Night**: Cleanse, exfoliate with Coffee and Honey Scrub (once a week), moisturize
+
+
+
+---
+
 >> **Week 3 – Daily Routine:**
 >> Follow the same pattern as Week 1 and Week 2. Adjust the **frequency of masks** based on skin response.  
 >> - If skin feels drier, apply **Gram Flour and Yogurt Mask** more frequently.  
