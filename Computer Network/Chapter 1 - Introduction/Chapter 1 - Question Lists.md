@@ -35,7 +35,7 @@
 22. Compare the data rates for standard Ethernet, Fast Ethernet, Gigabit Ethernet, and Ten Gigabit Ethernet.
 23. What do you mean by transmission? What can be the different direction of transmission?
 24. VOIP
-25. Expert frequency refuse EF cellular netw
+25. Expert frequency refuse EF cellular network. #board_2019 
 26. What is cellular network? Explain handover process in the cellular networks. #board_2021  
 27. What are the features of cellular mobile.
 28. What is satellite orbit? Briefly discuss satellite technology. #board_2021 #board_2019 
