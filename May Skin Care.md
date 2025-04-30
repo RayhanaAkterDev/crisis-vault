@@ -143,3 +143,14 @@
 ---
 
 > **End of Routine**
+
+### 🟢 Day 2 – **Brightening + Oil Control**
+
+- **Morning:**  
+      ⤷ Face wash  
+      ⤷ Apply _Besan + Turmeric + Lemon Juice_ pack (5–7 min only)
+    
+- **Night:**  
+      ⤷ Cleanse  
+      ⤷ Moisturize  
+      ⤷ Ice cube rub (optional for open pores)
