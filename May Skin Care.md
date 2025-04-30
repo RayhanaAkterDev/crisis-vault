@@ -28,7 +28,9 @@
 >
 >> **Week 1 – Daily Routine:**
 >> - **Day 1:**
->> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>> 	  - **Morning**: 
+>> 		  - চালের গুঁড়া ও টক দই মিশিয়ে স্ক্রাব করুন, তারপর পানি দিয়ে ধুয়ে ফেলুন।
+>> 		  - লেবুর রস ও পানি মিশিয়ে তুলা দিয়ে মুখে লাগান। ৫–৭ মিনিট পর ধুয়ে ফেলুন।
 >> 	  - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize with Gram Flour and Yogurt Mask
 >>     
 >> - **Day 2:**
@@ -88,23 +90,26 @@
 
 ---
 
->> **Week 3 – Daily Routine:**
->> Follow the same pattern as Week 1 and Week 2. Adjust the **frequency of masks** based on skin response.  
->> - If skin feels drier, apply **Gram Flour and Yogurt Mask** more frequently.  
->> - If skin feels too sensitive, reduce the **Lemon Juice** use to every other day.
->
->> ---
->> **Week 4 – Daily Routine:**
->> - Continue following the same routine from the previous weeks, focusing on consistency.  
->> - Use **Holud Gura (Turmeric)** for acne spots and pigmentation.
->
->> ---
->> [!abstract] **🥗 Additional Tips:**
->> - **Hydrate**: Drink at least 8 glasses of water daily to keep skin moisturized from within.
->> - **Diet**: Focus on eating fruits, vegetables, and foods rich in vitamins (A, C, E).
->> - **Sleep**: Ensure 7-8 hours of sleep for skin regeneration.
->> - **Stress Management**: Engage in stress-relieving activities like light exercise, reading, or relaxation techniques.
->> - **Progress Tracking**: Track changes in your skin condition using Obsidian notes and adjust routine as needed.
->
->> ---
->> **End of Routine**
+> **Week 3 – Daily Routine:**
+> Follow the same pattern as Week 1 and Week 2. Adjust the **frequency of masks** based on skin response.  
+> - If skin feels drier, apply **Gram Flour and Yogurt Mask** more frequently.  
+> - If skin feels too sensitive, reduce the **Lemon Juice** use to every other day.
+
+---
+ 
+> **Week 4 – Daily Routine:**
+> - Continue following the same routine from the previous weeks, focusing on consistency.  
+> - Use **Holud Gura (Turmeric)** for acne spots and pigmentation.
+
+---
+ 
+> [!abstract] **🥗 Additional Tips:**
+> - **Hydrate**: Drink at least 8 glasses of water daily to keep skin moisturized from within.
+> - **Diet**: Focus on eating fruits, vegetables, and foods rich in vitamins (A, C, E).
+> - **Sleep**: Ensure 7-8 hours of sleep for skin regeneration.
+> - **Stress Management**: Engage in stress-relieving activities like light exercise, reading, or relaxation techniques.
+> - **Progress Tracking**: Track changes in your skin condition using Obsidian notes and adjust routine as needed.
+
+---
+
+> **End of Routine**

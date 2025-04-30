@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-04-30.md",
+                "file": "May Skin Care.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-04-30"
+              "title": "May Skin Care"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "right": {
     "id": "8f112ace402a832e",
@@ -217,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,11 +234,11 @@
   },
   "active": "25254b30ddeb9936",
   "lastOpenFiles": [
+    "Journal/Daily_Notes/2025-04-30.md",
     "May Skin Care.md",
     "Journal/Daily_Notes/2025-04-27.md",
     "Journal/Weekly_Dashboard/2025-W18.md",
     "Monthly_Schedule/2025-05.md",
-    "Journal/Daily_Notes/2025-04-30.md",
     "Monthly_Schedule/2025-04.md",
     "Templates/weekly_template.md",
     "Templates/monthly_template.md",
