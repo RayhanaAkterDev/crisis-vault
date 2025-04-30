@@ -1,31 +1,50 @@
-> [!multi-column] **🧴 One-Month Skin Care Routine:**
+# 🌼One-Month Skin Care Routine
+>[!multi-column]
 >
->> [!abstract] **Goal 1:** **Improve Skin Health & Reduce Dark Spots**
->> - **Daily Tasks**: 
->> 	- **Exfoliate** with Rice Flour and Yogurt Scrub 
+>> **Goal 1:** **Improve Skin Health & Reduce Dark Spots**
+>> - **Daily Tasks** -
+>> 	- **Exfoliate** with Rice Flour and Yogurt Scrub
 >> 	- **Tone** with Lemon Juice and Water (for natural toning)
->> 	  - **Hydrate** with Gram Flour and Yogurt Mask or Honey Mask
->> 	    
->> - **Special Treatments**: 
+>> 	- **Hydrate** with Gram Flour and Yogurt Mask or Honey Mask
+>> - **Special Treatments**:
 >> 	- **Exfoliate with Coffee and Honey Scrub** once a week
->> 	  
->> - **Focus Areas**: 
+>> - **Focus Areas**:
 >> 	- Reduce dark spots, smooth fine lines, and treat acne scars
->> 	  
->> - **Progress Tracking**: Track progress using Obsidian notes for skin condition.
 >
-> ---
-> 
->> [!abstract] **Goal 2:** **Clear Acne & Age-Related Signs**
->> - **Daily Tasks**: 
+>> **Goal 2:** **Clear Acne & Age-Related Signs**
+>> - **Daily Tasks**:
 >> 	- Apply **Holud Gura and Honey Mask** every night to treat pigmentation and acne scars
 >> 	- Apply **Lemon Juice** with a cotton pad after cleansing
->> 	  
->> - **Moisturize** with Gram Flour and Yogurt Mask to keep skin hydrated
+>> 	- **Moisturize** with Gram Flour and Yogurt Mask to keep skin hydrated
 >> - **Special Treatments**:
 >> 	- Use **Holud Gura (Turmeric)** for its antibacterial properties on affected areas.
+>
 
- ---
+---
+
+## 📅 Daily Skin Care Routine
+
+>[!multi-column]
+>
+>> **Week 1 – Daily Routine:**
+>> - **Daily Tasks** -
+>> 	- **Day 1:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize with Gram Flour and Yogurt Mask
+>> - **Special Treatments**:
+>> 	- **Exfoliate with Coffee and Honey Scrub** once a week
+>> - **Focus Areas**:
+>> 	- Reduce dark spots, smooth fine lines, and treat acne scars
+>
+>> **Goal 2:** **Clear Acne & Age-Related Signs**
+>> - **Daily Tasks**:
+>> 	- Apply **Holud Gura and Honey Mask** every night to treat pigmentation and acne scars
+>> 	- Apply **Lemon Juice** with a cotton pad after cleansing
+>> 	- **Moisturize** with Gram Flour and Yogurt Mask to keep skin hydrated
+>> - **Special Treatments**:
+>> 	- Use **Holud Gura (Turmeric)** for its antibacterial properties on affected areas.
+>
+
 
 >> [!abstract] **📅 Daily Skin Care Routine:**
 >
