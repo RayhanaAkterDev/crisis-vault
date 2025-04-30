@@ -9,7 +9,7 @@
 6. Discuss different types of network topologies.
 7. Draw a hybrid topology with a star backbone and a star networks.
 8. What is IoT?
-9. What is protocol?
+9. What is protocol? #
 10. What are the key elements of protocols?
 11. Explain the seven layers of OSI system with diagram.
 12. Why TCP/IP model is more popular than OSI model?
