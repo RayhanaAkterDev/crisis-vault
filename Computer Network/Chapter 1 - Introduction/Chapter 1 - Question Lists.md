@@ -1,3 +1,40 @@
 1. What is computer network. #board_2021 #board_2018 #board_2017 
 2. How does computer network differ from the distributed system? #board_2021 #board_2018 
 3. Write down some of the design issues that should be considered for an efficient network. #board_2017 
+4. Briefly explain -
+	- LAN
+	- WAN
+	- MAN
+5. Define topology.
+6. Discuss different types of network topologies.
+7. Draw a hybrid topology with a star backbone and a star networks.
+8. What is IoT?
+9. What is protocol?
+10. What are the key elements of protocols?
+11. Explain the seven layers of OSI system with diagram.
+12. Why TCP/IP model is more popular than OSI model?
+13. Which layer OSI is used for the following -
+	- To route packets
+	- To convert packet to frame
+	- To detect and correct errors
+	- To run services like DNS, FTP, TELNET, etc.
+14. State the differences between TCP/IP and OSI reference model.
+15. With a configuration of TCP/IP show the operation of the following -
+	- action to sender
+	- action to router
+	- action receiver
+16. What do you mean by multicasting and multiple unicasting?
+17. What is the difference between unicast, multicast and broadcast address.
+18. Distinguish between connection oriented and connectionless network service.
+19. Give a brief description of X.265 network system.
+20. Compare the data rates for standard Ethernet, Fast Ethernet, Gigabit Ethernet, and Ten Gigabit Ethernet.
+21. What do you mean by transmission? What can be the different direction of transmission?
+22. VOIP
+23. Hand over process in cellular networks.
+24. What are the features of cellular mobile.
+25. Is satellite orbit? Briefly discuss satellite technology.
+26. Briefly describe about the TCP header format with necessary figure.
+27. What is network software? What are the major parts of it?
+28. VSAT
+29. Describe the function of each layer of the TCP/IP model.
+30. Show how to provide communication to the top layer of fiv
