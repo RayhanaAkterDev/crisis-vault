@@ -40,6 +40,20 @@
             }
           },
           {
+            "id": "6397747def00b0df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "402 - Numerical Analysis/Set - 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set - 1"
+            }
+          },
+          {
             "id": "cce7b8d9678d8b49",
             "type": "leaf",
             "pinned": true,
@@ -61,16 +75,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Weekly_Dashboard/2025-W18.md",
+                "file": "401 - Algorithm Design and Analysis/Chapter - 1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-W18"
+              "title": "Chapter - 1"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 271.5
   },
   "right": {
     "id": "8f112ace402a832e",
@@ -251,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,13 +281,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "45784ee1228c9d8e",
+  "active": "47ea861f99b6047e",
   "lastOpenFiles": [
-    "Monthly_Schedule/2025-05.md",
-    "Algorithm Design and Analysis/Chapter - 1.md",
+    "402 - Numerical Analysis/Set - 1.md",
     "Journal/Weekly_Dashboard/2025-W18.md",
-    "Numerical Analysis",
-    "Algorithm Design and Analysis",
+    "401 - Algorithm Design and Analysis/Chapter - 1.md",
+    "Monthly_Schedule/2025-05.md",
+    "402 - Numerical Analysis",
+    "401 - Algorithm Design and Analysis",
     "May Skin Care.md",
     "Journal/Daily_Notes/2025-05-01.md",
     "Journal/Daily_Notes/2025-04-30.md",
@@ -281,30 +296,29 @@
     "Monthly_Schedule/2025-04.md",
     "Templates/weekly_template.md",
     "Templates/monthly_template.md",
-    "Theory of Computation/Chapter 1 - Language Theory/Chapter 1 - Question Lists.md",
-    "Theory of Computation/Chapter 9 - Undesirability & Intractable Problems/Chapter 9 - Question Lists.md",
-    "Theory of Computation/Chapter 8 - Mealy machine and Moore machine/Chapter 8 - Question Lists.md",
-    "Theory of Computation/Chapter 7 - Turing Machine/Chapter 7 - Question Lists.md",
-    "Theory of Computation/Chapter 6 - Pumping lemma and its applications/Chapter 6 - Question Lists.md",
-    "Theory of Computation/Chapter 5 - Context Free Languages and Grammers/Chapter 5 - Question Lists.md",
-    "Theory of Computation/Chapter 4 - Push Down Automata/Chapter 4 - Question Lists.md",
-    "Theory of Computation/Chapter 3 - Regular expressions and its properties/Chapter 3 - Question Lists.md",
-    "Theory of Computation/Chapter 2 - Finite Automata/Chapter 2 - Question Lists.md",
-    "Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
-    "Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
-    "Theory of Computation/Chapter 9 - Undesirability & Intractable Problems",
-    "Theory of Computation/Chapter 8 - Mealy machine and Moore machine",
-    "Theory of Computation/Chapter 7 - Turing Machine",
-    "Theory of Computation/Chapter 6 - Pumping lemma and its applications",
-    "Theory of Computation/Chapter 5 - Context Free Languages and Grammers",
-    "Theory of Computation/Chapter 4 - Push Down Automata",
-    "Theory of Computation/Chapter 3 - Regular expressions and its properties",
-    "Theory of Computation/Chapter 2 - Finite Automata",
+    "604 - Theory of Computation/Chapter 1 - Language Theory/Chapter 1 - Question Lists.md",
+    "604 - Theory of Computation/Chapter 9 - Undesirability & Intractable Problems/Chapter 9 - Question Lists.md",
+    "604 - Theory of Computation/Chapter 8 - Mealy machine and Moore machine/Chapter 8 - Question Lists.md",
+    "604 - Theory of Computation/Chapter 7 - Turing Machine/Chapter 7 - Question Lists.md",
+    "604 - Theory of Computation/Chapter 6 - Pumping lemma and its applications/Chapter 6 - Question Lists.md",
+    "604 - Theory of Computation/Chapter 5 - Context Free Languages and Grammers/Chapter 5 - Question Lists.md",
+    "604 - Theory of Computation/Chapter 4 - Push Down Automata/Chapter 4 - Question Lists.md",
+    "604 - Theory of Computation/Chapter 3 - Regular expressions and its properties/Chapter 3 - Question Lists.md",
+    "604 - Theory of Computation/Chapter 2 - Finite Automata/Chapter 2 - Question Lists.md",
+    "601 - Software Engineering/Chapter 2 - Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
+    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
+    "604 - Theory of Computation/Chapter 9 - Undesirability & Intractable Problems",
+    "604 - Theory of Computation/Chapter 8 - Mealy machine and Moore machine",
+    "604 - Theory of Computation/Chapter 7 - Turing Machine",
+    "604 - Theory of Computation/Chapter 6 - Pumping lemma and its applications",
+    "604 - Theory of Computation/Chapter 5 - Context Free Languages and Grammers",
+    "604 - Theory of Computation/Chapter 4 - Push Down Automata",
+    "604 - Theory of Computation/Chapter 3 - Regular expressions and its properties",
+    "604 - Theory of Computation/Chapter 2 - Finite Automata",
     "Theory of Computation/Chapter 1 - Language Theory - Copy (8)/Untitled.md",
     "Theory of Computation/Chapter 1 - Language Theory - Copy (7)/Untitled.md",
     "Theory of Computation/Chapter 1 - Language Theory - Copy (6)/Untitled.md",
     "Theory of Computation/Chapter 1 - Language Theory - Copy (5)/Untitled.md",
-    "Theory of Computation/Chapter 1 - Language Theory - Copy (4)/Untitled.md",
     "Pasted image 20250428180437.png",
     "Untitled.canvas"
   ]
