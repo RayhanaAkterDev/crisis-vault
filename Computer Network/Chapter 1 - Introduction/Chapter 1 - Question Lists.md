@@ -27,7 +27,7 @@
 17. What do you mean by multicasting and multiple unicasting?
 	- What is multicasting? #board_2022 
 18. What is the difference between unicast, multicast and broadcast address.
-19. Distinguish between connection oriented and connectionless network service. #board_2022 
+19. Distinguish between connection oriented and connectionless network service. #board_2022 #board_2021 
 20. Give a brief description of X.265 network system.
 21. Compare the data rates for standard Ethernet, Fast Ethernet, Gigabit Ethernet, and Ten Gigabit Ethernet.
 22. What do you mean by transmission? What can be the different direction of transmission?

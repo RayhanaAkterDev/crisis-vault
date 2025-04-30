@@ -1,5 +1,5 @@
 1. Explain the CSMA/CD technique (with flow-chart) to access a medium.
-2. Why CSMD/CD is not applicable for Wireless LAN?
+2. Why CSMD/CD is not applicable for Wireless LAN? #board_2022 
 3. Define WLAN.
 4. Explain WLAN architecture.
 5. What are the functions of router, gateway and bridge? #board_2022 

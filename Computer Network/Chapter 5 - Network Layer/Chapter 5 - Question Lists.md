@@ -25,7 +25,7 @@
 17. What is traffic shaping in congestion control? Describe traffic shaping algorithm in congestion control.
 18. Describe the various approaches for controlling network congestion.
 19. Network connecting device.
-20. What is routing? Explain the working principle of any dynamic routing algorithm with a proper example.
+20. What is routing? Explain the working principle of any dynamic routing algorithm with a proper example. #board_2022 
 21. What are Ping and Tracer? #board_2022 
 22. In a class C network 192.5.12.0 with subnet mask 255.255.255.224 - #board_2022 
 	- What are the maximum number of hosts per subnet?
