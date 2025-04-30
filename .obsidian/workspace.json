@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/monthly_template.md",
+                "file": "Monthly_Schedule/2025-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "monthly_template"
+              "title": "2025-05"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists.md",
+                "file": "Monthly_Schedule/2025-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1 - Question Lists"
+              "title": "Outline of 2025-05"
             }
           },
           {
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "50297d8c1b5ada63",
@@ -220,8 +220,9 @@
   },
   "active": "25254b30ddeb9936",
   "lastOpenFiles": [
-    "Monthly_Schedule/2025-05.md",
     "Monthly_Schedule/2025-04.md",
+    "Monthly_Schedule/2025-05.md",
+    "Templates/monthly_template.md",
     "Theory of Computation/Chapter 1 - Language Theory/Chapter 1 - Question Lists.md",
     "Journal/Daily_Notes/2025-04-30.md",
     "Theory of Computation/Chapter 9 - Undesirability & Intractable Problems/Chapter 9 - Question Lists.md",
@@ -255,7 +256,6 @@
     "Computer Network/Short Notes.md",
     "Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists.md",
     "Computer Network/Chapter 7 - Application Layer/Chapter 7 - Question Lists.md",
-    "Computer Network/Chapter 5 - Network Layer/Chapter 5 - Question Lists.md",
     "Pasted image 20250428180437.png",
     "Untitled.canvas"
   ]

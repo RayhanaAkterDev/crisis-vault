@@ -1,25 +1,25 @@
-# 📅 Monthly Schedule - {{date:MMMM YYYY}}
+# 📅 Monthly Schedule - <% moment(tp.file.title, "YYYY-MM").format("MMMM YYYY") %>
 ⬅️ [[Monthly_Schedule/<% moment(tp.file.title, "YYYY-MM").subtract(1, "month").format("YYYY-MM") %> | Previous Month]] | [[Monthly_Schedule/<% moment(tp.file.title, "YYYY-MM").add(1, "month").format("YYYY-MM") %> | Next Month]] ➡️
 
-### 🎯 **Goals for the Month {{date:MMMM}}**
+### 🎯 **Goals for the Month <% moment(tp.file.title, "YYYY-MM").format("MMMM") %>**
 > **Goal 1:** Complete **Project X** by the end of the month  
-> **Goal 2:** Submit **Final Report** by **{{date:MMMM}} 20th**  
-> **Goal 3:** Attend **Webinars** on **{{date:MMMM}} 12th** and **{{date:MMMM}} 18th**  
+> **Goal 2:** Submit **Final Report** by **<% moment(tp.file.title, "YYYY-MM").format("MMMM") %> 20th**  
+> **Goal 3:** Attend **Webinars** on **<% moment(tp.file.title, "YYYY-MM").format("MMMM") %> 12th** and **<% moment(tp.file.title, "YYYY-MM").format("MMMM") %> 18th**  
 > **Goal 4:** Read **2 Books** for personal development
 
 ---
 
 ### 📌 **Important Dates & Deadlines**
 
-> ⚠️ **{{date:MMMM}} 5th**: 
-> 🗓️ **{{date:MMMM}} 12th**: 
-> 🗓️ **{{date:MMMM}} 18th**: 
-> ⚠️ **{{date:MMMM}} 20th**: 
+> ⚠️ **<% moment(tp.file.title, "YYYY-MM").format("MMMM") %> 5th**:  
+> 🗓️ **<% moment(tp.file.title, "YYYY-MM").format("MMMM") %> 12th**:  
+> 🗓️ **<% moment(tp.file.title, "YYYY-MM").format("MMMM") %> 18th**:  
+> ⚠️ **<% moment(tp.file.title, "YYYY-MM").format("MMMM") %> 20th**:  
 
 ---
 
 ### 🗓️ **Monthly Overview**
-> #### **{{date:MMMM}} 2025 - Your Month at a Glance**
+> #### **<% moment(tp.file.title, "YYYY-MM").format("MMMM") %> 2025 - Your Month at a Glance**
 > 
 > Here's a visual breakdown of your month with important tasks marked for easy tracking.
 
@@ -48,8 +48,8 @@
 > - Any changes to make for better efficiency?  
 >  
 > 🚨 **Important Reminders for Next Month:**  
-> - ⚠️ Stay on track with deadlines, especially the **Final Report Submission** on **{{date:MMMM}} 20th**.  
-> - 📅 Plan ahead for **Webinars** on **{{date:MMMM}} 12th** and **{{date:MMMM}} 18th**.  
+> - ⚠️ Stay on track with deadlines, especially the **Final Report Submission** on **<% moment(tp.file.title, "YYYY-MM").format("MMMM") %> 20th**.  
+> - 📅 Plan ahead for **Webinars** on **<% moment(tp.file.title, "YYYY-MM").format("MMMM") %> 12th** and **<% moment(tp.file.title, "YYYY-MM").format("MMMM") %> 18th**.  
 > - 📚 Don't forget your **personal development goal**: reading 2 books this month!
 
 ---
