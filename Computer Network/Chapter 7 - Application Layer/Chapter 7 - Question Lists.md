@@ -1,7 +1,7 @@
 1. Write the electronic mail message format.
 2. What is the purpose of Domain Name System? Discuss the three main divisions of the domain name space.
 	- Why is DNS necessary? State its significance.
-3. Why do you think DNS uses UDP instead of TCP for its query and response messages?
+3. What is DNS? Why do you think DNS uses UDP instead of TCP for its query and response messages? #board_2018 
 4. Fire wall.
 5. Explain briefly different methods used by HTTP protocol.
 6. Compare the way SMTP and GTTP transmit the images, which one do you think is more efficient? Why?

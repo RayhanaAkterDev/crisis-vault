@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "computer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,17 +238,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5c1672576b262d50",
+  "active": "0f9213d6b20963ea",
   "lastOpenFiles": [
     "Computer Network/Short Notes.md",
-    "Computer Network/Chapter 5 - Network Layer/Chapter 5 - Question Lists.md",
-    "Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists.md",
+    "Computer Network/Non-Chapter Questions.md",
     "Computer Network/Chapter 7 - Application Layer/Chapter 7 - Question Lists.md",
     "Computer Network/Chapter 6 - Optical Fiber Network/Chapter 6 - Question Lists.md",
-    "Computer Network/Chapter 4 - Medium Access Sub-layer/Chapter 4 - Question Lists.md",
-    "Computer Network/Chapter 3 - ATM Networks/Chapter 3 - Question Lists.md",
-    "Computer Network/Non-Chapter Questions.md",
+    "Computer Network/Chapter 5 - Network Layer/Chapter 5 - Question Lists.md",
     "Computer Network/Chapter 2 - Frame Relay/Chapter 2 - Question Lists.md",
+    "Computer Network/Chapter 3 - ATM Networks/Chapter 3 - Question Lists.md",
+    "Computer Network/Chapter 4 - Medium Access Sub-layer/Chapter 4 - Question Lists.md",
+    "Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists.md",
     "Journal/Daily_Notes/2025-04-30.md",
     "Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists.md",
     "Computer Network/Chapter 7 - Application Layer",
