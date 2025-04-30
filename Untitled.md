@@ -1,203 +1,99 @@
-### 📅 **মে মাসের ডেইলি রুটিন**
-
-#### 🌸 **Day 1 – বৃহস্পতিবার, ১ মে**
-
-🧴 **ফেস প্যাক:** চালের গুঁড়া + টক দই + লেবুর রস  
-⏱️ ১০ মিনিট  
-✨ দাগ দূর, উজ্জ্বলতা
-
----
-
-#### ☕ **Day 2 – শুক্রবার, ২ মে**
-
-🧽 **স্ক্রাব:** কফি পাউডার + চিনি + মধু  
-⏱️ ২ মিনিট হালকা ঘষে ধুয়ে ফেলো  
-✨ মৃত কোষ দূর, গ্লো
-
----
-
-#### 🌙 **Day 3 – শনিবার, ৩ মে**
-
-🛁 বিশ্রাম দিন – শুধু ধুয়ে মধু লাগাও  
-✨ ত্বকের আরাম, হাইড্রেশন
-
----
-
-#### 🍯 **Day 4 – রবিবার, ৪ মে**
-
-**মাস্ক:** মধু + লেবুর রস  
-⏱️ ১০ মিনিট  
-✨ দাগ হালকা, নরম ত্বক
-
----
-
-#### ✨ **Day 5 – সোমবার, ৫ মে**
-
-🔁 ফেস প্যাক রিপিট: চালের গুঁড়া + টক দই + লেবু  
-✨ দাগ ও রঙ হালকা
-
----
-
-#### 🌿 **Day 6 – মঙ্গলবার, ৬ মে**
-
-**অ্যান্টি-এজিং প্যাক:** বেসন + টক দই + হলুদ + মধু  
-⏱️ ১০–১৫ মিনিট  
-✨ বলিরেখা হ্রাস, টানটান ত্বক
-
----
-
-#### 🧘‍♀️ **Day 7 – বুধবার, ৭ মে**
-
-🌼 বিশ্রাম + পর্যবেক্ষণ  
-✨ নিজের দিকে খেয়াল রাখা
-
----
-
-#### 🌼 **Day 8 – বৃহস্পতিবার, ৮ মে**
-
-ফেস প্যাক রিপিট (চাল + দই + লেবু)
-
----
-
-#### ☕ **Day 9 – শুক্রবার, ৯ মে**
-
-স্ক্রাব: কফি + চিনি + মধু
-
----
-
-#### 🌙 **Day 10 – শনিবার, ১০ মে**
-
-বিশ্রাম, হালকা মধু
-
----
-
-#### 🍯 **Day 11 – রবিবার, ১১ মে**
-
-মধু + লেবু মাস্ক
-
----
-
-#### ✨ **Day 12 – সোমবার, ১২ মে**
-
-ফেস প্যাক রিপিট
-
----
-
-#### 🌿 **Day 13 – মঙ্গলবার, ১৩ মে**
-
-অ্যান্টি-এজিং প্যাক
-
----
-
-#### 🌸 **Day 14 – বুধবার, ১৪ মে**
-
-রেস্ট ডে, পানি বেশি খাও
-
----
-
-#### 🌼 **Day 15 – বৃহস্পতিবার, ১৫ মে**
-
-ফেস প্যাক রিপিট
-
----
-
-#### ☕ **Day 16 – শুক্রবার, ১৬ মে**
-
-স্ক্রাব রিপিট
-
----
-
-#### 🌙 **Day 17 – শনিবার, ১৭ মে**
-
-বিশ্রাম
-
----
-
-#### 🍯 **Day 18 – রবিবার, ১৮ মে**
-
-মধু + লেবু মাস্ক
-
----
-
-#### ✨ **Day 19 – সোমবার, ১৯ মে**
-
-ফেস প্যাক রিপিট
-
----
-
-#### 🌿 **Day 20 – মঙ্গলবার, ২০ মে**
-
-অ্যান্টি-এজিং প্যাক
-
----
-
-#### 🌸 **Day 21 – বুধবার, ২১ মে**
-
-বিশ্রাম + আত্মবিশ্লেষণ
-
----
-
-#### 🌼 **Day 22 – বৃহস্পতিবার, ২২ মে**
-
-ফেস প্যাক রিপিট
-
----
-
-#### ☕ **Day 23 – শুক্রবার, ২৩ মে**
-
-স্ক্রাব: কফি + চিনি
-
----
-
-#### 🌙 **Day 24 – শনিবার, ২৪ মে**
-
-রেস্ট
-
----
-
-#### 🍯 **Day 25 – রবিবার, ২৫ মে**
-
-মধু + লেবু
-
----
-
-#### ✨ **Day 26 – সোমবার, ২৬ মে**
-
-ফেস প্যাক
-
----
-
-#### 🌿 **Day 27 – মঙ্গলবার, ২৭ মে**
-
-অ্যান্টি-এজিং প্যাক
-
----
-
-#### 🌸 **Day 28 – বুধবার, ২৮ মে**
-
-বিশ্রাম
-
----
-
-#### 🌼 **Day 29 – বৃহস্পতিবার, ২৯ মে**
-
-শেষ উজ্জ্বলতা প্যাক (চাল + দই + লেবু)
-
----
-
-#### ☕ **Day 30 – শুক্রবার, ৩০ মে**
-
-শেষ স্ক্রাব (কফি + চিনি)
-
----
-
-#### 🎉 **Day 31 – শনিবার, ৩১ মে**
-
-🧖‍♀️ ফুল ফেসে মধু লাগিয়ে ১০ মিনিট  
-🌟 **Reflection Day** – আয়নায় তাকাও, তুমি নিজেই দেখবে কতটা বদল এনেছো 💛
-
----
-
-### 🌻 ছোট্ট কথা:
-
-> “নিজেকে সময় দেওয়াটা **অলসতা নয়**, এটা আত্মসম্মান।” — তুমি এই এক মাসে নিজের ত্বক ও আত্মাকে ভালোবাসতে শিখছো, আর এটা তোমার জীবনের একটা বড় জয়।
+> [!multi-column] **🧴 One-Month Skin Care Routine:**
+>
+>> [!abstract] **Goal 1:** **Improve Skin Health & Reduce Dark Spots**
+>> - **Daily Tasks**: 
+>> 	- **Exfoliate** with Rice Flour and Yogurt Scrub 
+>> 	- **Tone** with Lemon Juice and Water (for natural toning)
+>> 	  - **Hydrate** with Gram Flour and Yogurt Mask or Honey Mask
+>> 	    
+>> - **Special Treatments**: 
+>> 	- **Exfoliate with Coffee and Honey Scrub** once a week
+>> 	  
+>> - **Focus Areas**: 
+>> 	- Reduce dark spots, smooth fine lines, and treat acne scars
+>> 	  
+>> - **Progress Tracking**: Track progress using Obsidian notes for skin condition.
+>
+> ---
+> 
+>> [!abstract] **Goal 2:** **Clear Acne & Age-Related Signs**
+>> - **Daily Tasks**: 
+>> 	- Apply **Holud Gura and Honey Mask** every night to treat pigmentation and acne scars
+>> 	- Apply **Lemon Juice** with a cotton pad after cleansing
+>> 	  
+>> - **Moisturize** with Gram Flour and Yogurt Mask to keep skin hydrated
+>> - **Special Treatments**:
+>> 	- Use **Holud Gura (Turmeric)** for its antibacterial properties on affected areas.
+
+ ---
+
+>> [!abstract] **📅 Daily Skin Care Routine:**
+>
+>> **Week 1 – Daily Routine:**
+>> - **Day 1:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize with Gram Flour and Yogurt Mask
+>> - **Day 2:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>> - **Day 3:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
+>> - **Day 4:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>> - **Day 5:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
+>> - **Day 6:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>> - **Day 7:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, exfoliate with Coffee and Honey Scrub (once a week), moisturize
+>
+>> ---
+>> **Week 2 – Daily Routine:**
+>> - **Day 8:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
+>> - **Day 9:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>> - **Day 10:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
+>> - **Day 11:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>> - **Day 12:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
+>> - **Day 13:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
+>> - **Day 14:**
+>>   - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
+>>   - **Night**: Cleanse, exfoliate with Coffee and Honey Scrub, moisturize
+>
+>> ---
+>> **Week 3 – Daily Routine:**
+>> Follow the same pattern as Week 1 and Week 2. Adjust the **frequency of masks** based on skin response.  
+>> - If skin feels drier, apply **Gram Flour and Yogurt Mask** more frequently.  
+>> - If skin feels too sensitive, reduce the **Lemon Juice** use to every other day.
+>
+>> ---
+>> **Week 4 – Daily Routine:**
+>> - Continue following the same routine from the previous weeks, focusing on consistency.  
+>> - Use **Holud Gura (Turmeric)** for acne spots and pigmentation.
+>
+>> ---
+>> [!abstract] **🥗 Additional Tips:**
+>> - **Hydrate**: Drink at least 8 glasses of water daily to keep skin moisturized from within.
+>> - **Diet**: Focus on eating fruits, vegetables, and foods rich in vitamins (A, C, E).
+>> - **Sleep**: Ensure 7-8 hours of sleep for skin regeneration.
+>> - **Stress Management**: Engage in stress-relieving activities like light exercise, reading, or relaxation techniques.
+>> - **Progress Tracking**: Track changes in your skin condition using Obsidian notes and adjust routine as needed.
+>
+>> ---
+>> **End of Routine**

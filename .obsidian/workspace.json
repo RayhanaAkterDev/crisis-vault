@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly_Schedule/2025-05.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -197,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "50297d8c1b5ada63",
@@ -235,10 +235,10 @@
   },
   "active": "47ea861f99b6047e",
   "lastOpenFiles": [
-    "Journal/Weekly_Dashboard/2025-W18.md",
-    "Untitled.md",
-    "Journal/Daily_Notes/2025-04-30.md",
     "Monthly_Schedule/2025-05.md",
+    "Untitled.md",
+    "Journal/Weekly_Dashboard/2025-W18.md",
+    "Journal/Daily_Notes/2025-04-30.md",
     "Monthly_Schedule/2025-04.md",
     "Templates/weekly_template.md",
     "Templates/monthly_template.md",
