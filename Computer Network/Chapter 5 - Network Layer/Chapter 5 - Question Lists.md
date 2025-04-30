@@ -16,4 +16,16 @@
 	- Find the first and last addresses in subnet 1.
 	- Find the first and last addresses in subnet 32.
 10. What is Routing? Explain the working principle of distance vector routing protocol with a proper example.
-11. 
+11. Shortest path routing.
+12. What is NAT? How can NAT help in address depletion?
+13. Network interface card (NIC).
+14. QoS in multimedia network.
+15. What are the four general techniques to improve quality of service (QoS).
+16. What is traffic shaping in congestion control? Describe traffic shaping algorithm in congestion control.
+17. Describe the various approaches for controlling network congestion.
+18. Network connecting device.
+19. What is routing? Explain the working principle of any dynamic routing algorithm with a proper example.
+20. What are Ping and Tracert?
+21. In a class C network 192.512.0 with subnet mask 255.255.255.224 -
+	- What are the maximum number of hosts per subnet?
+	- which subnet would be the host 192.5.12.135 belong?
