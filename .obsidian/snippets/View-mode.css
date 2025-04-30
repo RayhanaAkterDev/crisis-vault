@@ -1,6 +1,6 @@
 /* Strictly add margin-bottom to callouts ONLY in Preview/Read mode */
 .markdown-preview-view .callout {
-    margin-bottom: 1.5em !important;
+    margin-bottom: .5em !important;
 }
 
 /* Remove margin in Edit mode just to be safe */
