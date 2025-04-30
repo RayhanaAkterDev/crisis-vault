@@ -12,7 +12,7 @@
 9. What is protocol? #board_2022 
 10. What are the key elements of protocols?
 11. Explain the seven layers of OSI system with diagram. #board_2022 
-12. Why TCP/IP model is more popular than OSI model?
+12. Why TCP/IP model is more popular than OSI model? #board_2021 
 13. Which layer OSI is used for the following -
 	- To route packets
 	- To convert packet to frame
