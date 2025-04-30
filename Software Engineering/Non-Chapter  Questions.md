@@ -8,3 +8,4 @@
 8. Write short note on: #board_2020 
 	- Unit testing
 	- Acceptance testing
+9. Why software version and release management are essential? #board_2020 
