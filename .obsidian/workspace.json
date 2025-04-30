@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-04-30.md",
+                "file": "Journal/Weekly_Dashboard/2025-W18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-30"
+              "title": "2025-W18"
+            }
+          },
+          {
+            "id": "47ea861f99b6047e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,14 +233,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "25254b30ddeb9936",
+  "active": "47ea861f99b6047e",
   "lastOpenFiles": [
+    "Journal/Weekly_Dashboard/2025-W18.md",
+    "Untitled.md",
+    "Journal/Daily_Notes/2025-04-30.md",
     "Monthly_Schedule/2025-05.md",
     "Monthly_Schedule/2025-04.md",
     "Templates/weekly_template.md",
     "Templates/monthly_template.md",
     "Theory of Computation/Chapter 1 - Language Theory/Chapter 1 - Question Lists.md",
-    "Journal/Daily_Notes/2025-04-30.md",
     "Theory of Computation/Chapter 9 - Undesirability & Intractable Problems/Chapter 9 - Question Lists.md",
     "Theory of Computation/Chapter 8 - Mealy machine and Moore machine/Chapter 8 - Question Lists.md",
     "Theory of Computation/Chapter 7 - Turing Machine/Chapter 7 - Question Lists.md",
@@ -254,8 +271,6 @@
     "Theory of Computation/Chapter 1 - Language Theory - Copy (3)/Untitled.md",
     "Theory of Computation/Chapter 1 - Language Theory - Copy (2)/Untitled.md",
     "Theory of Computation/Chapter 1 - Language Theory - Copy/Untitled.md",
-    "Computer Network/Short Notes.md",
-    "Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists.md",
     "Pasted image 20250428180437.png",
     "Untitled.canvas"
   ]
