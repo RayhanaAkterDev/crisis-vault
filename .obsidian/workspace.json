@@ -10,13 +10,15 @@
           {
             "id": "25254b30ddeb9936",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Journal/Daily_Notes/2025-05-01.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-05-01"
             }
@@ -24,18 +26,37 @@
           {
             "id": "47ea861f99b6047e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "May Skin Care.md",
+                "file": "Journal/Weekly_Dashboard/2025-W18.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "May Skin Care"
+              "title": "2025-W18"
+            }
+          },
+          {
+            "id": "cce7b8d9678d8b49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monthly_Schedule/2025-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-05"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-01.md",
+                "file": "Journal/Weekly_Dashboard/2025-W18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-01"
+              "title": "Outline of 2025-W18"
             }
           },
           {
@@ -196,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "50297d8c1b5ada63",
@@ -232,14 +253,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "25254b30ddeb9936",
+  "active": "47ea861f99b6047e",
   "lastOpenFiles": [
-    "Journal/Daily_Notes/2025-04-30.md",
-    "Journal/Daily_Notes/2025-05-01.md",
-    "May Skin Care.md",
-    "Journal/Daily_Notes/2025-04-27.md",
-    "Journal/Weekly_Dashboard/2025-W18.md",
     "Monthly_Schedule/2025-05.md",
+    "Algorithm Design and Analysis/Chapter - 1.md",
+    "Journal/Weekly_Dashboard/2025-W18.md",
+    "Numerical Analysis",
+    "Algorithm Design and Analysis",
+    "May Skin Care.md",
+    "Journal/Daily_Notes/2025-05-01.md",
+    "Journal/Daily_Notes/2025-04-30.md",
+    "Journal/Daily_Notes/2025-04-27.md",
     "Monthly_Schedule/2025-04.md",
     "Templates/weekly_template.md",
     "Templates/monthly_template.md",
@@ -263,13 +287,10 @@
     "Theory of Computation/Chapter 3 - Regular expressions and its properties",
     "Theory of Computation/Chapter 2 - Finite Automata",
     "Theory of Computation/Chapter 1 - Language Theory - Copy (8)/Untitled.md",
-    "Theory of Computation/Chapter 1 - Language Theory - Copy (8)",
     "Theory of Computation/Chapter 1 - Language Theory - Copy (7)/Untitled.md",
-    "Theory of Computation/Chapter 1 - Language Theory - Copy (7)",
     "Theory of Computation/Chapter 1 - Language Theory - Copy (6)/Untitled.md",
     "Theory of Computation/Chapter 1 - Language Theory - Copy (5)/Untitled.md",
     "Theory of Computation/Chapter 1 - Language Theory - Copy (4)/Untitled.md",
-    "Theory of Computation/Chapter 1 - Language Theory - Copy (3)/Untitled.md",
     "Pasted image 20250428180437.png",
     "Untitled.canvas"
   ]
