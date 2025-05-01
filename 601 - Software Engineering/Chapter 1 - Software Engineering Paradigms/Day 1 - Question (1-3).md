@@ -20,8 +20,11 @@
 > 3. The application of a systematic, disciplined, quantifiable approach to the development, operation and maintenance of software, that is, the application of engineering to software.
 > 4. The study of the approaches as in the above statement.> 
 
+---  
+  
+#### 3. State and explain some qualities that are used to access software. #board_2018 
 
-  
-  
-#### State and explain some qualities that are used to access software. #board_2018 
-- Mention the key challenges facing four qualities that are used to access software. #board_2019 
+>[!note] Some qualities that are used to access software:
+> - **Functional suitability**: A set of attributes that bear on the existence of a set of function and their specified properties. The functions are those that satisfy stated or implied needs.
+> 	- Suitability
+> 	- Accuracy
