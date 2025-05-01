@@ -28,7 +28,7 @@
   "blue-topaz-theme@@muted-activeline-bg": true,
   "blue-topaz-theme@@plain-file-title": false,
   "blue-topaz-theme@@title-justify-start": true,
-  "blue-topaz-theme@@fancy-hr": "fancy-hr-number",
+  "blue-topaz-theme@@fancy-hr": "default-hr",
   "blue-topaz-theme@@colorful-ordered-list": true,
   "blue-topaz-theme@@bt-colorful-indentation-lines": false,
   "blue-topaz-theme@@file-bg-shape-option": "file-shape-default",
