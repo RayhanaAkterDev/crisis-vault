@@ -56,12 +56,12 @@
 ---
 
 **Friday** | [[Journal/Daily_Notes/<%moment(tp.file.title, "gggg-[W]ww").startOf('week').add(5, 'days').format("YYYY-MM-DD")%>|<%moment(tp.file.title, "gggg-[W]ww").startOf('week').add(5, 'days').format("YYYY-MM-DD")%>]]
-> - [ ] **Study**:
-> 	- [ ] **Algorithm**:  
-> 	- [ ] **Numerical Analysis**: 
-> 	- [ ] **Computer Network**: 
-> 	- [ ] **Embedded System**: 
-> 	- [ ] **Theory of Computation**:
+> - **Study**:
+> 	- **Algorithm**:  
+> 	- **Numerical Analysis**: 
+> 	- **Computer Network**: 
+> 	- **Embedded System**: 
+> 	- **Theory of Computation**:
 > - [ ] Task - 2
 > - [ ] Task - 3
 
@@ -69,10 +69,10 @@
 
 **Saturday** | [[journal/daily_notes/<%moment(tp.file.title, "gggg-[W]ww").startOf('week').add(6, 'days').format("YYYY-MM-DD")%>|<%moment(tp.file.title, "gggg-[W]ww").startOf('week').add(6, 'days').format("YYYY-MM-DD")%>]]
 > - [ ] **Study**:
-> 	- [ ] **Algorithm**: 
-> 	- [ ] **Numerical Analysis**: 
-> 	- [ ] **Theory of Computation**: 
-> 	- [ ] **Software Engineering**: 
+> 	- **Algorithm**: 
+> 	- **Numerical Analysis**: 
+> 	- **Theory of Computation**: 
+> 	- **Software Engineering**: 
 > - [ ] Task - 2
 > - [ ] Task - 3
 
@@ -86,3 +86,4 @@
 > - *Review day 5*
 > - *Review day 6*
 
+---

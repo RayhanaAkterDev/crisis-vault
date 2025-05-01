@@ -9,7 +9,7 @@
   "timelineDateFormat": "YYYY-MM-DD",
   "centerNeedle": true,
   "plannerHeading": "🌸 Today’s Missions:",
-  "plannerHeadingLevel": 2,
+  "plannerHeadingLevel": 3,
   "timelineColored": true,
   "timelineStartColor": "#006466",
   "timelineEndColor": "#4d194d",
