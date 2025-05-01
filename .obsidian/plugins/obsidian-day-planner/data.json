@@ -7,13 +7,13 @@
   "endLabel": "All done",
   "startHour": 5,
   "timelineDateFormat": "YYYY-MM-DD",
-  "centerNeedle": true,
+  "centerNeedle": false,
   "plannerHeading": "🌸 Today’s Missions:",
   "plannerHeadingLevel": 3,
   "timelineColored": true,
   "timelineStartColor": "#006466",
   "timelineEndColor": "#4d194d",
-  "timestampFormat": "HH:mm",
+  "timestampFormat": "HH:mm A",
   "hourFormat": "H",
   "dataviewSource": "",
   "extendDurationUntilNext": false,
@@ -26,7 +26,7 @@
   "showNext": true,
   "pluginVersion": "0.27.0",
   "showCompletedTasks": true,
-  "showSubtasksInTaskBlocks": true,
+  "showSubtasksInTaskBlocks": false,
   "icals": [],
   "colorOverrides": [],
   "releaseNotes": true,
@@ -35,5 +35,5 @@
   "sortTasksInPlanAfterEdit": true,
   "firstDayOfWeek": "sunday",
   "multiDayRange": "3-days",
-  "showTimeTracker": true
+  "showTimeTracker": false
 }
