@@ -20,18 +20,3 @@ Week No. [[Journal/Weekly_Dashboard/<%moment(tp.file.title).format("gggg-[W]ww")
 
 ---
 
-#### 📌 Habit Tracker
-| Habit             | Completed | or Not |
-| ----------------- | :-------: | :----: |
-| Study for 6 hours |  [ ] Yes  | [ ] No |
-| 10 min exercise   |  [ ] Yes  | [ ] No |
-
-| Water Intake (per glass) | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
-| ------------------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Drink / Not Drink        | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-
----
-
-
-
-

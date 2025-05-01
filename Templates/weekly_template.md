@@ -27,7 +27,7 @@
 > - **Study**:
 > 	- **Algorithm**: 
 > 	- **Numerical Analysis**: 
-> 	- **Software Engineering**: 
+> 	- **Embedded System**: 
 > - [ ] Task - 2
 > - [ ] Task - 3
 
@@ -37,7 +37,7 @@
 > - **Study**:
 > 	- **Algorithm**: 
 > 	- **Numerical Analysis**: 
-> 	- **Software Engineering**: 
+> 	- **Theory of Computation**:
 > - [ ] Task - 2
 > - [ ] Task - 3
 
@@ -57,7 +57,7 @@
 
 **Friday** | [[Journal/Daily_Notes/<%moment(tp.file.title, "gggg-[W]ww").startOf('week').add(5, 'days').format("YYYY-MM-DD")%>|<%moment(tp.file.title, "gggg-[W]ww").startOf('week').add(5, 'days').format("YYYY-MM-DD")%>]]
 > - [ ] **Study**:
-> 	- [ ] **Algorithm**: Revise 
+> 	- [ ] **Algorithm**:  
 > 	- [ ] **Numerical Analysis**: 
 > 	- [ ] **Computer Network**: 
 > 	- [ ] **Embedded System**: 
