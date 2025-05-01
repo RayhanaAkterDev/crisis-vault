@@ -1,10 +1,8 @@
 #### 1. What is software? #board_2019
 >[!note] Software definition:
->**Software** is a collection of programs, data, and instructions that enable a computer to perform specific tasks. It acts as an intermediary between the hardware and the user, allowing the hardware to execute various functions. Software can be divided into two main types:
+>**Software** is a collection of programs, data, and instructions that enable a computer to perform specific tasks. It acts as an intermediary *(মধ্যস্থতাকারী)* between the hardware and the user, allowing the hardware to execute various functions. Software can be divided into two main types:
 > - **System Software**: Includes operating systems and utility programs that manage computer hardware and resources.    
 > - **Application Software**: Includes programs designed to help users perform specific tasks, such as word processing or internet browsing.    
->
->Software is essential for the operation of computer systems and can be easily modified or updated to meet changing needs.
 
 ---
 
@@ -17,8 +15,8 @@
 > 2. **All aspects of software production**: Software engineering are not just concerned with the technical processes of software development.
 
 >[!note] The IEEE (*Institute of Electrical and Electronics Engineers*) definition of software engineering:
-> 3. The application of a systematic, disciplined, quantifiable approach to the development, operation and maintenance of software, that is, the application of engineering to software.
-> 4. The study of the approaches as in the above statement.> 
+> 1. The application of a systematic, disciplined, quantifiable approach to the development, operation and maintenance of software, that is, the application of engineering to software.
+> 2. The study of the approaches as in the above statement.
 
 ---  
   
@@ -28,3 +26,18 @@
 > - **Functional suitability**: A set of attributes that bear on the existence of a set of function and their specified properties. The functions are those that satisfy stated or implied needs.
 > 	- Suitability
 > 	- Accuracy
+> 	- Interoperability
+> 	- Compliance
+> 	- Security
+> - **Reliability**: A set of attributes that bear on the capability of software to maintain its level of performance under stated condition for a stated period of time.
+> 	- Maturity
+> 	- Fault tolerance
+> 	- Recoverability
+> - **Usability**: A set of attributes that bear on the effort needed for use, and on the individual assessment of such use by a stated or implies set of users.
+> 	- Understandability
+> 	- Learn ability 
+> 	- Operability
+> - **Efficiency**: A set of attributes that bear on the relationship between the level of performance of the software and the amount of resources used under stated conditions
+> 	- Time behavior
+> 	- Resource behavior
+
