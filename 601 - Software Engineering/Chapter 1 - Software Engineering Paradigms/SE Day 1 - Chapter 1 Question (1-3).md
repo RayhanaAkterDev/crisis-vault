@@ -2,7 +2,7 @@
 >[!note] Software definition:
 >**Software** is a collection of programs, data, and instructions that enable a computer to perform specific tasks. It acts as an intermediary *(মধ্যস্থতাকারী)* between the hardware and the user, allowing the hardware to execute various functions. Software can be divided into two main types:
 > - **System Software**: Includes operating systems and utility programs that manage computer hardware and resources.    
-> - **Application Software**: Includes programs designed to help users perform specific tasks, such as word processing or internet browsing.    
+> - **Application Software**: Includes programs that help users perform specific tasks, such as word processing or internet browsing.    
 
 ---
 
@@ -12,7 +12,7 @@
 >[!note] Software engineering;
 > Software engineering is an engineering discipline that is concerned with all aspects of software production from the early stages of system specification through to maintaining the system after it has gone into use. In this definition, there are two key phrases:
 > 1. **Engineering discipline**: Engineers make things work. They apply theories, methods, and tools where these are appropriate.
-> 2. **All aspects of software production**: Software engineering are not just concerned with the technical processes of software development.
+> 2. **All aspects of software production**: Software engineering is not just concerned with the technical processes of software development but also with managing people, understanding user needs, and ensuring quality throughout the software lifecycle.
 
 >[!note] The IEEE (*Institute of Electrical and Electronics Engineers*) definition of software engineering:
 > 1. The application of a systematic, disciplined, quantifiable approach to the development, operation and maintenance of software, that is, the application of engineering to software.
