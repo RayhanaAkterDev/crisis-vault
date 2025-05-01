@@ -6,13 +6,16 @@
 
 - #### Classified different types of network according to distance. #board_2019 
   > [!note] Classification of Network:
-  > Computer network fall into three classes regarding the size, distance, and the structure namely:
-  > - LAN (Local Area Network):
-  > LAN or Local Area Network  connects network devices in such a way that personal computer and workstations can share data, tools, and programs. The group of computers and devices are connected together  by a switch , or stack of switches, using a private addressing scheme as defined by the TCP/IP protocol. Usually, LAN covers an organizations offices, schools, colleges, or universities. LAN provides a useful way of sharing the resources between end-users. The resources such as printers, file servers, scanners, and internet are easily sharable among computers. Routers are found at the boundary of a LAN, connecting them to a larger WAN.
-  > ---
-  > - MAN (Metropolitan Area Network):
-  > ---
-  > - WAN (Wide Area Network):
+  
+**Computer network** fall into **three** classes regarding the size, distance, and the structure namely:
+
+> **LAN (Local Area Network)**: A LAN connects computers and other network devices in a limited area, such as offices, schools, colleges, or universities, allowing them to share data, tools, and programs. These computers and devices are connected through a switch or a group of switches, using a private IP addressing system as defined by the TCP/IP protocol.
+> 
+> LAN makes it easy to share resources like printers, file servers, scanners, and internet access among users. A router is typically used at the edge of a LAN to connect it to a larger network, such as a Wide Area Network (WAN).  
+
+> **MAN (Metropolitan Area Network)**: A MAN is a network that connects multiple LANs within a city or a large campus. It spans a larger area than a LAN but is smaller than a WAN. MANs are used to connect offices, buildings, or campuses in the same metropolitan region, allowing them to share resources and data efficiently. These networks are often managed by a single organization or service provider and use high-speed connections such as fiber optics.
+
+  > **WAN (Wide Area Network)**: A WAN is a network that spans a large geographical area, often across cities, countries, or even continents. WAN connects multiple LANs and MANs using routers, public networks like telephone lines or satellites, and leased lines. The internet is the best example of a WAN. WANs are used to enable communication and data sharing between computers and devices located far apart.
   
   
 - #### How does computer network differ from the distributed system? #board_2021 #board_2018 
