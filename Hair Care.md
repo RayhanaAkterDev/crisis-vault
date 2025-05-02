@@ -23,65 +23,64 @@
 
 > [!multi-column]
 >
->> 🪔**Sunday** - **Oiling Day**
+>> **Sunday** - **Oiling Day**
 >> - **Action**:
 >> 	- **Overnight Hair Oil Massage**
->> 	- Ingredients: Coconut Oil + Castor Oil (optional: Curry Leaves)
->> 	- Benefits: Controls hair fall, promotes growth, strengthens roots.
->> - **Steps**: Massage your scalp for 5–10 mins, braid hair, leave oil overnight.
+>> 		- **Ingredients**: Coconut Oil + Castor Oil (optional: Curry Leaves)
+>> 		- Massage your scalp for 5–10 mins, braid hair, leave oil overnight.
 >
->> 💧**Monday** - **Shampoo Day**
+>> **Monday** - **Shampoo Day**
 >> - **Action**:
 >> 	- **Hair Wash**
->> 	- Use a mild shampoo (like your current one or DIY: Shikakai, Reetha, Amla mix).
->> 	- Apply diluted lemon juice as **final rinse** (anti-dandruff, shine).
->> - **Optional (once a month)**: Use **Egg Mask (1 egg + lemon juice)** to treat dandruff, boost hair texture.
+>> 		- Use a mild shampoo (or DIY: Shikakai, Reetha, Amla mix).
+>> 		- Apply diluted lemon juice as **final rinse** (anti-dandruff, shine).
+>> - **Optional**: 
+>> 	- Use **Egg Mask** — (1 egg + lemon juice) 
+>> 	- (once a month) To treat dandruff, boost hair texture.
 
 ---
 
-> [!multi-column]
-> 
->> 🌿**Tuesday** - **Oiling Day**
->> - **Action**:    
->> 	- **Aloe Vera Scalp Pack**
->> 	- Ingredients: Aloe Vera Gel + Lemon Juice + Coconut Oil (optional)
->> 	- Benefits: Dandruff control, soothes itchy scalp, promotes growth.
->> - **Steps**: Apply to your scalp, wait for 20 minutes, rinse out. (Acts as a light oil treatment — no need to leave overnight).
->
->> 🫧 **Wednesday** - **Shampoo Day**
->> - **Action**:
->> 	- **Hair Wash**
->> 	- Use a mild shampoo (same as Monday).
->> 	- **Fenugreek (Methi) Hair Mask**: Soak Methi overnight → blend into paste → Apply for 30–45 minutes before washing.
->> 	- Benefits: Stops hair fall, adds shine, fights dandruff.  
+> **Tuesday** - **Light Oiling**
+> - **Action**:    
+>     - **Aloe Vera Scalp Pack**
+> 	    - **Ingredients**: Aloe Vera Gel + Lemon Juice + Coconut Oil (optional)
+> 	    - Apply to your scalp, wait for 20 minutes, rinse out.
+> 	- **Light Oiling**
+> 	    - After hair dries, apply a small amount of lightweight oil to scalp and ends.
+
+> **Wednesday** - **Shampoo Day**
+> - **Action**:
+> 	- **Fenugreek (Methi) Hair Mask**
+> 		- Soak Methi overnight, blend into paste.
+> 		- Apply for 30–45 minutes before washing.
+> 	- **Hair Wash**: Use a mild shampoo (same as Monday).  
 
 ---
 
-> 🍃**Thursday** - **Rest Day**
+> **Thursday** - **Rest Day**
 > - **Action**:
 > 	- No oiling or shampooing.
 > 	- Just gently comb your hair.
-> 	- Optional: Use Aloe Vera as a leave-in conditioner (small amount).
+> 	- **Optional**: 
+> 		- Use small amount of **Aloe Vera** gel to damp hair (ভেজা চুল).
+> 		- Don’t rinse it out. Let it stay in hair and dry.
 
 ---
 
 > [!multi-column]
->> 🍌**Friday** - **Mask + Light Oiling (Optional)**
+>> **Friday** - **Mask + Light Oiling**
 >> - **Action**:
 >> 	- **Deep Nourishing Mask**
->> 	- Ingredients: Banana + Honey + Yogurt (blend to smooth paste).
->> 	- Benefits: Softens dry, frizzy hair, restores shine, deeply conditions.
->> - **Steps**: 
->> 	- Apply for 30 minutes before shampooing.
->> 	- Shampoo thoroughly to remove the mask.
->> - **Optional**: On damp hair, apply a few drops of coconut oil to lock in moisture and prevent dryness.
+>> 		- **Ingredients**: Banana + Honey + Yogurt (blend to smooth paste).
+>> 		- Apply for 30 minutes and wash off the hair.
+>> 	- **Hair Oiling**: 
+>> 		- On damp hair, apply a few drops of coconut oil prevent dryness.
 >
 >> 🍵**Saturday** - **Shampoo Day**
 >> - **Action**:
->> 	- **Hair Wash**
->> 	- Use a mild shampoo (same as previous days).
->> 	- **Black Tea Rinse**: Boil black tea leaves, cool it, and use it as a final rinse.
->> 	- Benefits: Reduces greying, adds shine, soothes the scalp.
+>> 	- **Hair Wash**: Use a mild shampoo.
+>> 	- **Black Tea Rinse**: 
+>> 		- Boil black tea leaves, cool it, and use it as a final rinse.
 
 ---
 
