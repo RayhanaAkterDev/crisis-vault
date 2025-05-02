@@ -1,135 +1,77 @@
-# 🌼One-Month Skin Care Routine
->[!multi-column]
->
->> **Goal 1:** **Improve Skin Health & Reduce Dark Spots**
->> - **Daily Tasks** -
->> 	- **Exfoliate** with Rice Flour and Yogurt Scrub
->> 	- **Tone** with Lemon Juice and Water (for natural toning)
->> 	- **Hydrate** with Gram Flour and Yogurt Mask or Honey Mask
->> - **Special Treatments**:
->> 	- **Exfoliate with Coffee and Honey Scrub** once a week
->> - **Focus Areas**:
->> 	- Reduce dark spots, smooth fine lines, and treat acne scars
->
->> **Goal 2:** **Clear Acne & Age-Related Signs**
->> - **Daily Tasks**:
->> 	- Apply **Holud Gura and Honey Mask** every night to treat pigmentation and acne scars
->> 	- Apply **Lemon Juice** with a cotton pad after cleansing
->> 	- **Moisturize** with Gram Flour and Yogurt Mask to keep skin hydrated
->> - **Special Treatments**:
->> 	- Use **Holud Gura (Turmeric)** for its antibacterial properties on affected areas.
->
+# 🌼Skin Care Routine
+### 🎯 Goals
+
+> **Goal 1:** Fade dark spots, acne scars, and dull skin  
+> **Goal 2:** Treat acne, reduce fine lines, and boost skin elasticity
+
+
+## Basic Skin Care 
+
+> **Daily Tasks** **(Morning)**
+> - Exfoliate with Gram Flour and Yogurt Scrub
+> - **Tone** with Lemon Juice and Water (for natural toning)
+> - **Hydrate** with Honey Mask
+
+> **Daily Tasks (Night)** 
+> - Apply **Lemon Juice** with a cotton pad after cleansing
+> - Apply **Turmeric Powder and Honey Mask** every night to treat pigmentation and acne scars
+
 
 ---
 
-## 📅 Daily Skin Care Routine
+## 📅 Weekly Skin Care Routine
 
 > [!multi-column]
 >
->> **Week 1 – Daily Routine:**
->> - **Day 1:**
->> 	  - **Morning**: 
->> 		  - চালের গুঁড়া ও টক দই মিশিয়ে স্ক্রাব করুন, তারপর পানি দিয়ে ধুয়ে ফেলুন।
->> 		  - লেবুর রস ও পানি মিশিয়ে তুলা দিয়ে মুখে লাগান। ৫–৭ মিনিট পর ধুয়ে ফেলুন।
->> 	  - **Night**: 
->> 		  - মুখ পরিষ্কার করুন (চালের গুঁড়া ও দই দিয়ে স্ক্রাব করে ধুয়ে ফেলুন)
->> 		  - হলুদের গুঁড়া ও মধু মিশিয়ে মাস্ক মুখে লাগান এবং ১০–১৫ মিনিট পর ধুয়ে ফেলুন
->> 		  - বেসন ও দই মিশিয়ে মুখে লাগান (ময়েশ্চারাইজার হিসেবে) এবং ১০ মিনিট পর ধুয়ে ফেলুন
->>     
->> - **Day 2:**
->> 	  - **Morning**: 
->> 		  - চালের গুঁড়া ও টক দই মিশিয়ে স্ক্রাব করুন, তারপর পানি দিয়ে ধুয়ে ফেলুন।
->> 		  - লেবুর রস ও পানি মিশিয়ে তুলা দিয়ে মুখে লাগান। ৫–৭ মিনিট পর ধুয়ে ফেলুন।
->> 	  - **Night**: 
->> 		  - মুখ পরিষ্কার করুন (চালের গুঁড়া ও দই দিয়ে স্ক্রাব করে ধুয়ে ফেলুন)
->> 		  - বেসন ও দই মিশিয়ে মুখে লাগান (ময়েশ্চারাইজার হিসেবে) এবং ১০ মিনিট পর ধুয়ে ফেলুন
->>     
->> - **Day 3:**
->> 	  - **Morning**: 
->> 		  - চালের গুঁড়া ও টক দই মিশিয়ে স্ক্রাব করুন, তারপর পানি দিয়ে ধুয়ে ফেলুন।
->> 		  - লেবুর রস ও পানি মিশিয়ে তুলা দিয়ে মুখে লাগান। ৫–৭ মিনিট পর ধুয়ে ফেলুন।
->> 	  - **Night**: 
->> 		  - মুখ পরিষ্কার করুন (চালের গুঁড়া ও দই দিয়ে স্ক্রাব করে ধুয়ে ফেলুন)
->> 		  - হলুদের গুঁড়া ও মধু মিশিয়ে মাস্ক মুখে লাগান এবং ১০–১৫ মিনিট পর ধুয়ে ফেলুন
->> 		  - বেসন ও দই মিশিয়ে মুখে লাগান (ময়েশ্চারাইজার হিসেবে) এবং ১০ মিনিট পর ধুয়ে ফেলুন
->> 	
->> - **Day 4:**
->> 	  - **Morning**: 
->> 		  - চালের গুঁড়া ও টক দই মিশিয়ে স্ক্রাব করুন, তারপর পানি দিয়ে ধুয়ে ফেলুন।
->> 		  - লেবুর রস ও পানি মিশিয়ে তুলা দিয়ে মুখে লাগান। ৫–৭ মিনিট পর ধুয়ে ফেলুন।
->> 	  - **Night**: 
->> 		  - মুখ পরিষ্কার করুন (চালের গুঁড়া ও দই দিয়ে স্ক্রাব করে ধুয়ে ফেলুন)
->> 		  - বেসন ও দই মিশিয়ে মুখে লাগান (ময়েশ্চারাইজার হিসেবে) এবং ১০ মিনিট পর ধুয়ে ফেলুন
->> 	  
->> - **Day 5:**
->> 	  - **Morning**: 
->> 		  - চালের গুঁড়া ও টক দই মিশিয়ে স্ক্রাব করুন, তারপর পানি দিয়ে ধুয়ে ফেলুন।
->> 		  - লেবুর রস ও পানি মিশিয়ে তুলা দিয়ে মুখে লাগান। ৫–৭ মিনিট পর ধুয়ে ফেলুন।
->> 	  - **Night**: 
->> 		  - মুখ পরিষ্কার করুন (চালের গুঁড়া ও দই দিয়ে স্ক্রাব করে ধুয়ে ফেলুন)
->> 		  - হলুদের গুঁড়া ও মধু মিশিয়ে মাস্ক মুখে লাগান এবং ১০–১৫ মিনিট পর ধুয়ে ফেলুন
->> 		  - বেসন ও দই মিশিয়ে মুখে লাগান (ময়েশ্চারাইজার হিসেবে) এবং ১০ মিনিট পর ধুয়ে ফেলুন
->> 	   
->> - **Day 6:**
->> 	  - **Morning**: 
->> 		  - চালের গুঁড়া ও টক দই মিশিয়ে স্ক্রাব করুন, তারপর পানি দিয়ে ধুয়ে ফেলুন।
->> 		  - লেবুর রস ও পানি মিশিয়ে তুলা দিয়ে মুখে লাগান। ৫–৭ মিনিট পর ধুয়ে ফেলুন।
->> 	  - **Night**: 
->> 		  - মুখ পরিষ্কার করুন (চালের গুঁড়া ও দই দিয়ে স্ক্রাব করে ধুয়ে ফেলুন)
->> 		  - বেসন ও দই মিশিয়ে মুখে লাগান (ময়েশ্চারাইজার হিসেবে) এবং ১০ মিনিট পর ধুয়ে ফেলুন
->> 	
->> - **Day 7:**
->> 	  - **Morning**: 
->> 		  - চালের গুঁড়া ও টক দই মিশিয়ে স্ক্রাব করুন, তারপর পানি দিয়ে ধুয়ে ফেলুন।
->> 		  - লেবুর রস ও পানি মিশিয়ে তুলা দিয়ে মুখে লাগান। ৫–৭ মিনিট পর ধুয়ে ফেলুন।
->> 	  - **Night**: 
->> 		  - মুখ পরিষ্কার করুন (চালের গুঁড়া ও দই দিয়ে স্ক্রাব করে ধুয়ে ফেলুন)
->> 		  - কফি ও মধু মিশিয়ে স্ক্রাব করুন (সপ্তাহে একবার), তারপর ধুয়ে ফেলুন।
->> 		  - বেসন ও দই মিশিয়ে মুখে লাগান (ময়েশ্চারাইজার হিসেবে) এবং ১০ মিনিট পর ধুয়ে ফেলুন
+>> **Sunday**
+>> - **Tightening Pack**
+>> 	  - **Ingredients**: 
+>> 		  - Rice Flower + Tok Doi + Halud
+>> 		  - Make paste, apply 15 mins, rinse
 >
->> **Week 1 – Daily Routine:**
->> - **Day 1:**
->> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->> 	  - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize with Gram Flour and Yogurt Mask
->>     
->> - **Day 2:**
->> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->> 	  - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
->>     
->> - **Day 3:**
->> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->> 	  - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
->> 	
->> - **Day 4:**
->> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->> 	  - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
->> 	  
->> - **Day 5:**
->> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->> 	  - **Night**: Cleanse, apply Holud Gura and Honey Mask, moisturize
->> 	   
->> - **Day 6:**
->> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->> 	  - **Night**: Cleanse, apply Gram Flour and Yogurt Mask, moisturize
->> 	
->> - **Day 7:**
->> 	  - **Morning**: Cleanse with Rice Flour and Yogurt Scrub, tone with Lemon Juice and Water
->> 	  - **Night**: Cleanse, exfoliate with Coffee and Honey Scrub (once a week), moisturize
+>> **Monday**
+>> - **Brightening Pack**
+>> 	  - **Ingredients**: 
+>> 		  - Besan + Lemon + Doi + Halud
+>> 		  - Apply, dry fully, rinse
 
+> [!multi-column]
+>
+>> **Tuesday**
+>> - **Sugar Scrub**
+>> 	  - **Ingredients**: 
+>> 		  - Sugar + Honey + Lemon
+>> 		  - Gently scrub 1–2 mins, rinse
+>> - **Spot Mask**
+>> 	- **Ingredients**:
+>> 		- Holud+Honey
+>
+>> **Wednesday**
+>> - **Tightening Pack**
+>> 	  - **Ingredients**: 
+>> 		  - Besan + Lemon + Doi + Halud
+>> 		  - Apply, dry fully, rinse
 
+>[!danger] Thursday
+> Let skin breathe. Rest the day.
 
----
+> [!multi-column]
+>
+>> **Friday**
+>> - **Brightening Pack**
+>> 	  - **Ingredients**: 
+>> 		  - Chaler gura + Tok Doi + Halud
+>> 		  - Apply 15 mins, rinse
+>
+>> **Saturday**
+>> - **Sugar Scrub**
+>> 	  - **Ingredients**: 
+>> 		  - Sugar + Honey + Lemon
+>> 		  - Scrub gently, rinse
+>> - **Coffee & Honey Pack**
+>> 	  - **Ingredients**: 
+>> 		  - Coffee + Honey
 
-> **Week 3 – Daily Routine:**
-> Follow the same pattern as Week 1 and Week 2. Adjust the **frequency of masks** based on skin response.  
-> - If skin feels drier, apply **Gram Flour and Yogurt Mask** more frequently.  
-> - If skin feels too sensitive, reduce the **Lemon Juice** use to every other day.
-
----
- 
-> **Week 4 – Daily Routine:**
-> - Continue following the same routine from the previous weeks, focusing on consistency.  
-> - Use **Holud Gura (Turmeric)** for acne spots and pigmentation.
 
 ---
  
@@ -143,14 +85,3 @@
 ---
 
 > **End of Routine**
-
-### 🟢 Day 2 – **Brightening + Oil Control**
-
-- **Morning:**  
-      ⤷ Face wash  
-      ⤷ Apply _Besan + Turmeric + Lemon Juice_ pack (5–7 min only)
-    
-- **Night:**  
-      ⤷ Cleanse  
-      ⤷ Moisturize  
-      ⤷ Ice cube rub (optional for open pores)
