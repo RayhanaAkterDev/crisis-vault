@@ -13,18 +13,14 @@
 > - Cleanse with **Gram Flour + Yogurt**  
 > - Tone with **Lemon Juice + Water**  
 > - Hydrate with **Honey Mask**
-> - **Lip Pigmentation**: 
-> 	- Apply **Honey + Lemon** for 10 mins  
-> - **Dark Neck**:
-> 	- Apply **Lemon + Aloe Vera Gel** and rinse after 10 mins  
-> - **Dark Private Area**: 
-> 	- Apply **Coconut Oil + Lemon** 15 mins before shower  
+> - **Lip Pigmentation**: Apply **Honey + Lemon** for 10 mins  
+> - **Dark Neck**: Apply **Lemon + Aloe Vera Gel** and rinse after 10 mins  
+> - **Dark Private Area**: Apply **Coconut Oil + Lemon** 15 mins before shower  
 
 > **Daily Tasks (Night)** 
-> - Apply **Turmeric + Honey Mask**  
-> - **Lip Pigmentation**: Use **Beetroot + Coconut Oil/Ghee** overnight  
+> - Apply **Turmeric + Honey Mask**  (Skip exfoliation days Tuesday/Saturday)  
+> - **Lip Pigmentation**: Use **Coconut Oil/Ghee** (without beetroot) overnight  
 > - **Dark Circles**: Dab **Potato Juice + Aloe Vera Gel** under eyes  
-> - Skip masks on exfoliation days (Tuesday/Saturday)
 
 ---
 
@@ -36,13 +32,13 @@
 >> - **Tightening Pack**  
 >>     - Rice Flour + Yogurt + Turmeric Powder (15 mins)  
 >> - **Dark Neck**: Use **Baking Soda + Water Paste** gently  
->> - **Dark Circles**: Place **Green Tea Bags** on eyes (10–15 mins)
+>> - **Dark Circles**: Apply **Potato Juice + Aloe Vera Gel** under eyes  
 >
 >> **Monday**
 >> - **Brightening Pack**  
 >>     - Gram Flour + Lemon + Yogurt + Turmeric Powder  
->> - **Lip Scrub**: Sugar + Olive Oil (1 min scrub, rinse)  
->> - **Dark Private Area**: Apply **Aloe Vera + Turmeric** mask (10 mins)
+>> - **Lip Scrub**: Sugar + Honey (1 min scrub, rinse)  
+>> - **Dark Private Area**: Apply **Aloe Vera + Turmeric** mask (10 mins)  
 
 > [!multi-column]
 >
@@ -51,13 +47,13 @@
 >>     - Sugar + Honey + Lemon (Face + Neck gently)  
 >> - **Anti-aging + Glow Boosting Mask**  
 >>     - Coffee + Honey  
->> - **Dark Circles**: Cucumber Juice or slices  
+>> - **Dark Circles**: Use **Chilled Cucumber Water** if available  
 >
 >> **Wednesday**
 >> - **Tightening Pack**  
 >>     - Gram Flour + Lemon + Yogurt + Turmeric Powder  
 >> - **Dark Neck**: Rice Flour + Milk + Honey scrub  
->> - **Lip**: Apply **Beetroot Juice** during evening
+>> - **Lip**: Apply **Honey** or **Lemon + Honey** in evening  
 
 >[!warning] Thursday  
 >Let skin breathe. Rest the day. Only use lip balm and under-eye gel if needed.
@@ -68,7 +64,7 @@
 >> - **Brightening Pack**  
 >>     - Rice Flour + Yogurt + Turmeric Powder (15 mins)  
 >> - **Dark Circles**: Apply **Potato + Aloe Vera Gel**  
->> - **Private Area**: Apply **Oatmeal + Yogurt Mask** (gentle, 10 mins)
+>> - **Private Area**: Apply **Aloe Vera + Turmeric Mask** (gentle, 10 mins)  
 >
 >> **Saturday**
 >> - **Sugar Scrub**  
@@ -76,7 +72,7 @@
 >> - **Anti-aging + Glow Boosting Mask**  
 >>     - Coffee + Honey  
 >> - **Dark Neck**: Apply **Lemon + Aloe Vera Gel**  
->> - **Dark Circles**: Use **Chilled Green Tea Bags**
+>> - **Dark Circles**: Dab **Potato Juice + Aloe Vera Gel**  
 
 ---
 
