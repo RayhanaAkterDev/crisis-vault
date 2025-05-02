@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "May Skin Care.md",
+                "file": "Skin Care.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "May Skin Care"
+              "title": "Skin Care"
             }
           },
           {
@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "Hair Care.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -253,7 +253,7 @@
   },
   "active": "897032666340e142",
   "lastOpenFiles": [
-    "May Skin Care.md",
+    "Skin Care.md",
     "Hair Care.md",
     "Journal/Daily_Notes/2025-05-02.md",
     "602 - Computer Network/Chapter 1 - Introduction/SE Day 1 - Chapter 1 Question (1-3).md",
