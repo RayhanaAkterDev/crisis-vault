@@ -2,20 +2,29 @@
 ### 🎯 Goals
 
 > **Goal 1:** Fade dark spots, acne scars, and dull skin  
-> **Goal 2:** Treat acne, reduce fine lines, and boost skin elasticity
+> **Goal 2:** Treat acne, reduce fine lines, and boost skin elasticity  
+> **Goal 3:** Lighten pigmented areas (lips, dark circles, neck, private areas)
 
+---
 
 ## Basic Skin Care 
 
-> **Daily Tasks** **(Morning)**
-> - Exfoliate with Gram Flour and Yogurt Scrub
-> - **Tone** with Lemon Juice and Water (for natural toning)
-> - **Hydrate** with Honey Mask
+> **Daily Tasks (Morning)**
+> - Cleanse with **Gram Flour + Yogurt**  
+> - Tone with **Lemon Juice + Water**  
+> - Hydrate with **Honey Mask**
+> - **Lip Pigmentation**: 
+> 	- Apply **Honey + Lemon** for 10 mins  
+> - **Dark Neck**:
+> 	- Apply **Lemon + Aloe Vera Gel** and rinse after 10 mins  
+> - **Dark Private Area**: 
+> 	- Apply **Coconut Oil + Lemon** 15 mins before shower  
 
 > **Daily Tasks (Night)** 
-> - Apply **Lemon Juice** with a cotton pad after cleansing
-> - Apply **Turmeric Powder and Honey Mask** every night to treat pigmentation and acne scars
-
+> - Apply **Turmeric + Honey Mask**  
+> - **Lip Pigmentation**: Use **Beetroot + Coconut Oil/Ghee** overnight  
+> - **Dark Circles**: Dab **Potato Juice + Aloe Vera Gel** under eyes  
+> - Skip masks on exfoliation days (Tuesday/Saturday)
 
 ---
 
@@ -24,64 +33,56 @@
 > [!multi-column]
 >
 >> **Sunday**
->> - **Tightening Pack**
->> 	  - **Ingredients**: 
->> 		  - Rice Flower + Tok Doi + Halud
->> 		  - Make paste, apply 15 mins, rinse
+>> - **Tightening Pack**  
+>>     - Rice Flour + Yogurt + Turmeric Powder (15 mins)  
+>> - **Dark Neck**: Use **Baking Soda + Water Paste** gently  
+>> - **Dark Circles**: Place **Green Tea Bags** on eyes (10–15 mins)
 >
 >> **Monday**
->> - **Brightening Pack**
->> 	  - **Ingredients**: 
->> 		  - Besan + Lemon + Doi + Halud
->> 		  - Apply, dry fully, rinse
+>> - **Brightening Pack**  
+>>     - Gram Flour + Lemon + Yogurt + Turmeric Powder  
+>> - **Lip Scrub**: Sugar + Olive Oil (1 min scrub, rinse)  
+>> - **Dark Private Area**: Apply **Aloe Vera + Turmeric** mask (10 mins)
 
 > [!multi-column]
 >
 >> **Tuesday**
->> - **Sugar Scrub**
->> 	  - **Ingredients**: 
->> 		  - Sugar + Honey + Lemon
->> 		  - Gently scrub 1–2 mins, rinse
->> - **Spot Mask**
->> 	- **Ingredients**:
->> 		- Holud+Honey
+>> - **Sugar Scrub**  
+>>     - Sugar + Honey + Lemon (Face + Neck gently)  
+>> - **Anti-aging + Glow Boosting Mask**  
+>>     - Coffee + Honey  
+>> - **Dark Circles**: Cucumber Juice or slices  
 >
 >> **Wednesday**
->> - **Tightening Pack**
->> 	  - **Ingredients**: 
->> 		  - Besan + Lemon + Doi + Halud
->> 		  - Apply, dry fully, rinse
+>> - **Tightening Pack**  
+>>     - Gram Flour + Lemon + Yogurt + Turmeric Powder  
+>> - **Dark Neck**: Rice Flour + Milk + Honey scrub  
+>> - **Lip**: Apply **Beetroot Juice** during evening
 
->[!danger] Thursday
-> Let skin breathe. Rest the day.
+>[!warning] Thursday  
+>Let skin breathe. Rest the day. Only use lip balm and under-eye gel if needed.
 
 > [!multi-column]
 >
 >> **Friday**
->> - **Brightening Pack**
->> 	  - **Ingredients**: 
->> 		  - Chaler gura + Tok Doi + Halud
->> 		  - Apply 15 mins, rinse
+>> - **Brightening Pack**  
+>>     - Rice Flour + Yogurt + Turmeric Powder (15 mins)  
+>> - **Dark Circles**: Apply **Potato + Aloe Vera Gel**  
+>> - **Private Area**: Apply **Oatmeal + Yogurt Mask** (gentle, 10 mins)
 >
 >> **Saturday**
->> - **Sugar Scrub**
->> 	  - **Ingredients**: 
->> 		  - Sugar + Honey + Lemon
->> 		  - Scrub gently, rinse
->> - **Coffee & Honey Pack**
->> 	  - **Ingredients**: 
->> 		  - Coffee + Honey
-
-
----
- 
-> [!abstract] **🥗 Additional Tips:**
-> - **Hydrate**: Drink at least 8 glasses of water daily to keep skin moisturized from within.
-> - **Diet**: Focus on eating fruits, vegetables, and foods rich in vitamins (A, C, E).
-> - **Sleep**: Ensure 7-8 hours of sleep for skin regeneration.
-> - **Stress Management**: Engage in stress-relieving activities like light exercise, reading, or relaxation techniques.
-> - **Progress Tracking**: Track changes in your skin condition using Obsidian notes and adjust routine as needed.
+>> - **Sugar Scrub**  
+>>     - Sugar + Honey + Lemon  
+>> - **Anti-aging + Glow Boosting Mask**  
+>>     - Coffee + Honey  
+>> - **Dark Neck**: Apply **Lemon + Aloe Vera Gel**  
+>> - **Dark Circles**: Use **Chilled Green Tea Bags**
 
 ---
 
-> **End of Routine**
+> [!note] **🥗 Additional Tips:**
+> - **Hydrate**: Drink at least 8 glasses of water daily.  
+> - **Diet**: Eat fruits, vegetables, and vitamin-rich foods (A, C, E).  
+> - **Sleep**: Aim for 7–8 hours of restful sleep.  
+> - **Stress Management**: Try reading, meditation, or light walks.  
+> - **Progress Tracking**: Use Obsidian to log daily/weekly results and adjust monthly.
