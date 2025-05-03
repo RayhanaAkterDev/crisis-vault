@@ -24,35 +24,21 @@
             }
           },
           {
-            "id": "e4a05f36095e8b8c",
+            "id": "e27356b008aa7600",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-03.md",
+                "file": "401 - Algorithm Design and Analysis/Chapter - 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-03"
-            }
-          },
-          {
-            "id": "12dc012b5e08bd0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily_Notes/2025-05-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-03"
+              "title": "Chapter - 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,12 +237,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "12dc012b5e08bd0e",
+  "active": "e27356b008aa7600",
   "lastOpenFiles": [
+    "Journal/Daily_Notes/2025-05-03.md",
+    "Journal/Daily_Notes/2025-05-04.md",
+    "Journal/Weekly_Dashboard/2025-W19.md",
+    "Templates/daily_template.md",
+    "Journal/Daily_Notes/2025-05-01.md",
+    "Journal/Daily_Notes/2025-05-02.md",
     "Hair Care.md",
     "Skin Care.md",
-    "Journal/Daily_Notes/2025-05-03.md",
-    "Journal/Weekly_Dashboard/2025-W19.md",
     "603 - Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists (ES).md",
     "Calculation.md",
     "602 - Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists (CN).md",
@@ -275,10 +265,6 @@
     "603 - Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
     "603 - Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
     "602 - Computer Network/Short Notes.md",
-    "602 - Computer Network/Non-Chapter Questions.md",
-    "602 - Computer Network/Chapter 7 - Application Layer/Chapter 7 - Question Lists.md",
-    "602 - Computer Network/Chapter 6 - Optical Fiber Network/Chapter 6 - Question Lists.md",
-    "602 - Computer Network/Chapter 5 - Network Layer/Chapter 5 - Question Lists.md",
     "402 - Numerical Analysis",
     "401 - Algorithm Design and Analysis",
     "604 - Theory of Computation/Chapter 9 - Undesirability & Intractable Problems",

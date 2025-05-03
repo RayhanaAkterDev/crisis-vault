@@ -6,7 +6,7 @@ Week No. [[Journal/Weekly_Dashboard/<%moment(tp.file.title).format("gggg-[W]ww")
 ## ✨ Focus of the Day:  
 > *(e.g., Study, Self-care, Rest)*
 
-## 🌸 5 Key Missions for Today:
+## 🌸 Today’s Missions:
 - [ ] **Task 1** – *(e.g., Study math for 1 hour)*
 - [ ] **Task 2** – *(e.g., Walk for 10 mins)*
 - [ ] **Task 3** – *(e.g., Take vitamins)*
