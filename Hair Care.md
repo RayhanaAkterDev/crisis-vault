@@ -30,27 +30,29 @@
 
 > **Monday** - **Shampoo Day**  
 > - **Action**  
->     - **Mask**:  
->         - **Egg Mask** *(only once a month)*  
->             - 1 egg  
->             - Juice of ½ lemon  
->             - Mix and apply to scalp and hair. Leave for 30 minutes, then wash.  
->     - **Non-Egg Mask Weeks**:  
->         - **Aloe Vera + Yogurt + Honey Mask** *(hydration, dandruff relief)*  
->             - 2 tbsp fresh Aloe Vera Gel  
->             - 2 tbsp Yogurt  
->             - 1 tbsp Honey  
->             - Mix well and apply from scalp to tips  
->             - Leave for **30–40 minutes**, then rinse with lukewarm water  
->     - **Hair Wash**: Use a mild shampoo (or DIY: Shikakai, Reetha, Amla mix).  
->     - **Final Rinse**:  
->         - Use diluted **lemon juice** as final rinse  
->             - Mix juice of ½ lemon in 1 cup of water  
->             - Pour after shampoo, leave for 2–3 minutes, then rinse  
->     - **Conditioning**:  
->         - **Coconut Oil & Honey Conditioner** *(if available)*  
->             - Mix 1 tbsp Coconut Oil + 1 tbsp Honey  
->             - Apply to ends, leave 5–10 mins, then rinse with lukewarm water
+>    - **Mask**:  
+>        - **Egg Mask** *(only once a month)*  
+>            - 1 egg  
+>            - 1 tbsp Olive Oil (or Coconut Oil)  
+>            - 1 tbsp Lemon Juice (optional)  
+>            - **Optional**: 1 tbsp Amla Powder / Fenugreek Powder (Methi)  
+>            - Mix and apply to scalp and hair. Leave for 30 minutes, then wash.  
+>    - **Non-Egg Mask Weeks**:  
+>        - **Aloe Vera + Honey Mask** *(hydration, dandruff relief)*  
+>            - 2 tbsp fresh Aloe Vera Gel  
+>            - 1 tbsp Honey  
+>            - 1 tbsp Lemon Juice / Apple Cider Vinegar  
+>            - Mix well and apply from scalp to tips  
+>            - Leave for **20–30 minutes**, then rinse with lukewarm water  
+>    - **Hair Wash**: Use a mild shampoo (or DIY: Shikakai, Reetha, Amla mix).  
+>    - **Final Rinse**:  
+>        - Use diluted **lemon juice** as final rinse  
+>            - Mix juice of ½ lemon in 1 cup of water  
+>            - Pour after shampoo, leave for 2–3 minutes, then rinse  
+>    - **Conditioning**:  
+>        - **Coconut Oil & Honey Conditioner** *(if available)*  
+>            - Mix 1 tbsp Coconut Oil + 1 tbsp Honey  
+>            - Apply to ends, leave 5–10 mins, then rinse with lukewarm water
 
 ---
 
@@ -83,6 +85,11 @@
 
 > **Friday** - **Henna Hair Mask + Light Oiling**  
 > - **Action**:  
+>     - **Aloe Vera Scalp Pack**  
+>         - **Ingredients**: Aloe Vera Gel + Lemon Juice + Coconut Oil (optional)  
+>         - Apply to scalp, wait 20 minutes, rinse.  
+>     - **Light Oiling**: After hair dries, apply a small amount of lightweight oil to scalp & ends.  
+
 >     - **Henna Hair Mask**  
 >         - Mix 2 tbsp Henna powder with 1 tbsp Yogurt and 1 tbsp Aloe Vera Gel to form a smooth paste.  
 >         - Add 1 tbsp Coconut Oil for extra nourishment and hydration.  
@@ -90,19 +97,23 @@
 >     - **Hair Oiling**:  
 >         - On damp hair, apply a few drops of Coconut Oil to the ends to prevent dryness and add shine. 
 
-> 🍵**Saturday** - **Shampoo Day**  
+> **Saturday** - **Shampoo Day**  
 > - **Action**:  
 >     - **Hair Mask**:  
->         - **Banana + Yogurt + Honey Mask** *(for softness, shine & frizz control)*  
->             - 1 ripe banana (mashed smoothly)  
->             - 2 tbsp yogurt  
->             - 1 tbsp honey  
->             - (Optional) 1 tsp olive oil or coconut oil  
->             - Blend well to remove lumps. Apply from scalp to ends.  
->             - Leave on for **30–40 minutes**, then rinse with lukewarm water.  
->     - **Hair Wash**: Use a mild shampoo.  
->     - **Black Tea Rinse**: Boil black tea leaves, cool, and use it.  
->     - **Conditioning**: Same as Monday.
+>         - **Banana + Yogurt Mask + Honey** (moisturizing & softening)  
+>             - Mash 1 ripe banana  
+>             - Mix with 2 tablespoons of yogurt  
+>             - 
+>             - Apply to hair lengths and scalp, leave for 30–40 minutes  
+>     - **Hair Wash**:  
+>         - Use a mild shampoo to cleanse mask residue  
+>     - **Black Tea Rinse**:  
+>         - Boil 1–2 tsp black tea leaves in 1 cup water  
+>         - Cool, strain, and pour over hair after shampoo  
+>         - Leave for 2–3 mins and rinse with cool water  
+>     - **Conditioning**:  
+>         - After towel-drying, apply **a few drops** of oil
+>         - Focus only on the ends — skip the scalp  
 
 ---
 
