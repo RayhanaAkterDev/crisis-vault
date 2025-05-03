@@ -30,17 +30,27 @@
 
 > **Monday** - **Shampoo Day**  
 > - **Action**  
-> 	- - **Mask**: Apply the **Egg Mask** (1 egg + lemon juice) once a month for dandruff & texture.
-> 		- **On non-egg mask weeks**, try a different mask such as **Aloe Vera & Honey Mask** (for hydration).
-> 	- **Hair Wash**
-> 		- Use a mild shampoo (or DIY: Shikakai, Reetha, Amla mix).
-> 	- **Final Rinse**
-> 		- Use diluted **lemon juice** as the final rinse.
-> 			- Mix the juice of half a lemon in 1 cup of water. Pour this over your hair after shampooing and leave it in for **2–3 minutes**.
-> 	- **Conditioning**
-> 		- After shampoo and lemon rinse, apply **Coconut Oil & Honey Conditioner**.
-> 			- Mix 1 tablespoon of **Coconut Oil** + 1 tablespoon of **Honey**
-> 			- Apply it to your hair, focusing on the ends, leave for 5–10 minutes, then rinse with lukewarm water.
+>     - **Mask**:  
+>         - **Egg Mask** *(only once a month)*  
+>             - 1 egg  
+>             - Juice of ½ lemon  
+>             - Mix and apply to scalp and hair. Leave for 30 minutes, then wash.  
+>     - **Non-Egg Mask Weeks**:  
+>         - **Aloe Vera + Yogurt + Honey Mask** *(hydration, dandruff relief)*  
+>             - 2 tbsp fresh Aloe Vera Gel  
+>             - 2 tbsp Yogurt  
+>             - 1 tbsp Honey  
+>             - Mix well and apply from scalp to tips  
+>             - Leave for **30–40 minutes**, then rinse with lukewarm water  
+>     - **Hair Wash**: Use a mild shampoo (or DIY: Shikakai, Reetha, Amla mix).  
+>     - **Final Rinse**:  
+>         - Use diluted **lemon juice** as final rinse  
+>             - Mix juice of ½ lemon in 1 cup of water  
+>             - Pour after shampoo, leave for 2–3 minutes, then rinse  
+>     - **Conditioning**:  
+>         - **Coconut Oil & Honey Conditioner** *(if available)*  
+>             - Mix 1 tbsp Coconut Oil + 1 tbsp Honey  
+>             - Apply to ends, leave 5–10 mins, then rinse with lukewarm water
 
 ---
 
@@ -67,7 +77,7 @@
 > - **Action**:  
 >     - No oiling or shampooing.  
 >     - Gently comb your hair with a wide-tooth comb.  
->     - **Optional**: Apply a small amount of **Aloe Vera** gel to damp hair. Let it stay and dry naturally.  
+>     - **Optional**: Apply a small amount of **Aloe Vera** gel to damp hair. 
 
 ---
 
@@ -82,10 +92,17 @@
 
 > 🍵**Saturday** - **Shampoo Day**  
 > - **Action**:  
-> 	- **Hair Mask**
-> 	- **Hair Wash**: Use a mild shampoo.
-> 	- **Black Tea Rinse**: Boil black tea leaves, cool, and use it.  
-> 	- **Conditioning**: Same as Monday.
+>     - **Hair Mask**:  
+>         - **Banana + Yogurt + Honey Mask** *(for softness, shine & frizz control)*  
+>             - 1 ripe banana (mashed smoothly)  
+>             - 2 tbsp yogurt  
+>             - 1 tbsp honey  
+>             - (Optional) 1 tsp olive oil or coconut oil  
+>             - Blend well to remove lumps. Apply from scalp to ends.  
+>             - Leave on for **30–40 minutes**, then rinse with lukewarm water.  
+>     - **Hair Wash**: Use a mild shampoo.  
+>     - **Black Tea Rinse**: Boil black tea leaves, cool, and use it.  
+>     - **Conditioning**: Same as Monday.
 
 ---
 
