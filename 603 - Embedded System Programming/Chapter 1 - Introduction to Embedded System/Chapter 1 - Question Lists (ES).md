@@ -5,6 +5,7 @@
 5. What are the Possible Organization of an Embedded System?
 6. What is the Concept of embedded programming system? 
 7. Describe the characteristics of an embedded system.
+   
 8. Define Embedded system programming. Give an example of an embedded system and describe how it works.
 9. Explain IoT in Embedded system programming (with example). #board_2022 #board_2020 
 10. What are the essential components of embedded system?
@@ -12,6 +13,7 @@
 12. (Define) What is Visual Programming? #board_2020 
 13. Write some pros and cons of visual programming. #board_2020 
 14. Compare between regular programming language and visual programming language. #board_2020 
+    
 15. What is a visual programming language? #board_2021 
 16. List the benefits and drawbacks of visual programming language against traditional programming languages. #board_2021 
 17. Give a concept of Visual System Programming
