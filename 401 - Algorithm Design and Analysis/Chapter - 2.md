@@ -8,5 +8,9 @@
 8. Write down the complexity of a sorting algorithm. [2020] ***
 9. Write down the quick sort algorithm. [2017] **
 10. Prove that best case complexity of quick sort algorithm is O(nlog2n). [2020] ***
-11. Prove that best case complexity of quick sort algorithm is O(nlog2n). [2020] ***
-12. Calculate the average case complexity of quick sort algorithm. [2019] ***
+11. Calculate the average case complexity of quick sort algorithm. [2019] ***
+12. Which applications are not suitable for quick sort algorithm and why? [2018] **
+13. Perform merge sort for the following list of numbers - [2019] ***
+14. Write down  an algorithm to find the maximum and minimum number from a given set of numbers.  [2020, 18] ***
+15. Find max and min from the sequences 33, 11, 44, 55, 66, and 62 using the divide and conquer method. [2021] *
+16. For the following list of elements, trace the recursive algorithm for finding max and min and determine how many comparisons have been made - 24, 14, -5, -8, 15, 50, 18, 30, 48. [2017] **

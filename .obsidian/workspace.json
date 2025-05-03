@@ -8,31 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20437202ac539785",
+            "id": "256578aa20788001",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401 - Algorithm Design and Analysis/Chapter - 1.md",
-                "mode": "preview",
+                "file": "Journal/Weekly_Dashboard/2025-W19.md",
+                "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Chapter - 1"
+              "title": "2025-W19"
             }
           },
           {
-            "id": "256578aa20788001",
+            "id": "f21474f9ca3fab8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401 - Algorithm Design and Analysis/Chapter - 2.md",
+                "file": "Calculation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter - 2"
+              "title": "Calculation"
             }
           }
         ],
@@ -235,34 +237,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "256578aa20788001",
+  "active": "ef82c6be0b23cbd3",
   "lastOpenFiles": [
-    "401 - Algorithm Design and Analysis/Chapter - 1.md",
-    "401 - Algorithm Design and Analysis/Chapter - 2.md",
-    "Journal/Weekly_Dashboard/2025-W19.md",
-    "Skin Care.md",
-    "Hair Care.md",
-    "Journal/Daily_Notes/2025-05-02.md",
-    "Journal/Daily_Notes/2025-05-03.md",
-    "402 - Numerical Analysis/Set - 1.md",
-    "602 - Computer Network/Chapter 1 - Introduction/SE Day 1 - Chapter 1 Question (1-3).md",
-    "Journal/Daily_Notes/2025-05-01.md",
-    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/SE Day 1 - Chapter 1 Question (1-3).md",
-    "602 - Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists.md",
-    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists.md",
-    "Monthly_Schedule/2025-05.md",
-    "Journal/Weekly_Dashboard/2025-W18.md",
-    "Templates/weekly_template.md",
-    "Templates/monthly_template.md",
-    "Templates/daily_template.md",
-    "604 - Theory of Computation/Chapter 1 - Language Theory/Chapter 1 - Question Lists.md",
-    "603 - Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists.md",
     "603 - Embedded System Programming/Non-Chapter Questions.md",
+    "Journal/Weekly_Dashboard/2025-W19.md",
     "603 - Embedded System Programming/Chapter 9 - Linker & Loader/Chapter 9 - Question Lists.md",
     "603 - Embedded System Programming/Chapter 8 - Compiler & Assembler/Chapter 8 - Question Lists.md",
     "603 - Embedded System Programming/Chapter 7 - XML/Chapter 7 - Question Lists.md",
     "603 - Embedded System Programming/Chapter 6 - WWW, Kernel, ASP/Chapter 6 - Question Lists.md",
     "603 - Embedded System Programming/Chapter 5 - Multithread, XSLT/Chapter 5 - Question Lists.md",
+    "603 - Embedded System Programming/Chapter 4 - Web server and API/Chapter 4 - Question Lists.md",
+    "603 - Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
+    "603 - Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
+    "603 - Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists.md",
+    "Calculation.md",
+    "602 - Computer Network/Short Notes.md",
+    "602 - Computer Network/Non-Chapter Questions.md",
+    "602 - Computer Network/Chapter 7 - Application Layer/Chapter 7 - Question Lists.md",
+    "602 - Computer Network/Chapter 6 - Optical Fiber Network/Chapter 6 - Question Lists.md",
+    "602 - Computer Network/Chapter 5 - Network Layer/Chapter 5 - Question Lists.md",
+    "602 - Computer Network/Chapter 4 - Medium Access Sub-layer/Chapter 4 - Question Lists.md",
+    "602 - Computer Network/Chapter 3 - ATM Networks/Chapter 3 - Question Lists.md",
+    "602 - Computer Network/Chapter 2 - Frame Relay/Chapter 2 - Question Lists.md",
+    "602 - Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists.md",
+    "601 - Software Engineering/Software Engineering Questions By Pouly Bhumic.md",
+    "601 - Software Engineering/Non-Chapter  Questions.md",
+    "601 - Software Engineering/Chapter 5 - Software Management and Maintenance Technique/Chapter 5 - Question Lists.md",
+    "601 - Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists.md",
+    "601 - Software Engineering/Chapter 4 - Software Testing Technique and Strategies/Chapter 4 - Question Lists.md",
     "402 - Numerical Analysis",
     "401 - Algorithm Design and Analysis",
     "604 - Theory of Computation/Chapter 9 - Undesirability & Intractable Problems",
