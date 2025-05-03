@@ -112,6 +112,20 @@
 
 ---
 
+## 📆 Weekly Hair Care Summary
+
+| Day       | Focus          | Estimated Time | Main Actions                                             |
+| --------- | -------------- | -------------- | -------------------------------------------------------- |
+| Sunday    | Deep Oiling    | 15 mins        | Overnight massage (coconut + castor)                     |
+| Monday    | Shampoo + Mask | 1.5–2 hrs      | Weekly mask (egg/aloe) + hair wash + rinse + conditioner |
+| Tuesday   | Light Oiling   | 30–40 mins     | Aloe Vera scalp pack + post-dry oiling                   |
+| Wednesday | Shampoo + Mask | 1.5 hrs        | Henna mask + wash + condition                            |
+| Thursday  | Rest           | 5–10 mins      | Light combing + aloe gel (optional)                      |
+| Friday    | Light Oiling   | 30–40 mins     | Aloe Vera scalp pack + post-dry oiling                   |
+|Saturday|Shampoo + Mask|1.5–2 hrs|Banana mask + wash + tea rinse + oil ends|
+
+---
+
 > [!note] 📝 **Reminders & Tracking**  
 > - ✍️ Log visible changes monthly (volume, shine, fall, scalp health).  
 > - 🧴 Don’t switch products too frequently.  
