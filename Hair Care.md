@@ -30,20 +30,17 @@
 
 > **Monday** - **Shampoo Day**  
 > - **Action**  
->    - **Mask**:  
->        - **Egg Mask** *(only once a month)*  
->            - 1 egg  
->            - 1 tbsp Olive Oil (or Coconut Oil)  
->            - 1 tbsp Lemon Juice (optional)  
->            - **Optional**: 1 tbsp Amla Powder / Fenugreek Powder (Methi)  
->            - Mix and apply to scalp and hair. Leave for 30 minutes, then wash.  
->    - **Non-Egg Mask Weeks**:  
->        - **Aloe Vera + Honey Mask** *(hydration, dandruff relief)*  
->            - 2 tbsp fresh Aloe Vera Gel  
->            - 1 tbsp Honey  
->            - 1 tbsp Lemon Juice / Apple Cider Vinegar  
->            - Mix well and apply from scalp to tips  
->            - Leave for **20–30 minutes**, then rinse with lukewarm water  
+> 	- **Egg Mask** *(only once a month)*  
+> 		- 1 egg  + 1 tbsp Oil + 1 tbsp Lemon Juice
+> 		- 1 tbsp Amla Powder / Fenugreek Powder (Methi)  
+> 		- Mix and apply to scalp and hair. Leave for 30 minutes, then wash.  
+>	- **Non-Egg Mask Weeks**:  
+>		- 2 tbsp Aloe Vera Gel + 1 tbsp Lemon Juice
+>		- 1 tbsp Methi Paste *(soak overnight, grind into smooth paste)*  
+>		- 1 tbsp Yogurt *(optional for added hydration)*
+>		- Mix all ingredients into a smooth, cooling mask  
+>		- Apply generously to scalp, lightly to hair strands  
+>		- Leave for **30–40 minutes**, then rinse with mild herbal shampoo
 >    - **Hair Wash**: Use a mild shampoo (or DIY: Shikakai, Reetha, Amla mix).  
 >    - **Final Rinse**:  
 >        - Use diluted **lemon juice** as final rinse  
@@ -56,22 +53,26 @@
 
 ---
 
-
 > **Tuesday** - **Light Oiling**  
 > - **Action**:  
 >     - **Aloe Vera Scalp Pack**  
->         - **Ingredients**: Aloe Vera Gel + Lemon Juice + Coconut Oil (optional)  
+>         - **Ingredients**: 
+> 	        - Aloe Vera Gel  
+> 	        - Lemon Juice  
+> 	        - Coconut Oil (optional)  
 >         - Apply to scalp, wait 20 minutes, rinse.  
 >     - **Light Oiling**: After hair dries, apply a small amount of lightweight oil to scalp & ends.  
 
-> **Wednesday** - **Shampoo Day with Fenugreek & Flaxseed Hair Mask**  
+> **Wednesday** - **Shampoo Day**
 > - **Action**:  
->     - **Fenugreek (Methi) & Flaxseed Hair Mask**  
->         - Soak Methi overnight, blend into paste.  
->         - Prepare Flaxseed Gel by boiling 2 tbsp flaxseeds in water and straining.  
->         - Mix the Methi paste with 1 tbsp Coconut Oil, 1 tsp Honey, 1 tbsp Aloe Vera Gel, and 2 tbsp Flaxseed Gel.  
->         - Apply for 30–45 minutes before washing.  
->     - **Hair Wash & Conditioning**: Same as Monday.  
+> 	- **Ingredients**
+> 		- 2 tbsp Henna 
+> 		- 2 tbsp Yogurt  
+> 		- 1 tbsp Methi Paste  
+> 		- 1 tbsp Coconut Oil 
+> 		- 1 tbsp Flaxseed Gel.
+> 	- Leave for **1–1.5 hours**, then rinse with mild shampoo.  
+> - **Hair Wash & Conditioning**: Same as Monday.  
 
 ---
 
@@ -83,27 +84,21 @@
 
 ---
 
-> **Friday** - **Henna Hair Mask + Light Oiling**  
+> **Friday** - **Light Oiling**  
 > - **Action**:  
 >     - **Aloe Vera Scalp Pack**  
->         - **Ingredients**: Aloe Vera Gel + Lemon Juice + Coconut Oil (optional)  
+>         - **Ingredients**: 
+> 	        - Aloe Vera Gel 
+> 	        - Lemon Juice 
+> 	        - Coconut Oil (optional)  
 >         - Apply to scalp, wait 20 minutes, rinse.  
 >     - **Light Oiling**: After hair dries, apply a small amount of lightweight oil to scalp & ends.  
-
->     - **Henna Hair Mask**  
->         - Mix 2 tbsp Henna powder with 1 tbsp Yogurt and 1 tbsp Aloe Vera Gel to form a smooth paste.  
->         - Add 1 tbsp Coconut Oil for extra nourishment and hydration.  
->         - Apply to hair and scalp, leave for 30–45 minutes, then wash off.  
->     - **Hair Oiling**:  
->         - On damp hair, apply a few drops of Coconut Oil to the ends to prevent dryness and add shine. 
 
 > **Saturday** - **Shampoo Day**  
 > - **Action**:  
 >     - **Hair Mask**:  
 >         - **Banana + Yogurt Mask + Honey** (moisturizing & softening)  
->             - Mash 1 ripe banana  
->             - Mix with 2 tablespoons of yogurt  
->             - 
+>             - 1 ripe banana + 2 tbsp yogurt + 2-3 drops honey
 >             - Apply to hair lengths and scalp, leave for 30–40 minutes  
 >     - **Hair Wash**:  
 >         - Use a mild shampoo to cleanse mask residue  
