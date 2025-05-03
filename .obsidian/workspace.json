@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculation.md",
+                "file": "Journal/Daily_Notes/2025-05-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculation"
+              "title": "2025-05-03"
             }
           }
         ],
@@ -237,8 +237,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ef82c6be0b23cbd3",
+  "active": "f21474f9ca3fab8c",
   "lastOpenFiles": [
+    "Calculation.md",
     "603 - Embedded System Programming/Non-Chapter Questions.md",
     "Journal/Weekly_Dashboard/2025-W19.md",
     "603 - Embedded System Programming/Chapter 9 - Linker & Loader/Chapter 9 - Question Lists.md",
@@ -250,7 +251,6 @@
     "603 - Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
     "603 - Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
     "603 - Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists.md",
-    "Calculation.md",
     "602 - Computer Network/Short Notes.md",
     "602 - Computer Network/Non-Chapter Questions.md",
     "602 - Computer Network/Chapter 7 - Application Layer/Chapter 7 - Question Lists.md",
