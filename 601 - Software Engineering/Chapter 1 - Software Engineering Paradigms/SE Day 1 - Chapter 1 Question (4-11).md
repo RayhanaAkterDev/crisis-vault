@@ -2,12 +2,12 @@
 	- Explain the attribute of a good software product. 
 >[!note] Attributes of a good software product:
 >There are 4 attributes of a good software  –
->1. **Maintainability**:
+>1. **Maintainability**: Software written in such a way so that it can evolve to meet the changing need of customers. This is a critical attribute because software change is an inevitable requirement of a changing business environment..
 >2. **Dependability**:
 >3. **Efficiency**:
->4. Acceptability:
-
-
+>4. **Acceptability**:
+>
+> *For the rest explanation see the exam-kit page no. 7. ques. no. 6*
 
 > [!abstract] List of characteristics of software quality:
 > 5. **Functionality**: The software should perform all intended functions accurately and meet user or system needs.
@@ -27,7 +27,11 @@
 5. List out the key challenges facing software engineering and discuss those. #board_2022 #board_2020  
 	- Mention the key challenges facing four qualities that are used to access software. #board_2019 
 > [!note] Key challenges facing software engineering:
-> 18. 
+> 1. **The heterogeneity challenge**: Increasingly, systems are required to operate as distributed systems across networks that include different types of computer and with different kinds of supports systems. The heterogeneity challenge is the challenge of developing techniques to build dependable software which is flexible enough to cope with this heterogeneity.
+> 2. **Legacy System Integration**:They majority of software systems which are in use were developed many years ago yet they perform critical business functions. The legacy challenge is the challenge of maintaining and updating this software in such a way that excessive costs are avoided and essential business services continue to be delivered.
+> 3. **Adapting to Business and Social Change**: 
+> 4. **Security and Trust**:
+> 5. **Delivery Speed and Efficiency**:
 	
 6. Discuss about the professional and ethical responsibilities of a software engineering. #board_2021 
 7. Write down some characteristics of legacy software. #board_2021 
