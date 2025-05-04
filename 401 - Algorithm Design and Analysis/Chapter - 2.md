@@ -1,20 +1,20 @@
-1. What is the divide and conquer method? [2021, 19, 18, 17] *
-2. Write the application & properties of divide and conquer method. [2021, 20, 19, 18, 17]
-3. State the control abstraction of divide and conquer technique. [2020] ***
+- [ ] 1. What is the divide and conquer method? [2021, 19, 18, 17] *
+- [ ] 2. Write the application & properties of divide and conquer method. [2021, 20, 19, 18, 17]
+- [ ] 3. State the control abstraction of divide and conquer technique. [2020] ***
 
-4. How does Binary search work? Write down the advantages and disadvantages of binary search over linear search algorithms. [2017] *
-5. Write down the difference between linear search and binary search. [2019]
-6. Write down an algorithm for binary search. [2021] **
-7. Simulate the binary search algorithm using the following set of numbers -
+2. How does Binary search work? Write down the advantages and disadvantages of binary search over linear search algorithms. [2017] *
+3. Write down the difference between linear search and binary search. [2019]
+4. Write down an algorithm for binary search. [2021] **
+5. Simulate the binary search algorithm using the following set of numbers -
 
-8. Write down the quick sort algorithm. [2017] **
-9. Prove that best case complexity of quick sort algorithm is O(nlog2n). [2020] ***
-10. Calculate the average case complexity of quick sort algorithm. [2019] ***
-11. Which applications are not suitable for quick sort algorithm and why? [2018] **
+6. Write down the quick sort algorithm. [2017] **
+7. Prove that best case complexity of quick sort algorithm is O(nlog2n). [2020] ***
+8. Calculate the average case complexity of quick sort algorithm. [2019] ***
+9. Which applications are not suitable for quick sort algorithm and why? [2018] **
 
-12. Write down the complexity of a sorting algorithm. [2020] ***
-13. Perform merge sort for the following list of numbers - [2019] ***
+10. Write down the complexity of a sorting algorithm. [2020] ***
+11. Perform merge sort for the following list of numbers - [2019] ***
 
-14. Write down  an algorithm to find the maximum and minimum number from a given set of numbers.  [2020, 18] ***
-15. Find max and min from the sequences 33, 11, 44, 55, 66, and 62 using the divide and conquer method. [2021] *
-16. For the following list of elements, trace the recursive algorithm for finding max and min and determine how many comparisons have been made - 24, 14, -5, -8, 15, 50, 18, 30, 48. [2017] **
+12. Write down  an algorithm to find the maximum and minimum number from a given set of numbers.  [2020, 18] ***
+13. Find max and min from the sequences 33, 11, 44, 55, 66, and 62 using the divide and conquer method. [2021] *
+14. For the following list of elements, trace the recursive algorithm for finding max and min and determine how many comparisons have been made - 24, 14, -5, -8, 15, 50, 18, 30, 48. [2017] **

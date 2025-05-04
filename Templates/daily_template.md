@@ -18,5 +18,11 @@ Week No. [[Journal/Weekly_Dashboard/<%moment(tp.file.title).format("gggg-[W]ww")
 ### ✨ Daily Reminder:  
 >"Today's small victories will build tomorrow's big dreams. Finish what you started."
 
+>"When you say you’ll do something — do it.  
+Every task is a promise.  
+The more promises you keep, the more your brain learns: _I can trust you._  
+And trust builds confidence.  
+Confidence becomes unstoppable energy."
+
 ---
 
