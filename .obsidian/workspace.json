@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-05.md",
+                "file": "602 - Computer Network/Chapter 5 - Network Layer/Chapter 5 - Question Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-05"
+              "title": "Chapter 5 - Question Lists"
             }
           }
         ],
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cell",
+                "query": "frame relay  header format",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,8 +254,9 @@
   },
   "active": "8e65ee1d4f24b00c",
   "lastOpenFiles": [
-    "401 - Algorithm Design and Analysis/Chapter - 2.md",
+    "602 - Computer Network/Chapter 3 - ATM Networks/Chapter 3 - Question Lists.md",
     "Journal/Daily_Notes/2025-05-05.md",
+    "401 - Algorithm Design and Analysis/Chapter - 2.md",
     "Journal/Weekly_Dashboard/2025-W19.md",
     "401 - Algorithm Design and Analysis/Chapter - 1.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/SE Day 1 - Chapter 1 Question (4-11).md",
@@ -278,7 +280,6 @@
     "603 - Embedded System Programming/Chapter 9 - Linker & Loader/Chapter 9 - Question Lists.md",
     "603 - Embedded System Programming/Chapter 8 - Compiler & Assembler/Chapter 8 - Question Lists.md",
     "603 - Embedded System Programming/Chapter 7 - XML/Chapter 7 - Question Lists.md",
-    "603 - Embedded System Programming/Chapter 6 - WWW, Kernel, ASP/Chapter 6 - Question Lists.md",
     "402 - Numerical Analysis",
     "401 - Algorithm Design and Analysis",
     "604 - Theory of Computation/Chapter 9 - Undesirability & Intractable Problems",

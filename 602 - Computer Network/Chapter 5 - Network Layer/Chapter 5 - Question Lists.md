@@ -1,3 +1,8 @@
+------------------------------------------------------------------
+| Start Flag | Address  | DLCI | Control Field | FCS | End Flag |+------------------------------------------------------------------+|            |          |      |               |     |          ||  (1 octet) | (2 octets) | (2 octets)| (1 octet) | (2 octets) | (1 octet) |+------------------------------------------------------------------+
+
+
+
 1. What is the purpose of the Address Resolution Protocol (ARP)? #board_2020 #board_2019 
 2. Is the size of the ARP packet fixed? Explain
 3. Distinguish between classless and class full IP addressing.
