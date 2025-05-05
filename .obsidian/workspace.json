@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "frame relay  header format",
+                "query": "layer of frame relay",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,7 +252,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8e65ee1d4f24b00c",
+  "active": "0f9213d6b20963ea",
   "lastOpenFiles": [
     "602 - Computer Network/Chapter 3 - ATM Networks/Chapter 3 - Question Lists.md",
     "Journal/Daily_Notes/2025-05-05.md",
