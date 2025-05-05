@@ -26,7 +26,7 @@
   "showNext": true,
   "pluginVersion": "0.27.0",
   "showCompletedTasks": true,
-  "showSubtasksInTaskBlocks": false,
+  "showSubtasksInTaskBlocks": true,
   "icals": [],
   "colorOverrides": [],
   "releaseNotes": true,

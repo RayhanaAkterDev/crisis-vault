@@ -24,37 +24,21 @@
             }
           },
           {
-            "id": "e27356b008aa7600",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily_Notes/2025-05-04.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-05-04"
-            }
-          },
-          {
             "id": "ecdeb50019a5f441",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-05.md",
+                "file": "401 - Algorithm Design and Analysis/Chapter - 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-05"
+              "title": "Chapter - 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,14 +239,14 @@
   },
   "active": "ecdeb50019a5f441",
   "lastOpenFiles": [
-    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/SE Day 1 - Chapter 1 Question (4-11).md",
     "Journal/Daily_Notes/2025-05-05.md",
+    "401 - Algorithm Design and Analysis/Chapter - 1.md",
+    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/SE Day 1 - Chapter 1 Question (4-11).md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/SE Day 1 - Chapter 1 Question (1-3).md",
     "Journal/Daily_Notes/2025-05-04.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists (SE).md",
     "401 - Algorithm Design and Analysis/Chapter - 2.md",
     "401 - Algorithm Design and Analysis/Ch 2 - Q (1-3).md",
-    "401 - Algorithm Design and Analysis/Chapter - 1.md",
     "Templates/daily_template.md",
     "Journal/Daily_Notes/2025-05-01.md",
     "Journal/Daily_Notes/2025-05-02.md",
