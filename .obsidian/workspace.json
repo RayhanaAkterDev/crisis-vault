@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "602 - Computer Network/Chapter 5 - Network Layer/Chapter 5 - Question Lists.md",
+                "file": "Journal/Daily_Notes/2025-05-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 5 - Question Lists"
+              "title": "2025-05-08"
             }
           }
         ],
@@ -252,8 +252,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0f9213d6b20963ea",
+  "active": "8e65ee1d4f24b00c",
   "lastOpenFiles": [
+    "602 - Computer Network/Chapter 5 - Network Layer/Chapter 5 - Question Lists.md",
+    "Journal/Daily_Notes/2025-05-08.md",
     "602 - Computer Network/Chapter 3 - ATM Networks/Chapter 3 - Question Lists.md",
     "Journal/Daily_Notes/2025-05-05.md",
     "401 - Algorithm Design and Analysis/Chapter - 2.md",
@@ -278,8 +280,6 @@
     "401 - Algorithm Design and Analysis/Chapter - 3.md",
     "603 - Embedded System Programming/Non-Chapter Questions.md",
     "603 - Embedded System Programming/Chapter 9 - Linker & Loader/Chapter 9 - Question Lists.md",
-    "603 - Embedded System Programming/Chapter 8 - Compiler & Assembler/Chapter 8 - Question Lists.md",
-    "603 - Embedded System Programming/Chapter 7 - XML/Chapter 7 - Question Lists.md",
     "402 - Numerical Analysis",
     "401 - Algorithm Design and Analysis",
     "604 - Theory of Computation/Chapter 9 - Undesirability & Intractable Problems",
