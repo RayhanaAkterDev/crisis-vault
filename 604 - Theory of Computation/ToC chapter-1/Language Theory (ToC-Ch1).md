@@ -25,4 +25,5 @@
 6. Using mathematical induction prove that for all #board_2022  $$ N \geq 0, \sum_{I=0}^{N} I^2 = \frac{N(N+1)(2N+1)}{6} $$ 
 7. Prove the theorem if $$ X\geq4, \quad \text{then} \quad 2^x \geq x^2 $$ (Using deductive proof) #board_2021 
 8. What is binary relation? Write properties of relations.
-9. Exam kit Question No. 10 and 11.
+9. Differentiate between $\sum=\left(0,1\right)$ and $\sum^1=\left(0,1\right)$ #board_2021 
+10. Exam kit Question No. 10 and 11. 
