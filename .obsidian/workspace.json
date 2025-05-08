@@ -4,24 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "a37f9a3bd728d32a",
-        "type": "tabs",
+        "id": "3d20481cc7babb2b",
+        "type": "split",
         "children": [
           {
-            "id": "468ba55d57f1b10b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "604 - Theory of Computation/ToC chapter-2/Finite Automata (ToC-Ch2).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finite Automata (ToC-Ch2)"
-            }
+            "id": "a37f9a3bd728d32a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "468ba55d57f1b10b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "604 - Theory of Computation/ToC chapter-1/Language Theory (ToC-Ch1).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Language Theory (ToC-Ch1)"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3e2d252254ee9561",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b9d1235d309e7de5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "604 - Theory of Computation/ToC chapter-2/Finite Automata (ToC-Ch2).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Finite Automata (ToC-Ch2)"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -173,13 +200,17 @@
             }
           },
           {
-            "id": "207c815525e88dcf",
+            "id": "b33b98ced13e543c",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "markdown",
+              "state": {
+                "file": "604 - Theory of Computation/ToC chapter-3/Regular expressions and its properties (ToC-Ch3).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regular expressions and its properties (ToC-Ch3)"
             }
           }
         ],
@@ -220,10 +251,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "468ba55d57f1b10b",
+  "active": "b9d1235d309e7de5",
   "lastOpenFiles": [
     "604 - Theory of Computation/ToC chapter-1/Language Theory (ToC-Ch1).md",
     "604 - Theory of Computation/ToC chapter-2/Finite Automata (ToC-Ch2).md",
+    "604 - Theory of Computation/ToC chapter-3/Regular expressions and its properties (ToC-Ch3).md",
     "Journal/Daily_Notes/2025-05-08.md",
     "602 - Computer Network/Chapter 5 - Network Layer/Chapter 5 - Question Lists.md",
     "602 - Computer Network/Chapter 3 - ATM Networks/Chapter 3 - Question Lists.md",
@@ -247,7 +279,6 @@
     "602 - Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists (CN).md",
     "602 - Computer Network/Chapter 1 - Introduction/SE Day 1 - Chapter 1 Question (1-3).md",
     "402 - Numerical Analysis/Set - 1.md",
-    "401 - Algorithm Design and Analysis/Chapter - 3.md",
     "402 - Numerical Analysis",
     "401 - Algorithm Design and Analysis",
     "604 - Theory of Computation/Chapter 9 - Undesirability & Intractable Problems",
@@ -256,7 +287,7 @@
     "604 - Theory of Computation/Chapter 6 - Pumping lemma and its applications",
     "604 - Theory of Computation/Chapter 5 - Context Free Languages and Grammers",
     "604 - Theory of Computation/Chapter 4 - Push Down Automata",
-    "604 - Theory of Computation/Chapter 3 - Regular expressions and its properties",
+    "604 - Theory of Computation/ToC chapter-3",
     "604 - Theory of Computation/ToC chapter-2",
     "Pasted image 20250428180437.png",
     "Untitled.canvas"
