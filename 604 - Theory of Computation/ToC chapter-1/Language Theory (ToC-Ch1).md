@@ -1,21 +1,15 @@
-1. Define automata. #board_2022 #board_2020 
-2. What are the reasons for studying automata theory in computer science? #board_2021 
+1. *Define automata.* #board_2022 #board_2020 
+2. *What are the reasons for studying automata theory in computer science?* #board_2021 
 3. Explain the following terms with necessary examples -
-	1. Symbols
-	2. String #board_2022 #board_2020 
-	3. Alphabet
+	1. *Symbols*
+	2. *String* #board_2022 #board_2020 
+	3. ~~Alphabet~~
 	4. Binary alphabet #board_2022 #board_2021 #board_2019 
 	5. Power of an alphabet #board_2022 #board_2021 #board_2019 
-	6. Language of automata #board_2019 
-	7. Grammar of language #board_2022 #board_2020 
-	8. Length of string
-	9. Empty string
-	10. Concatenation of string 
-	11. Graph
-	12. Directed graph
-	13. Tree
-	14. Relation
-	15. Equivalence relation (Various boards)
+	6. ~~Language~~
+	7. Language of automata #board_2019 
+	8. Grammar of language #board_2022 #board_2020 
+	9. ~~Length of string~~
 4. What is binary relation? Write properties of binary relation? #board_2020 #board_2019 
 5. What is deductive #board_2022 #board_2020 
 6. What is inductive proof? #board_2022 #board_2019 Prove the theorem using mathematical induction. #board_2019 
