@@ -1,7 +1,7 @@
 1. *What is finite automata?* #board_2021 #board_2020 
 2. *What is the utility of finite automata in respect of hardware and software?* #board_2021 
-3. Define NFA and DFA. #board_2018 #board_2019 
-4. Definition of Transition table.
+3. *Define NFA and DFA.* #board_2018 #board_2019  
+4. What do you mean by transition table and transition diagram? #board_2021 
 5. Difference between DFA and NFA. #board_2022 #board_2021 #board_2019 #board_2017 
 6. Design DFA's that accepts: 
 	1. Strings starting with $aba$ #board_2021 
