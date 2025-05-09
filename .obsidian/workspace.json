@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "tag:#board_2019",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,7 +224,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b61a14a41995ebb8",
+  "active": "0f9213d6b20963ea",
   "lastOpenFiles": [
     "Journal/Daily_Notes/2025-05-09.md",
     "604 - Theory of Computation/ToC chapter-1/Language Theory (ToC-Ch1).md",
