@@ -1,6 +1,3 @@
----
-model: gpt-4o-mini
----
 1. *Define automata.* #board_2022 #board_2020 
 2. *What are the reasons for studying automata theory in computer science?* #board_2021 
 3. Explain the following terms with necessary examples -
