@@ -22,6 +22,13 @@
 | r   | {s}   | ∅   |
 | *s  | {s}   | {s} |
 
+| States | A   | B   |
+| ------ | --- | --- |
+| q0     | q1  | q2  |
+| q1     | q1  | q3  |
+| q2     | q2  | q3  |
+| *q3    | q3  | q3  |
+
 8. Convert the following NFA to an equivalent DFA. Here 0 is starting and 10 is final state. #board_2021 #board_2019 [Figure is provided on chapter-2 question no. 27]
 9. Prove that if $D=\left(Q_{D},\sum,\delta_{D,}\left\lbrace q_0\right\rbrace,F_{D}\right)$ is the DFA constructed from NFA $N=\left(Q_{N},\sum,\delta_{N,}\left\lbrace q_0\right\rbrace,F_{N}\right)$ by the subset construction then $L(D) = L(N)$ #board_2021 
 10. Prove that, A language L is accepted by some DFA if and only if L is accepted by some NFA. #board_2020 #board_2019 
