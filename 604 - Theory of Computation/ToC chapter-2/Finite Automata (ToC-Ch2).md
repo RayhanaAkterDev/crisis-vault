@@ -1,18 +1,19 @@
 1. What is finite automata? #board_2021 #board_2020 
 2. What is the utility of finite automata in respect of hardware and software? #board_2021 
 3. Define NFA and DFA. #board_2018 #board_2019 
-4. Difference between DFA and NFA. #board_2022 #board_2021 #board_2019 #board_2017 
-5. Design DFA's that accepts: 
+4. Definition of Transition table.
+5. Difference between DFA and NFA. #board_2022 #board_2021 #board_2019 #board_2017 
+6. Design DFA's that accepts: 
 	1. Strings starting with $aba$ #board_2021 
 	2. Strings containing even number of $0's$ and even number of $1's$ #board_2021 
 	3. String start with one and ends with zero #board_2020 
 	4. String with aa & bb, $\sum\left\lbrace a,b\right\rbrace$ #board_2020 
 	   
-6. Convert to a DFA the following NFA: #board_2021 
+7. Convert to a DFA the following NFA: #board_2021 
 	1. *Figure provides on chapter 2 question no. 29]*
 	2. *Figure provides on chapter 2 question no. 22]*
 	   
-7. Convert the following NFA to DFA. #board_2022 
+8. Convert the following NFA to DFA. #board_2022 
 
 |     | 0     | 1   |
 | --- | ----- | --- |

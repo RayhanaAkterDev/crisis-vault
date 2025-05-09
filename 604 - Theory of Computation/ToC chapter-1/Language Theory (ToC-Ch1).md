@@ -15,8 +15,8 @@
 6. *What is inductive proof? Prove the theorem using mathematical induction.* #board_2022  #board_2019 
 7. *Using mathematical induction prove that for all* #board_2022  $$ N \geq 0, \sum_{I=0}^{N} I^2 = \frac{N(N+1)(2N+1)}{6} $$ 
 8. *Prove the theorem, if* $x\ge4$ then $2^{x}\ge x^2$  *(Using deductive proof)* #board_2021 #board_2020 
-9. Differentiate between $\sum=\left(0,1\right)$ and $\sum^1=\left(0,1\right)$ #board_2021 #board_2018 #board_2019 
-10. Explain $\sum^+$ and $\sum^*$ #board_2020 #board_2018 
+9. *Differentiate between* $\sum=\left(0,1\right)$ *and* $\sum^1=\left(0,1\right)$ #board_2021 #board_2018 #board_2019 
+10. *Explain* $\sum^+$ *and* $\sum^*$ #board_2020 #board_2018 
 
 <hr class="__chatgpt_plugin">
 
