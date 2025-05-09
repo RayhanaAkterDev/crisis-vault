@@ -10,8 +10,8 @@ model: gpt-4o-mini
 	4. *Binary alphabet* #board_2022 #board_2021 #board_2019 
 	5. * * #board_2022 #board_2021 #board_2019 
 	6. ~~Language~~
-	7. Language of automata #board_2019 
-	8. Grammar of language #board_2022 #board_2020 
+	7. *Language of automata* #board_2019 
+	8. * b * #board_2022 #board_2020 
 	9. ~~Length of string~~
 4. What is binary relation? Write properties of binary relation? #board_2020 #board_2019 
 5. What is deductive #board_2022 #board_2020 
