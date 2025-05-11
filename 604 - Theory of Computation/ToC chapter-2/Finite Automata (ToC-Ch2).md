@@ -2,7 +2,7 @@
 2. *What is the utility of finite automata in respect of hardware and software?* #board_2021 
 3. *Define NFA and DFA.* #board_2018 #board_2019  
 4. *What do you mean by transition table and transition diagram?* #board_2021 
-5. Difference between DFA and NFA. #board_2022 #board_2021 #board_2019 #board_2017 
+5. *Difference between DFA and NFA*. #board_2022 #board_2021 #board_2019 #board_2017 
 
 | DFA                                                                                                                                                 | NFA                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |

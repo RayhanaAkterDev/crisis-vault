@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "604 - Theory of Computation/ToC chapter-2/Finite Automata (ToC-Ch2).md",
+                "file": "Journal/Daily_Notes/2025-05-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finite Automata (ToC-Ch2)"
+              "title": "2025-05-11"
             }
           }
         ]
@@ -209,10 +209,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "96a39f643c040488",
+  "active": "b61a14a41995ebb8",
   "lastOpenFiles": [
-    "604 - Theory of Computation/ToC chapter-3/Regular expressions and its properties (ToC-Ch3).md",
     "604 - Theory of Computation/ToC chapter-2/Finite Automata (ToC-Ch2).md",
+    "Journal/Daily_Notes/2025-05-11.md",
+    "604 - Theory of Computation/ToC chapter-3/Regular expressions and its properties (ToC-Ch3).md",
     "Journal/Daily_Notes/2025-05-09.md",
     "604 - Theory of Computation/ToC chapter-1/Language Theory (ToC-Ch1).md",
     "604 - Theory of Computation/ToC chapter-5/Context free languages & grammars (ToC-Ch5).md",
@@ -238,7 +239,6 @@
     "Hair Care.md",
     "Skin Care.md",
     "603 - Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists (ES).md",
-    "Calculation.md",
     "402 - Numerical Analysis",
     "401 - Algorithm Design and Analysis",
     "604 - Theory of Computation/ToC chapter-9",
