@@ -17,7 +17,7 @@
 | The language of DFA, L(M) = {W\|}                                                                                                                   | The language of DFA,                                                                                   |
    
    
-6. Design DFA's that accepts: 
+6. *Design DFA's that accepts: *
 	1. Strings starting with $aba$ #board_2021 
 	2. Strings containing even number of $0's$ and even number of $1's$ #board_2021 
 	3. String start with one and ends with zero #board_2020 
