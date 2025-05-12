@@ -49,8 +49,8 @@
 | *{q1, q4}     | {q1, q4}     | {q1, q2, q4} | ∅   |
 | *q4           | q4           | q4           | ∅   |
 
-8. Prove that if $D=\left(Q_{D},\sum,\delta_{D,}\left\lbrace q_0\right\rbrace,F_{D}\right)$ is the DFA constructed from NFA $N=\left(Q_{N},\sum,\delta_{N,}\left\lbrace q_0\right\rbrace,F_{N}\right)$ by the subset construction then $L(D) = L(N)$ #board_2021 
-9. Prove that, A language L is accepted by some DFA if and only if L is accepted by some NFA. #board_2020 #board_2019 
-10. Minimize the following DFA by minimization algorithm: #board_2022 #board_2020 #board_2018  [Figure is provided on chapter-3 question no. 19]
+908. Prove that if $D=\left(Q_{D},\sum,\delta_{D,}\left\lbrace q_0\right\rbrace,F_{D}\right)$ is the DFA constructed from NFA $N=\left(Q_{N},\sum,\delta_{N,}\left\lbrace q_0\right\rbrace,F_{N}\right)$ by the subset construction then $L(D) = L(N)$ #board_2021 
+909. Prove that, A language L is accepted by some DFA if and only if L is accepted by some NFA. #board_2020 #board_2019 
+910. Minimize the following DFA by minimization algorithm: #board_2022 #board_2020 #board_2018  [Figure is provided on chapter-3 question no. 19]
 
 
