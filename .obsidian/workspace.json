@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "604 - Theory of Computation/ToC chapter-2/Finite Automata (ToC-Ch2).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -219,12 +219,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8595f0fa9c6241ee",
+  "active": "b61a14a41995ebb8",
   "lastOpenFiles": [
-    "Journal/Daily_Notes/2025-05-12.md",
-    "604 - Theory of Computation/ToC chapter-2/Finite Automata (ToC-Ch2).md",
-    "Journal/Daily_Notes/2025-05-11.md",
     "604 - Theory of Computation/ToC chapter-3/Regular expressions and its properties (ToC-Ch3).md",
+    "604 - Theory of Computation/ToC chapter-2/Finite Automata (ToC-Ch2).md",
+    "Journal/Daily_Notes/2025-05-12.md",
+    "Journal/Daily_Notes/2025-05-11.md",
     "Journal/Daily_Notes/2025-05-09.md",
     "604 - Theory of Computation/ToC chapter-1/Language Theory (ToC-Ch1).md",
     "604 - Theory of Computation/ToC chapter-5/Context free languages & grammars (ToC-Ch5).md",
