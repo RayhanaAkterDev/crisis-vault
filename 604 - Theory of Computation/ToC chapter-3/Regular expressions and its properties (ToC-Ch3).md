@@ -1,4 +1,4 @@
-1. *Define regular expression.* #board_2020 #board_2021 #board_2019  
+ 1. *Define regular expression.* #board_2020 #board_2021 #board_2019  
 2. *Write down the rules of regular expression.* #board_2021 #board_2019 
 3. *Write down the operators used in regular expression.* #board_2020 
 4. *Let r be a regular expression. Then there exists an NFA with E-transitions that accepts L(r).* #board_2022 #board_2018 
