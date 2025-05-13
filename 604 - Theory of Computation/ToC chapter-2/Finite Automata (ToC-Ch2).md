@@ -38,16 +38,15 @@
 | r   | {s}   | ∅   |
 | *s  | {s}   | {s} |
 
-|               | 0            | 1            | ∈   |
-| ------------- | ------------ | ------------ | --- |
-| ➡️q1          | q1           | {q1, q2}     | ∅   |
-| {q1, q2}      | {q1, q3}     | {q1, q2}     | q3  |
-| {q1, q3}      | q1           | {q1, q2, q4} | ∅   |
-| q3            | ∅            | q4           | ∅   |
-| *{q1, q2, q4} | {q1, q3, q4} | {q1, q2, q4} | q3  |
-| *{q1, q3, q4} | {q1, q4}     | {q1, q2, q4} | ∅   |
-| *{q1, q4}     | {q1, q4}     | {q1, q2, q4} | ∅   |
-| *q4           | q4           | q4           | ∅   |
+|     | 0   | 1   |
+| --- | --- | --- |
+| ➡️A | B   | F   |
+| B   | G   | C   |
+| *C  | A   | C   |
+| E   | H   | F   |
+| F   | C   | G   |
+| G   | G   | E   |
+| H   | G   | C   |
 
 8. Prove that if $D=\left(Q_{D},\sum,\delta_{D,}\left\lbrace q_0\right\rbrace,F_{D}\right)$ is the DFA constructed from NFA $N=\left(Q_{N},\sum,\delta_{N,}\left\lbrace q_0\right\rbrace,F_{N}\right)$ by the subset construction then $L(D) = L(N)$ #board_2021 
 9. Prove that, A language L is accepted by some DFA if and only if L is accepted by some NFA. #board_2020 #board_2019 
