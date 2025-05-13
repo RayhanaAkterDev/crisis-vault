@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-13.md",
-                "mode": "preview",
+                "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 Questions Solution.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-13"
+              "title": "Chapter 1 Questions Solution"
             }
           }
         ]
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-13.md",
+                "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 Questions Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-05-13"
+              "title": "Outgoing links from Chapter 1 Questions Solution"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-13.md",
+                "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 Questions Solution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-13"
+              "title": "Outline of Chapter 1 Questions Solution"
             }
           },
           {
@@ -221,8 +221,9 @@
   },
   "active": "b4db46596dbe18c1",
   "lastOpenFiles": [
-    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 Questions Solution.md",
+    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists (SE).md",
     "Journal/Daily_Notes/2025-05-13.md",
+    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 Questions Solution.md",
     "604 - Theory of Computation/ToC chapter-5/Context free languages & grammars (ToC-Ch5).md",
     "604 - Theory of Computation/ToC chapter-3/Regular expression and its properties (ToC-Ch3).md",
     "604 - Theory of Computation/ToC chapter-2/Finite Automata (ToC-Ch2).md",
@@ -242,7 +243,6 @@
     "401 - Algorithm Design and Analysis/Chapter - 1.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/SE Day 1 - Chapter 1 Question (4-11).md",
     "Journal/Daily_Notes/2025-05-04.md",
-    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists (SE).md",
     "401 - Algorithm Design and Analysis/Ch 2 - Q (1-3).md",
     "Templates/daily_template.md",
     "Journal/Daily_Notes/2025-05-01.md",

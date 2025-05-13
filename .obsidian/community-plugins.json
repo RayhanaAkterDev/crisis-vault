@@ -9,5 +9,7 @@
   "templater-obsidian",
   "obsidian-git",
   "mathlive",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "colored-tags",
+  "color-folders-files"
 ]
