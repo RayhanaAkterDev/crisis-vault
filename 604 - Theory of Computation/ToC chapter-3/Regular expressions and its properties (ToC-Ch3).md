@@ -1,7 +1,7 @@
 1. *Define regular expression.* #board_2020 #board_2021 #board_2019  
 2. *Write down the rules of regular expression.* #board_2021 #board_2019 
-3. Write down the operators used in regular expression. #board_2020 
-4. Let r be a regular expression. Then there exists an NFA with E-transitions that accepts L(r). #board_2022 #board_2018 
+3. *Write down the operators used in regular expression.* #board_2020 
+4. *Let r be a regular expression. Then there exists an NFA with E-transitions that accepts L(r).* #board_2022 #board_2018 
 5. Convert the following regular expression to NFA with E-transition. 
 	1. $01*+1$ #board_2022 #board_2019 
 	2. $10+(0+11)0*1$ #board_2022 
