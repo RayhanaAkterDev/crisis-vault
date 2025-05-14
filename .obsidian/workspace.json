@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 Questions Solution.md",
+                "file": "Journal/Daily_Notes/2025-05-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 Questions Solution"
+              "title": "2025-05-14"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 Questions Solution.md",
+                "file": "Journal/Daily_Notes/2025-05-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1 Questions Solution"
+              "title": "Outline of 2025-05-14"
             }
           },
           {
@@ -221,9 +221,10 @@
   },
   "active": "b4db46596dbe18c1",
   "lastOpenFiles": [
+    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 Questions Solution.md",
+    "Journal/Daily_Notes/2025-05-14.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Question Lists (SE).md",
     "Journal/Daily_Notes/2025-05-13.md",
-    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 Questions Solution.md",
     "604 - Theory of Computation/ToC chapter-5/Context free languages & grammars (ToC-Ch5).md",
     "604 - Theory of Computation/ToC chapter-3/Regular expression and its properties (ToC-Ch3).md",
     "604 - Theory of Computation/ToC chapter-2/Finite Automata (ToC-Ch2).md",
@@ -248,7 +249,6 @@
     "Journal/Daily_Notes/2025-05-01.md",
     "Journal/Daily_Notes/2025-05-02.md",
     "Journal/Daily_Notes/2025-05-03.md",
-    "Hair Care.md",
     "402 - Numerical Analysis",
     "401 - Algorithm Design and Analysis",
     "604 - Theory of Computation/ToC chapter-9",
