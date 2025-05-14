@@ -17,7 +17,7 @@
 
 ---
 
- ###### 3. State and explain some qualities that are used to access software. #board_2018  
+###### 3. State and explain some qualities that are used to access software. #board_2018  
 > **Some qualities that are used to access software**:
 > 1. **Functional suitability**: A set of attributes that bear on the existence of a set of function and their specified properties. The functions are those that satisfy stated or implied needs.
 > 	- Suitability
@@ -40,17 +40,32 @@
 ---
 
 ###### 4. Explain the attributes of quality software. #board_2021 #board_2019  #board_2017 
-	- Explain the attribute of a good software product. 
+- Explain the attribute of a good software product. 
 > **Attributes of a good software product**: There are 4 attributes of a good software –
 > 1.  **Maintainability**: Software written in such a way so that it can evolve to meet the changing need of customers. This is a critical attribute because software change is an inevitable requirement of a changing business environment..
 > 2. **Dependability**: A software must be trustworthy, reliable, safe, and secured. Use of the software should not be harmful to the customer in any way. Even at a system failure, a dependable software should not cause physical or economical damage. Also, malicious users should not be able to access or damage the system.
 > 3. **Efficiency**: A software should be efficient in every way. The software should not make wasteful of system resources. Responsiveness should be there, and  the memory utilization should be minimum and also the process time is a consideration.
 > 4. **Acceptability**: The software must be acceptable to the group of users for which it's designed for software should be understandable, reliable and compatible with other system they use.
 
+> [!note] List of characteristics of software quality:
+> 1. **Functionality**: The software should perform all intended functions accurately and meet user or system needs.
+> 2. **Usability**: It should be user-friendly, easy to learn, and offer a smooth interaction experience. 
+> 3. **Reliability**: The software must be stable, performing consistently without errors. It should handle unexpected situations gracefully and provide proper error feedback.
+> 4. **Performance**: The product should be fast and efficient, with quick load times and responsiveness. It should perform well under varying conditions and scale to meet user demands.
+> 5. **Scalability**: The software should be able to grow, accommodating an increasing number of users or data without sacrificing performance.   
+> 6. **Maintainability**: The code should be clean and well-organized, making it easy to update and modify. This ensures that the product can adapt to future changes or improvements without major issues.  
+> 7. **Portability**: The software should run on various devices or operating systems with minimal changes.    
+> 8. **Security**: It should protect against data breaches and unauthorized access, ensuring user data safety.    
+> 9. **Testability**: The software should allow easy testing so bugs can be detected and resolved efficiently.    
+> 10. **Compatibility**: It must work well with other software, tools, or systems without conflict.
+> 11. **Innovation**: It should leverage modern technologies to offer innovative features that solve problems in new or improved ways, keeping up with evolving user needs.
+> 12. **Cost-Effectiveness**: The product should provide value relative to its price, making it affordable for its target audience while offering features that justify its cost.
+> 13. **Customer Support**: Effective customer support ensures that users can get help when needed. Feedback channels should also be available for continuous improvement of the product.
+
 ---
 
-5. List out the key challenges facing software engineering and discuss those. #board_2022 #board_2020  
-	- Mention the key challenges facing four qualities that are used to access software. #board_2019 
+###### 5. List out the key challenges facing software engineering and discuss those. #board_2022 #board_2020  
+- Mention the key challenges facing four qualities that are used to access software. #board_2019 
 > **Key challenges facing software engineering**:
 > 1. **The heterogeneity challenge**: Increasingly, systems are required to operate as distributed systems across networks that include different types of computer and with different kinds of supports systems. The heterogeneity challenge is the challenge of developing techniques to build dependable software which is flexible enough to cope with this heterogeneity.
 > 2. **Legacy System Integration**:They majority of software systems which are in use were developed many years ago yet they perform critical business functions. The legacy challenge is the challenge of maintaining and updating this software in such a way that excessive costs are avoided and essential business services continue to be delivered.
@@ -60,7 +75,7 @@
 
 ---
 
-6. Discuss about the professional and ethical responsibilities of a software engineering. #board_2021 
+###### 6. Discuss about the professional and ethical responsibilities of a software engineering. #board_2021 
 > **The professional and ethical responsibilities of a software engineering**:
 > 1. **Confidentiality**: Engineers should normally respect the confidentiality of their employers or clients irrespective of whether or not a formal confidentiality agreement has been signed.
 > 2. **Competence**: Engineers should not misrepresent their level of competence. They should not knowingly accept work which is out with their competence.
@@ -74,7 +89,7 @@
 
 ---
 
-7. Write down some characteristics of legacy software. #board_2021 
+###### 7. Write down some characteristics of legacy software. #board_2021 
 **Legacy software** is old and outdated software that is still in use, even though newer and better versions may exist.
 > **Characteristics of legacy software**:
 > 1. **Old Technology**: Legacy software is built using outdated programming languages, tools, or platforms that are no longer widely used.
@@ -88,13 +103,13 @@
 
 ---
 
-8. What is meant by software quality assurance? #board_2017 
+###### 8. What is meant by software quality assurance? #board_2017 
 > **Software Quality Assurance (SQA)** is the process of ensuring that software meets the required quality standards throughout the *Software Development Life Cycle* (SDLC). It is an ongoing activity that regularly checks if the software is functioning correctly, follows rules and guidelines, and is free from major errors.
 > SQA includes activities like testing, code reviews, process improvement, and documentation to make sure the final product is reliable, efficient, and error-free.
 
 ---
 
-9. Write down the principles of agile process method. #board_2022 #board_2020 #board_2017    
+###### 9. Write down the principles of agile process method. #board_2022 #board_2020 #board_2017    
 > **The principles of agile process method**:
 > 1. **Early and Continuous Delivery**: The highest priority is to satisfy the customer through the early and continuous delivery of valuable software.
 > 2. **Welcoming Changing Requirements**: Even if requirements change late in development, Agile supports and accepts them to give the customer a better product.
@@ -111,18 +126,5 @@
 
 ---
 
-> [!note] List of characteristics of software quality:
-> 1. **Functionality**: The software should perform all intended functions accurately and meet user or system needs.
-> 2. **Usability**: It should be user-friendly, easy to learn, and offer a smooth interaction experience. 
-> 3. **Reliability**: The software must be stable, performing consistently without errors. It should handle unexpected situations gracefully and provide proper error feedback.
-> 4. **Performance**: The product should be fast and efficient, with quick load times and responsiveness. It should perform well under varying conditions and scale to meet user demands.
-> 5. **Scalability**: The software should be able to grow, accommodating an increasing number of users or data without sacrificing performance.   
-> 6. **Maintainability**: The code should be clean and well-organized, making it easy to update and modify. This ensures that the product can adapt to future changes or improvements without major issues.  
-> 7. **Portability**: The software should run on various devices or operating systems with minimal changes.    
-> 8. **Security**: It should protect against data breaches and unauthorized access, ensuring user data safety.    
-> 9. **Testability**: The software should allow easy testing so bugs can be detected and resolved efficiently.    
-> 10. **Compatibility**: It must work well with other software, tools, or systems without conflict.
-> 11. **Innovation**: It should leverage modern technologies to offer innovative features that solve problems in new or improved ways, keeping up with evolving user needs.
-> 12. **Cost-Effectiveness**: The product should provide value relative to its price, making it affordable for its target audience while offering features that justify its cost.
-> 13. **Customer Support**: Effective customer support ensures that users can get help when needed. Feedback channels should also be available for continuous improvement of the product.
+
 
