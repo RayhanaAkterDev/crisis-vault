@@ -9,19 +9,20 @@
 - [ ] 7. Write down some characteristics of legacy software. #board_2021 
 - [ ] 8. What is meant by software quality assurance?
 - [ ] 9. Write down the principles of agile process method. #board_2022 #board_2020 #board_2017    
+- [ ] 10. State and explain process maturity level in SEI and CMM. #board_2022 #board_2019 
+	- Describe the 5 levels defined in the SEI process maturity model.
+- [ ] 11. What is the difference between software engineering and system engineering? #board_2018 
+- [ ] 12. Distinguish between **software engineering** and **computer science**. #board_2022 
+- [ ] 13. Write a short note on software prototyping. #board_2022 #board_2021 #board_2020 #board_2018 #short_note 
 
 ---
 
 ## Short Notes
-- [ ] Write short note on SEI. #board_2017 
-- [ ] Write short note on CMM. #board_2021 #board_2017 #short_note 
-    
-6. State and explain process maturity level in SEI and CMM. #board_2022 #board_2019 
-	- Describe the 5 levels defined in the SEI process maturity model.
-7. What is the difference between software engineering and system engineering? #board_2018 
-8. Distinguish between **software engineering** and **computer science**. #board_2022 
-9. Write a short note on software prototyping. #board_2022 #board_2021 #board_2020 #board_2018 #short_note 
-    
+- [ ] 1. Write short note on SEI. #board_2017 
+- [ ] 2. Write short note on CMM. #board_2021 #board_2017 #short_note 
+
+---
+   
 10. Discuss different types of prototyping. #board_2018 
 11. What software engineering process?
 12. Write down the umbrella activities of software engineering. #board_2021 #board_2020 #board_2018     

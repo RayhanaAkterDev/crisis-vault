@@ -47,21 +47,6 @@
 > 3. **Efficiency**: A software should be efficient in every way. The software should not make wasteful of system resources. Responsiveness should be there, and  the memory utilization should be minimum and also the process time is a consideration.
 > 4. **Acceptability**: The software must be acceptable to the group of users for which it's designed for software should be understandable, reliable and compatible with other system they use.
 
-> [!note] List of characteristics of software quality:
-> 1. **Functionality**: The software should perform all intended functions accurately and meet user or system needs.
-> 2. **Usability**: It should be user-friendly, easy to learn, and offer a smooth interaction experience. 
-> 3. **Reliability**: The software must be stable, performing consistently without errors. It should handle unexpected situations gracefully and provide proper error feedback.
-> 4. **Performance**: The product should be fast and efficient, with quick load times and responsiveness. It should perform well under varying conditions and scale to meet user demands.
-> 5. **Scalability**: The software should be able to grow, accommodating an increasing number of users or data without sacrificing performance.   
-> 6. **Maintainability**: The code should be clean and well-organized, making it easy to update and modify. This ensures that the product can adapt to future changes or improvements without major issues.  
-> 7. **Portability**: The software should run on various devices or operating systems with minimal changes.    
-> 8. **Security**: It should protect against data breaches and unauthorized access, ensuring user data safety.    
-> 9. **Testability**: The software should allow easy testing so bugs can be detected and resolved efficiently.    
-> 10. **Compatibility**: It must work well with other software, tools, or systems without conflict.
-> 11. **Innovation**: It should leverage modern technologies to offer innovative features that solve problems in new or improved ways, keeping up with evolving user needs.
-> 12. **Cost-Effectiveness**: The product should provide value relative to its price, making it affordable for its target audience while offering features that justify its cost.
-> 13. **Customer Support**: Effective customer support ensures that users can get help when needed. Feedback channels should also be available for continuous improvement of the product.
-
 ---
 
 ###### 5. List out the key challenges facing software engineering and discuss those. #board_2022 #board_2020  
@@ -126,4 +111,24 @@
 
 ---
 
+###### 10. State and explain **process maturity levels** of SEI's CMM. #board_2022 #board_2019  
+> The **Software Engineering Institute (SEI)** introduced the **Capability Maturity Model (CMM)** to assess and improve the maturity of software development processes in organizations. The model defines **five maturity levels**, where each level represents a specific state of process capability and improvement.
+> 
+> **Process maturity levels of SEI's CMM**:
+> 1. **Level 1 – Initial**: At this stage, processes are **ad hoc and chaotic**. software processes are unpredictable, poorly controlled, and reactive. There is no formal planning or defined process structure. Success heavily depends on individual effort and heroics, not on repeatable procedures. Projects often suffer from missed deadlines, cost overruns, and quality issues.
+> 2. **Level 2 – Repeatable**: Basic project management practices are introduced. The organization starts to establish discipline in tracking cost, schedule, and functionality. Successful practices from previous projects are repeated in similar new projects. However, these practices are not yet standardized across the whole organization.
+> 3. **Level 3 – Defined**: At this stage, all processes are clearly defined, documented, and standardized across the organization. There is a well-established process framework that is followed by all teams. Roles and responsibilities are clearly assigned, and there is an emphasis on training and process consistency. Tailoring guidelines may be used to adapt processes for specific needs.
+> 4. **Level 4 – Managed**: Processes are now measured and controlled using quantitative data. The organization uses metrics to understand and control both software process and product quality. Performance becomes predictable and consistent, and project outcomes can be forecasted with reasonable accuracy.
+> 5. **Level 5 – Optimizing**: This is the highest level of maturity, where the focus is on continuous process improvement. The organization proactively identifies weaknesses and adapts processes using quantitative feedback, innovation, and advanced tools. The goal is to prevent defects, reduce waste, and improve efficiency and quality over time.
 
+---
+
+###### 11. What is the difference between software engineering and system engineering? #board_2018 
+> The difference between software engineering and system engineering are given below:
+
+
+---
+
+7. Distinguish between **software engineering** and **computer science**. #board_2022 
+8. Write a short note on software prototyping. #board_2022 #board_2021 #board_2020 #board_2018 #short_note 
+    
