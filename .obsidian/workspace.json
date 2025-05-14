@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Short Notes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#board_2018",
+                "query": "tag:#board_2021",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "50297d8c1b5ada63",
@@ -266,8 +266,8 @@
   "lastOpenFiles": [
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Questions List.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Solutions.md",
-    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Short Notes.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Extra.md",
+    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Short Notes.md",
     "Journal/Daily_Notes/2025-05-14.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/SE Day 1 - Chapter 1 Question (4-11).md",
     "Clippings/Discuss about the professional and ethical responsibilities of a software engineering. - Google Search.md",
