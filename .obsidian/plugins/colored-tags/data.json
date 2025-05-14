@@ -16,7 +16,8 @@
     "board_2017": 4,
     "board_2020": 5,
     "board_2018": 6,
-    "short_note": 7
+    "short_note": 7,
+    "clippings": 8
   },
   "_version": 3
 }
