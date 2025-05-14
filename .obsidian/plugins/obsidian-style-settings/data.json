@@ -214,5 +214,6 @@
   "Editor@@border-focus-mode": true,
   "Appearance-dark@@color-to-tab-icon-dark": true,
   "Appearance-dark@@Active-states-file-explorer-select-dark": "activated-file-tab-style-dark",
-  "Editor@@italic-color@@dark": "#7D74A8"
+  "Editor@@italic-color@@dark": "#FF4081",
+  "Editor@@italic-color@@light": "#FF4081"
 }
