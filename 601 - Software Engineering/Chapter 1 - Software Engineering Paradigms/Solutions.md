@@ -1,11 +1,11 @@
- 1. What is software? #board_2019
+###### 1. What is software? #board_2019
 > **Software** is a collection of programs, data, and instructions that enable a computer to perform specific tasks. It acts as an intermediary *(মধ্যস্থতাকারী)* between the hardware and the user, allowing the hardware to execute various functions. Software can be divided into two main types:
 >  - **System Software**: Includes operating systems and utility programs that manage computer hardware and resources.    
 >  -  **Application Software**: Includes programs that help users perform specific tasks, such as word processing or internet browsing.    
 
 ---
 
-2. What do you mean by software engineering? #board_2022 #board_2021 #board_2017 
+###### 2. What do you mean by software engineering? #board_2022 #board_2021 #board_2017 
 > **Software engineering** is an engineering discipline that is concerned with all aspects of software production from the early stages of system specification through to maintaining the system after it has gone into use. In this definition, there are two key phrases:
 > 1. **Engineering discipline**: Engineers make things work. They apply theories, methods, and tools where these are appropriate.
 > 2. **All aspects of software production**: Software engineering is not just concerned with the technical processes of software development but also with managing people, understanding user needs, and ensuring quality throughout the software lifecycle.
@@ -17,7 +17,7 @@
 
 ---
 
-3. State and explain some qualities that are used to access software. #board_2018 
+ ###### 3. State and explain some qualities that are used to access software. #board_2018  
 > **Some qualities that are used to access software**:
 > 1. **Functional suitability**: A set of attributes that bear on the existence of a set of function and their specified properties. The functions are those that satisfy stated or implied needs.
 > 	- Suitability
@@ -39,7 +39,7 @@
 
 ---
 
-4. Explain the attributes of quality software. #board_2021 #board_2019  #board_2017 
+###### 4. Explain the attributes of quality software. #board_2021 #board_2019  #board_2017 
 	- Explain the attribute of a good software product. 
 > **Attributes of a good software product**: There are 4 attributes of a good software –
 > 1.  **Maintainability**: Software written in such a way so that it can evolve to meet the changing need of customers. This is a critical attribute because software change is an inevitable requirement of a changing business environment..
@@ -95,12 +95,19 @@
 ---
 
 9. Write down the principles of agile process method. #board_2022 #board_2020 #board_2017    
-
-
----
-
-10. Write short note on SEI. #board_2017 
-11. Write short note on CMM. #board_2021 #board_2017 #short_note 
+> **The principles of agile process method**:
+> 1. **Early and Continuous Delivery**: The highest priority is to satisfy the customer through the early and continuous delivery of valuable software.
+> 2. **Welcoming Changing Requirements**: Even if requirements change late in development, Agile supports and accepts them to give the customer a better product.
+> 3. **Frequent Delivery of Working Software**: Software is delivered in small parts frequently, usually in weeks, so that feedback can be taken early.
+> 4. **Close Collaboration with Customers**: Business people and developers must work together daily throughout the project to ensure customer's needs.
+> 5. **Motivated Team**: Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+> 6. **Face-to-Face Communication**: The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+> 7. **Working Software**: Working software is the primary measure of progress, not just documents or plans.
+> 8. **Sustainable Development**: Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+> 9. **Continuous Attention to Technical Excellence and Good Design**: Clean code and proper design help in maintaining software quality and ease of future changes.
+> 10. **Simplicity**: Do only what is needed. Avoid adding extra features or unnecessary work.
+> 11. **Self-Organizing Teams**: Teams should make their own decisions about how to complete their work for better efficiency and creativity.
+> 12. **Regular Reflection for Improvement**: The team should regularly review their performance and find ways to become more effective.
 
 ---
 
@@ -118,3 +125,4 @@
 > 11. **Innovation**: It should leverage modern technologies to offer innovative features that solve problems in new or improved ways, keeping up with evolving user needs.
 > 12. **Cost-Effectiveness**: The product should provide value relative to its price, making it affordable for its target audience while offering features that justify its cost.
 > 13. **Customer Support**: Effective customer support ensures that users can get help when needed. Feedback channels should also be available for continuous improvement of the product.
+
