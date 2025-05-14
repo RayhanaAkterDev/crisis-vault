@@ -19,21 +19,21 @@
 
 3. State and explain some qualities that are used to access software. #board_2018 
 > **Some qualities that are used to access software**:
-> - **Functional suitability**: A set of attributes that bear on the existence of a set of function and their specified properties. The functions are those that satisfy stated or implied needs.
+> 1. **Functional suitability**: A set of attributes that bear on the existence of a set of function and their specified properties. The functions are those that satisfy stated or implied needs.
 > 	- Suitability
 > 	- Accuracy
 > 	- Interoperability
 > 	- Compliance
 > 	-  Security
-> - **Reliability**: A set of attributes that bear on the capability of software to maintain its level of performance under stated condition for a stated period of time.
+> 2. **Reliability**: A set of attributes that bear on the capability of software to maintain its level of performance under stated condition for a stated period of time.
 > 	- Maturity
 > 	- Fault tolerance
 > 	- Recoverability
-> - **Usability**: A set of attributes that bear on the effort needed for use, and on the individual assessment of such use by a stated or implies set of users.
+> 3. **Usability**: A set of attributes that bear on the effort needed for use, and on the individual assessment of such use by a stated or implies set of users.
 > 	- Understandability
 > 	- Learn ability 
 > 	- Operability
-> - **Efficiency**: A set of attributes that bear on the relationship between the level of performance of the software and the amount of resources used under stated conditions
+> 4. **Efficiency**: A set of attributes that bear on the relationship between the level of performance of the software and the amount of resources used under stated conditions
 > 	- Time behavior
 > 	- Resource behavior
 
@@ -62,10 +62,46 @@
 
 6. Discuss about the professional and ethical responsibilities of a software engineering. #board_2021 
 > **The professional and ethical responsibilities of a software engineering**:
+> 1. **Confidentiality**: Engineers should normally respect the confidentiality of their employers or clients irrespective of whether or not a formal confidentiality agreement has been signed.
+> 2. **Competence**: Engineers should not misrepresent their level of competence. They should not knowingly accept work which is out with their competence.
+> 3. **Work Cooperatively in Teams**: Software development is often done in teams. Engineers should respect others in the team, communicate clearly, and help when needed. Good teamwork improves project quality.
+> 4. **Ensure Software Quality**: Engineers must write clean, reliable, and secure code. They should test the software properly and make sure it works well and meets the client’s needs.
+> 5. **Follow Legal Rules and Licenses**: Engineers should obey software laws like copyright rules, software licenses, and data protection laws. They must not copy code from others without giving credit or using proper licenses.
+> 6. **Take Responsibility for Their Work**: A good engineer does not blame others for mistakes. They take full responsibility for the software they create and are ready to fix any issues caused by it.
+> 7. **Use Skills for Good Purposes**: Software engineers should use their knowledge to help society. They can make useful applications that solve real problems and avoid working on harmful or illegal projects.
+> 8. **Respect Intellectual Property**: Engineers should not steal others’ ideas or code. They must follow rules when using open-source software and give proper credit to original creators.
+> 9. **Computer Misuse**: Software engineers should not use their technical skills to misuse  other people's computers. Computer misuse can range from small issues on a employer's machine/ computer to very serious problems.
 
 ---
 
 7. Write down some characteristics of legacy software. #board_2021 
+> Legacy software is old and outdated software that is still in use, even though newer and better versions may exist.
+
+> **Characteristics of legacy software**:
+> 1. **Old Technology**: Legacy software is built using outdated programming languages, tools, or platforms that are no longer widely used.
+> 2. - **Difficult to Maintain**  
+    It is often hard to fix bugs or make changes because the code is complex, poorly documented, or the original developers are no longer available.
+    
+- **Lack of Documentation**  
+    Many legacy systems have little or no proper documentation, which makes understanding and updating the software challenging.
+    
+- **High Maintenance Cost**  
+    Maintaining legacy software can be expensive due to the need for specialized skills, compatibility issues, or the risk of system failure.
+    
+- **Limited Compatibility**  
+    Legacy software may not work well with modern systems, devices, or applications, making integration difficult.
+    
+- **Critical to Business**  
+    Despite being old, many legacy systems are still important for business operations and cannot be easily replaced.
+    
+- **Poor Security**  
+    Older systems often have weak or outdated security features, making them more vulnerable to cyberattacks.
+    
+- **Performance Issues**  
+    Legacy software may run slowly or inefficiently compared to modern alternatives due to outdated design or hardware limitations.
+
+---
+
 8. What is meant by software quality assurance?
 9. Write down the principles of agile process method. #board_2022 #board_2020 #board_2017    
 10. Write short note on SEI. #board_2017 
