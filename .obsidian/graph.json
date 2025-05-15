@@ -6,17 +6,25 @@
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"601 - Software Engineering\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8391270
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.6,
   "nodeSizeMultiplier": 1.05979381443299,
   "lineSizeMultiplier": 1.11030927835052,
   "collapse-forces": false,
-  "centerStrength": 0.0618556701030928,
-  "repelStrength": 15.6701030927835,
+  "centerStrength": 0.201030927835052,
+  "repelStrength": 13.1958762886598,
   "linkStrength": 0.675257731958763,
   "linkDistance": 95,
-  "scale": 0.36288736930121596,
-  "close": false
+  "scale": 1.000000000000014,
+  "close": true
 }
