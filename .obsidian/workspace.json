@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7db88d4ed38c7891",
+        "id": "1b4154dfbfe9a58e",
         "type": "tabs",
         "children": [
           {
-            "id": "e79aa414320b7760",
+            "id": "2253da0479159c0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,20 +22,21 @@
             }
           },
           {
-            "id": "f1755d90c3185721",
+            "id": "fb6e14a29d0e2102",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Short Notes.md",
+                "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/1. What is software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Short Notes"
+              "title": "1. What is software"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Solutions.md",
+                "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/1. What is software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Solutions"
+              "title": "Backlinks for 1. What is software"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Solutions.md",
+                "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/1. What is software.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Solutions"
+              "title": "Outline of 1. What is software"
             }
           },
           {
@@ -186,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "50297d8c1b5ada63",
@@ -222,21 +223,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ef82c6be0b23cbd3",
+  "active": "fb6e14a29d0e2102",
   "lastOpenFiles": [
+    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Solutions.md",
+    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/1. What is software.md",
+    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Chapter 1 - Software Engineering Paradigms.md",
+    "601 - Software Engineering/601 - Software Engineering.md",
+    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Extra.md",
     "Journal/Daily_Notes/2025-05-15.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Questions List.md",
-    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Solutions.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Short Notes.md",
     "601 - Software Engineering/601 - Software Engineering.canvas",
-    "601 - Software Engineering/601 - Software Engineering.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Sources/SDLC1.jpg",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Sources/SDLC.jpg",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/umbrella-activity.webp",
     "desktop.ini",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Sources/umbrella-activity.webp",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Sources",
-    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Extra.md",
     "Journal/Daily_Notes/2025-05-14.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/SE Day 1 - Chapter 1 Question (4-11).md",
     "Clippings/Discuss about the professional and ethical responsibilities of a software engineering. - Google Search.md",
@@ -258,7 +261,6 @@
     "Journal/Daily_Notes/2025-05-05.md",
     "401 - Algorithm Design and Analysis/Chapter - 2.md",
     "Journal/Weekly_Dashboard/2025-W19.md",
-    "401 - Algorithm Design and Analysis/Chapter - 1.md",
     "402 - Numerical Analysis",
     "401 - Algorithm Design and Analysis",
     "604 - Theory of Computation/ToC chapter-9",
