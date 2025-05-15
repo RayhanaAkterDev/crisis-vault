@@ -2,6 +2,7 @@
 **Software engineering** is an engineering discipline that is concerned with all aspects of software production from the early stages of system specification through to maintaining the system after it has gone into use. In this definition, there are two key phrases:
 
  1. **Engineering discipline**: Engineers make things work. They apply theories, methods, and tools where these are appropriate.
+
  2. **All aspects of software production**: Software engineering is not just concerned with the technical processes of software development but also with managing people, understanding user needs, and ensuring quality throughout the software lifecycle.
 
 ---
