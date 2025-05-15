@@ -8,14 +8,14 @@ type: folder_brief_live
 %% Begin Waypoint %%
 - **01 » Software Engineering Paradigms**
 	- [[@questions_list]]
-	- [[01 » What is software]]
+	- [[What is software]]
 	- [[@extra_notes]]
 	- [[@short_notes]]
 	- [[Solutions]]
 	- **Sources**
 
 - **02 » Requirements Analysis Fundamentals**
-	- [[CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists]]
+	- [[CSE-530219 » Software Engineering/2️⃣ Requirements Analysis Fundamentals/Chapter 2 - Question Lists]]
 - [[601 - Software Engineering]]
 - **Chapter 3 - Software Design Fundamentals**
 	- [[CSE-530219 » Software Engineering/Chapter 3 - Software Design Fundamentals/Chapter 3 - Question Lists]]
