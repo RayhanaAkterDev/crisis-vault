@@ -6,8 +6,16 @@ type: folder_brief_live
  
 
 %% Begin Waypoint %%
+- **01 » Software Engineering Paradigms**
+	- [[000_Questions_Overview]]
+	- [[1. What is software]]
+	- [[Chapter 1 - Software Engineering Paradigms]]
+	- [[Extra]]
+	- [[Short Notes]]
+	- [[Solutions]]
+	- **Sources**
+
 - [[601 - Software Engineering]]
-- **[[Chapter 1 - Software Engineering Paradigms]]**
 - **Chapter 2 - Requirements Analysis Fundamentals**
 	- [[Chapter 2 - Question Lists]]
 - **Chapter 3 - Software Design Fundamentals**
