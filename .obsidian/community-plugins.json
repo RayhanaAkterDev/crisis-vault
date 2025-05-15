@@ -11,5 +11,8 @@
   "mathlive",
   "obsidian-languagetool-plugin",
   "colored-tags",
-  "color-folders-files"
+  "color-folders-files",
+  "folders2graph",
+  "folder-notes",
+  "waypoint"
 ]

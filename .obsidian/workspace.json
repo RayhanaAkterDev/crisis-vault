@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Solutions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.51049613952637
+    "width": 348.5
   },
   "right": {
     "id": "8f112ace402a832e",
@@ -238,10 +238,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e79aa414320b7760",
+  "active": "ef82c6be0b23cbd3",
   "lastOpenFiles": [
-    "Journal/Daily_Notes/2025-05-15.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Solutions.md",
+    "Journal/Daily_Notes/2025-05-15.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Questions List.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Sources/SDLC1.jpg",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Sources/SDLC.jpg",

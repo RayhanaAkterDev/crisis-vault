@@ -13,8 +13,8 @@
   "blue-topaz-theme@@style-options-for-kanban-plugin-static": "style-options-for-kanban-plugin-static-all-image-two",
   "blue-topaz-theme@@rainbow-checklist": true,
   "blue-topaz-theme@@search-bar-style-option": "bt-search-bar-bottom",
-  "blue-topaz-theme@@left-ribbon-style": "bt-bubble-ribbon",
-  "blue-topaz-theme@@bt-status-on": false,
+  "blue-topaz-theme@@left-ribbon-style": "hide-left-ribbon",
+  "blue-topaz-theme@@bt-status-on": true,
   "blue-topaz-theme@@scrollbar-style-option": "remove-scrollbars",
   "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-night-sky",
   "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
@@ -27,7 +27,7 @@
   "blue-topaz-theme@@font-family-change-to-default": true,
   "blue-topaz-theme@@muted-activeline-bg": true,
   "blue-topaz-theme@@plain-file-title": false,
-  "blue-topaz-theme@@title-justify-start": true,
+  "blue-topaz-theme@@title-justify-start": false,
   "blue-topaz-theme@@fancy-hr": "default-hr",
   "blue-topaz-theme@@colorful-ordered-list": true,
   "blue-topaz-theme@@bt-colorful-indentation-lines": false,
@@ -233,5 +233,7 @@
   "blue-topaz-theme@@background-secondary-alt-bg-4-bt@@dark": "#2B2840",
   "blue-topaz-theme@@strong-em-color-1@@dark": "#DDBEF8",
   "blue-topaz-theme@@strong-em-color-2@@dark": "#B5E8E0",
-  "blue-topaz-theme@@remove-selectionbackground": false
+  "blue-topaz-theme@@remove-selectionbackground": false,
+  "blue-topaz-theme@@inline-title-color@@dark": "#CBA6F7",
+  "blue-topaz-theme@@inline-title-bg-color@@dark": "#2E263F"
 }
