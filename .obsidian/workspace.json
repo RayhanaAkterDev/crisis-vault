@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Solutions.md",
+                "file": "Journal/Daily_Notes/2025-05-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solutions"
+              "title": "2025-05-15"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Solutions.md",
+                "file": "Journal/Daily_Notes/2025-05-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Solutions"
+              "title": "Outline of 2025-05-15"
             }
           },
           {
@@ -201,8 +201,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -211,8 +211,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -221,8 +221,18 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6001893c7715de3f",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -254,19 +264,20 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "406c51eead368afb",
   "lastOpenFiles": [
+    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Solutions.md",
+    "Journal/Daily_Notes/2025-05-15.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/umbrella-activity.webp",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Questions List.md",
-    "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Solutions.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Extra.md",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Short Notes.md",
     "Journal/Daily_Notes/2025-05-14.md",
