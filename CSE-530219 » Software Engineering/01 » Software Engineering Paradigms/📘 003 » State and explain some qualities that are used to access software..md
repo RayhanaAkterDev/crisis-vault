@@ -1,6 +1,6 @@
-#  Qualities that are used to access software
+# 🌼 Qualities that are used to access software
 
-> Qualities that are used to access software:
+> Some qualities that are used to access software are describe below:
 > 1. **Functional suitability**: A set of attributes that bear on the existence of a set of function and their specified properties. The functions are those that satisfy stated or implied needs.
 > 	- Suitability
 > 	- Accuracy

@@ -32,7 +32,7 @@
   "blue-topaz-theme@@colorful-ordered-list": true,
   "blue-topaz-theme@@bt-colorful-indentation-lines": false,
   "blue-topaz-theme@@file-bg-shape-option": "file-shape-default",
-  "blue-topaz-theme@@file-name-style-option": "file-name-wrapped",
+  "blue-topaz-theme@@file-name-style-option": "file-name-non-wrapped",
   "blue-topaz-theme@@dark-background-file": true,
   "blue-topaz-theme@@remove-file-icons": false,
   "blue-topaz-theme@@folder-note-underline": false,
