@@ -5,32 +5,7 @@
 
 ---
 
-###### 9. Write down the principles of agile process method. #board_2022 #board_2020 #board_2017    
-> **The principles of agile process method**:
-> 1. **Early and Continuous Delivery**: The highest priority is to satisfy the customer through the early and continuous delivery of valuable software.
-> 2. **Welcoming Changing Requirements**: Even if requirements change late in development, Agile supports and accepts them to give the customer a better product.
-> 3. **Frequent Delivery of Working Software**: Software is delivered in small parts frequently, usually in weeks, so that feedback can be taken early.
-> 4. **Close Collaboration with Customers**: Business people and developers must work together daily throughout the project to ensure customer's needs.
-> 5. **Motivated Team**: Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
-> 6. **Face-to-Face Communication**: The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
-> 7. **Working Software**: Working software is the primary measure of progress, not just documents or plans.
-> 8. **Sustainable Development**: Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
-> 9. **Continuous Attention to Technical Excellence and Good Design**: Clean code and proper design help in maintaining software quality and ease of future changes.
-> 10. **Simplicity**: Do only what is needed. Avoid adding extra features or unnecessary work.
-> 11. **Self-Organizing Teams**: Teams should make their own decisions about how to complete their work for better efficiency and creativity.
-> 12. **Regular Reflection for Improvement**: The team should regularly review their performance and find ways to become more effective.
-
----
-
-###### 10. State and explain **process maturity levels** of SEI's CMM. #board_2022 #board_2019  
-> The **Software Engineering Institute (SEI)** introduced the **Capability Maturity Model (CMM)** to assess and improve the maturity of software development processes in organizations. The model defines **five maturity levels**, where each level represents a specific state of process capability and improvement.
-> 
-> **Process maturity levels of SEI's CMM**:
-> 1. **Level 1 – Initial**: At this stage, processes are **ad hoc and chaotic**. software processes are unpredictable, poorly controlled, and reactive. There is no formal planning or defined process structure. Success heavily depends on individual effort and heroics, not on repeatable procedures. Projects often suffer from missed deadlines, cost overruns, and quality issues.
-> 2. **Level 2 – Repeatable**: Basic project management practices are introduced. The organization starts to establish discipline in tracking cost, schedule, and functionality. Successful practices from previous projects are repeated in similar new projects. However, these practices are not yet standardized across the whole organization.
-> 3. **Level 3 – Defined**: At this stage, all processes are clearly defined, documented, and standardized across the organization. There is a well-established process framework that is followed by all teams. Roles and responsibilities are clearly assigned, and there is an emphasis on training and process consistency. Tailoring guidelines may be used to adapt processes for specific needs.
-> 4. **Level 4 – Managed**: Processes are now measured and controlled using quantitative data. The organization uses metrics to understand and control both software process and product quality. Performance becomes predictable and consistent, and project outcomes can be forecasted with reasonable accuracy.
-> 5. **Level 5 – Optimizing**: This is the highest level of maturity, where the focus is on continuous process improvement. The organization proactively identifies weaknesses and adapts processes using quantitative feedback, innovation, and advanced tools. The goal is to prevent defects, reduce waste, and improve efficiency and quality over time.
+#####
 
 ---
 
