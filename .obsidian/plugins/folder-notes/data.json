@@ -25,7 +25,7 @@
     "id": "",
     "folderPath": "",
     "title": "{{folderName}} overview",
-    "showTitle": false,
+    "showTitle": true,
     "depth": 3,
     "includeTypes": [
       "folder",
