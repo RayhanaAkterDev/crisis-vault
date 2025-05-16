@@ -22,7 +22,7 @@
 - [[📘 014 » What software engineering process]]
 - [[📘 015 » Write down the umbrella activities of software engineering]]
 - [[📘 016 » Briefly describe each step of software development life cycle]]
-- [[📘 017 »]]
+- [[📘 017 » Explain incremental software process model with merits and demerits]]
 - [[01 » Software Engineering Paradigms]]
 - [[Untitled]]
 

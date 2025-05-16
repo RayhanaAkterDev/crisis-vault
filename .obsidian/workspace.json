@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 017 ».md",
+                "file": "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 017 » Explain incremental software process model with merits and demerits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📘 017 »"
+              "title": "📘 017 » Explain incremental software process model with merits and demerits"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solutions.md",
+                "file": "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 017 » Explain incremental software process model with merits and demerits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Solutions"
+              "title": "Outline of 📘 017 » Explain incremental software process model with merits and demerits"
             }
           },
           {
@@ -236,12 +237,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "81e36d463a98e04d",
+  "active": "68022a19f83621c3",
   "lastOpenFiles": [
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 017 ».md",
+    "Solutions.md",
+    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 017 » Explain incremental software process model with merits and demerits.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 016 » Briefly describe each step of software development life cycle.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/Untitled.md",
-    "Solutions.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 015 » Write down the umbrella activities of software engineering.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 014 » What software engineering process.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 013 » Discuss different types of prototyping.md",
