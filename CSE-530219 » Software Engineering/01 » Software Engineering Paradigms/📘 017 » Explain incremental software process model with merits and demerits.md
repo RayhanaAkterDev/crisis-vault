@@ -6,7 +6,7 @@ The Incremental Process Model in Software Development Life Cycle (SDLC) primaril
 
 1. **Staged Delivery Model**: In this approach, the system is developed and delivered in a sequence of increments, where each increment adds new functionality. Users get a usable product early, and new features are added step-by-step in future releases.
    
-2. **Parallel Development Model**: 
+2. **Parallel Development Model**: Here, the system is divided into several sub-projects that are developed simultaneously. The increments are later integrated, which can speed up delivery but requires strong coordination and planning.
 
 ![[Incremental_Process_Model_General_fc1c967bd1.png]]
 
