@@ -25,7 +25,7 @@
 - [[📘 017 » Explain incremental software process model with merits and demerits]]
 - [[📘 018 » Write a short note on RAD software process mode]]
 - [[📘 019 » Explain spiral software process model with its merits and demerits]]
-- [[📘 020 » - Define with diagram the Boehm's spiral model of the software process]]
+- [[📘 020 » Define with diagram the Boehm's spiral model of the software process]]
 - [[📘 021 » - Explain the sector in each loop of Boehm's spiral model describe shortly]]
 - [[📘 022 » - What is the need for a feasibility study of software development]]
 - [[📘 023 » - Distinguish between s-process and s-process model.]]
