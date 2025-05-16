@@ -1,7 +1,6 @@
 # CSE-530219 » Software Engineering Overview
 
 %% Begin Waypoint %%
-
 - **[[01 » Software Engineering Paradigms]]**
 - **02 » Requirements Analysis Fundamentals**
 	- [[Chapter 2 - Question Lists]]
