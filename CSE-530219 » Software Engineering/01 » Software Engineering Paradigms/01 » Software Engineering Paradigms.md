@@ -1,8 +1,8 @@
 # 01 » Software Engineering Paradigms Overview
 
 %% Begin Waypoint %%
-- **@attachments**
 
+- **@attachments**
 - [[@extra_notes]]
 - [[@questions_list]]
 - [[@short_notes]]
@@ -14,15 +14,15 @@
 - [[📘 006 » Discuss about the professional and ethical responsibilities of a software engineering]]
 - [[📘 007 » Write down some characteristics of legacy software]]
 - [[📘 008 » What is meant by software quality assurance]]
-- [[📘 009 » 2]]
-- [[📘 009 » 3]]
-- [[📘 009 » 4]]
 - [[📘 009 » 5]]
 - [[📘 009 » 6]]
 - [[📘 009 » 7]]
 - [[📘 009 » 8]]
 - [[📘 009 » Write down the principles of agile process method]]
 - [[📘 010 » State and explain process maturity levels of SEI's CMM]]
+- [[📘 011 » What is the difference between software engineering and system engineering]]
+- [[📘 012 » Distinguish between software engineering and computer science]]
+- [[📘 013 »]]
 - [[01 » Software Engineering Paradigms]]
 
 %% End Waypoint %%

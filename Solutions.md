@@ -1,49 +1,4 @@
-
----
-
-
-
----
-
 #####
-
----
-
-###### 11. What is the difference between software engineering and system engineering? #board_2018 
-> **The differences between software engineering and system engineering are given below:**
-
-| **System Engineering**                                                                                                                               | **Software Engineering**                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| It deals with the overall design and management of complex systems.                                                                                  | It deals with the design, development, and maintenance of software.                                                                                                             |
-| Covers both hardware and software components.                                                                                                        | Focuses only on software components.                                                                                                                                            |
-| To ensure the system as a whole works efficiently and meets requirements.                                                                            | To create reliable and efficient software products.                                                                                                                             |
-| Involves hardware, software, people, processes, and technologies.                                                                                    | Involves only code, programs, and software systems.                                                                                                                             |
-| Focuses on system integration, coordination, and overall architecture.                                                                               | Mainly focuses on programming, testing, and software design.                                                                                                                    |
-| Starts from requirement gathering of the entire system.                                                                                              | Starts after the system requirements are defined.                                                                                                                               |
-| Highly concerned about the user and domains                                                                                                          | Highly focus on implementing quality software.                                                                                                                                  |
-| Software engineering applies the knowledge and theoretical understanding gained through computer science to building high-quality software products. | This technique of using knowledge from various branches of engineering and science to introduce technological innovations into the planning and development stages of a system. |
-| In system engineering the overall objective of the system must be defined.                                                                           | Software engineering is concerned with practical problems of producing software.                                                                                                |
-
----
-
-###### 12. Distinguish between **software engineering** and **computer science**. #board_2022 
-> **The differences between software engineering and computer science are given below:**
-
-| **Point of Difference** | **Software Engineering**                                                           | **Computer Science**                                                                |
-| ----------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| Definition              | Concerned with the practical application of engineering to build software systems. | Concerned with the theoretical study of computation and algorithms.                 |
-| Goal                    | To develop high-quality, maintainable, and reliable software products.             | To gain deep understanding of computational processes and logic.                    |
-| Nature                  | Practical and project-based, focuses on real-world software problems.              | Theoretical and research-based, focuses on solving abstract problems.               |
-| Focus Area              | Emphasizes on designing, testing, maintaining software using engineering methods.  | Emphasizes on algorithms, data structures, automata theory, and computation models. |
-| Core Activities         | Includes software development, version control, testing, deployment, etc.          | Includes problem-solving, complexity analysis, theory development, etc.             |
-| Tools & Technologies    | Uses IDEs, version control systems, testing tools, SDLC models, etc.               | Uses mathematical models, simulations, proofs, etc.                                 |
-| Project Orientation     | Highly team-oriented; involves collaboration, planning, and management.            | Often individual or research-based, especially in early stages.                     |
-| End Product             | Functional software systems or applications.                                       | Theoretical results, concepts, and sometimes programming solutions.                 |
-| Mathematical Use        | Uses mathematics for logic, testing, and reliability analysis.                     | Deeply rooted in discrete math, logic, and formal methods.                          |
-| Career Roles            | Software Engineer, QA Engineer, System Architect, DevOps Engineer.                 | Computer Scientist, Researcher, Data Scientist, Algorithm Designer.                 |
-
----
-
 ###### 13. Discuss different types of prototyping. #board_2018 
 > Prototyping is a key approach in software development where early versions of a system or its components are built to understand requirements, test functionalities, and gather user feedback. Based on the purpose and nature of the project, different types of prototyping methods are used. These are discussed below:
 > 
