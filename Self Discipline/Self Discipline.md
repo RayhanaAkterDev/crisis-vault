@@ -14,7 +14,7 @@
 		- [[অবশেষে বন্ধ হয়ে গেলো Skype!!]]
 	- [[২৫ টি করণীয়]]
 	- [[Motivation ❌ Self-Discipline ✔️]]
-	- [[Reality হলো—আপনার স্কিল নেই, শুধু কিছু basic knowledge আছে।]]
+	- [[Reality হলো—আপনার স্কিল নেই]]
 	- [[Self Discipline]]
 	- [[Winner VS Loser]]
 	- [[একটি_শিক্ষামূলক_পোস্ট]]
