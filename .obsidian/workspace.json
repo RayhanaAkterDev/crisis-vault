@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motivation ❌, Self-Discipline ✔️.md",
+                "file": "Journal/Daily_Notes/2025-05-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motivation ❌, Self-Discipline ✔️"
+              "title": "2025-05-17"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Motivation ❌, Self-Discipline ✔️.md",
+                "file": "Journal/Daily_Notes/2025-05-17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Motivation ❌, Self-Discipline ✔️"
+              "title": "Outline of 2025-05-17"
             }
           },
           {
@@ -211,8 +211,8 @@
   },
   "active": "f7127f745a1a7873",
   "lastOpenFiles": [
-    "Journal/Daily_Notes/2025-05-17.md",
     "Motivation ❌, Self-Discipline ✔️.md",
+    "Journal/Daily_Notes/2025-05-17.md",
     "Journal/Daily_Notes/Pasted image 20250517085849.png",
     "Journal/Daily_Notes/Untitled.md",
     "CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
