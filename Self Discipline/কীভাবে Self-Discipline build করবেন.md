@@ -1,7 +1,3 @@
-## কীভাবে Self-Discipline build করবেন?
-
----
-
 ### ১. ছোট কাজ দিয়ে শুরু করুন
 
 **Self-discipline এক রাতের মধ্যে তৈরি হয় না।**
@@ -46,12 +42,12 @@ Growth আসে hard work থেকে।
 
 ### ৬. Environment বদলান
 
-আপনি যতই motivated থাকুন, যদি **environment toxic** হয়—discipline সম্ভব না।
+আপনি যতই **motivated** থাকুন, যদি **environment toxic** হয়—**discipline** সম্ভব না।
 
 Productive পরিবেশে থাকলে আপনি naturally disciplined হয়ে যাবেন।
-
 আপনার goals বড় হোক বা ছোট—discipline ছাড়া আপনি আগাতে পারবেন না।
-
 Motivation আপনার শর্টকাট হতে পারে, কিন্তু Self-discipline আপনার Foundation।
 
-©
+---
+
+![[497471466_122228336474240244_1437163668653820512_n.jpg]]
