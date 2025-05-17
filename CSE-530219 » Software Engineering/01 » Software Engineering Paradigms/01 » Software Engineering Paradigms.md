@@ -26,8 +26,9 @@
 - [[📘 018 » Write a short note on RAD software process mode]]
 - [[📘 019 » Explain spiral software process model with its merits and demerits]]
 - [[📘 020 » - What is the need for a feasibility study of software development]]
-- [[📘 023 » - Distinguish between s-process and s-process model.]]
-- [[📘 024 » - List 4 reasons why it is difficult to improve software process]]
+- [[📘 021 » - Distinguish between s-process and s-process model.]]
+- [[📘 022 » List 4 reasons why it is difficult to improve software process]]
+- [[📘 023 » List out the key challenges facing software engineering and discuss those]]
 - [[01 » Software Engineering Paradigms]]
 
 %% End Waypoint %%
