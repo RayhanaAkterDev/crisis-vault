@@ -13,7 +13,10 @@
 		- [[17 May 2025 » quote of the day]]
 	- [[Reality হলো—আপনার স্কিল নেই, শুধু কিছু basic knowledge আছে।]]
 	- [[Self Discipline]]
+	- **story**
+		- [[অবশেষে বন্ধ হয়ে গেলো Skype!!]]
 	- [[Winner VS Loser]]
+	- [[একটি_শিক্ষামূলক_পোস্ট]]
 	- [[কীভাবে Self-Discipline build করবেন]]
 	- [[নিজের মূল্যায়ন করতে শিখুন]]
 	- [[যখন সবকিছু পরিকল্পনামতো হয় না]]
