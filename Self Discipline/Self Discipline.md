@@ -12,7 +12,7 @@
 		- [[17 May 2025 » quote of the day]]
 	- **@stories**
 		- [[অবশেষে বন্ধ হয়ে গেলো Skype!!]]
-	- [[25 করণীয়]]
+	- [[২৫ টি করণীয়]]
 	- [[Motivation ❌ Self-Discipline ✔️]]
 	- [[Reality হলো—আপনার স্কিল নেই, শুধু কিছু basic knowledge আছে।]]
 	- [[Self Discipline]]
