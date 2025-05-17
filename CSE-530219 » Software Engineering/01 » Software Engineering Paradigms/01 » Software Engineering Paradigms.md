@@ -2,7 +2,6 @@
 
 %% Begin Waypoint %%
 - **@attachments**
-
 - [[@extra_notes]]
 - [[@questions_list]]
 - [[@short_notes]]

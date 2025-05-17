@@ -3,6 +3,7 @@
 %% Begin Waypoint %%
 - **[[01 » Software Engineering Paradigms]]**
 - **02 » Requirements Analysis Fundamentals**
+	- [[Chapter 2 - Question Lists - Copy]]
 	- [[Chapter 2 - Question Lists]]
 - **03 » Software Design Fundamentals**
 	- [[Chapter 3 - Question Lists]]
