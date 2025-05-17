@@ -22,35 +22,20 @@
             }
           },
           {
-            "id": "68022a19f83621c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily_Notes/2025-05-17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-17"
-            }
-          },
-          {
             "id": "a16baca09eb8da36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
+                "file": "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 020 » - What is the need for a feasibility study of software development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 » Software Engineering Paradigms"
+              "title": "📘 020 » - What is the need for a feasibility study of software development"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 272.5
   },
   "right": {
     "id": "8f112ace402a832e",
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-17.md",
+                "file": "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@questions_list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-17"
+              "title": "Outline of @questions_list"
             }
           },
           {
@@ -237,23 +222,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "68022a19f83621c3",
+  "active": "ef82c6be0b23cbd3",
   "lastOpenFiles": [
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 019 » Explain spiral software process model with its merits and demerits.md",
     "Journal/Daily_Notes/2025-05-17.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@questions_list.md",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
+    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 020 » - What is the need for a feasibility study of software development.md",
+    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 019 » Explain spiral software process model with its merits and demerits.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 020 » Define with diagram the Boehm's spiral model of the software process.md",
+    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 021 » - Explain the sector in each loop of Boehm's spiral model describe shortly.md",
     "Journal/Daily_Notes/2025-05-16.md",
     "CSE-530219 » Software Engineering/CSE-530219 » Software Engineering.md",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/what-is-spiral-model-for-software-development.webp",
+    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@attachments/what-is-spiral-model-for-software-development.webp",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 018 » Write a short note on RAD software process mode.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@attachments/sdlc_rad_model.jpg",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 017 » Explain incremental software process model with merits and demerits.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 023 » - Distinguish between s-process and s-process model..md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 024 » - List 4 reasons why it is difficult to improve software process.md",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 022 » - What is the need for a feasibility study of software development.md",
     "Solutions.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software 2.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software - Copy (6).md",

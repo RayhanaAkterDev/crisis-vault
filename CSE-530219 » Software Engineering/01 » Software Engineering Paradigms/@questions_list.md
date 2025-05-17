@@ -19,13 +19,13 @@
 - [ ] 16. Briefly describe each step of software development life cycle.
 - [ ] 17. Explain incremental software process model with merits and demerits. #board_2022 #board_2020 #board_2018 
 - [ ] 18. Write a short note on RAD software process mode. #board_2022 
-- [ ] 19. Explain spiral model with advantages and disadvantages. #board_2019 #board_2017 
+- [ ] 19. Explain spiral model with advantages and disadvantages. #board_2019  
 	- Explain spiral software process model with its merits and demerits. #board_2021 
-- [ ] 20. Define with diagram the Boehm's spiral model of the software process. #board_2017 
-- [ ] 21. Explain the sector in each loop of Boehm's spiral model describe shortly. #board_2017 
-- [ ] 22. What is the need for a feasibility study of software development? #board_2019 #board_2017 
-- [ ] 23. Distinguish between s-process and s-process model.
-- [ ] 24. List 4 reasons why it is difficult to improve software process?
+	- Define with diagram the Boehm's spiral model of the software process. State the advantages and disadvantages of spiral model. #board_2017 
+	- Explain the sector in each loop of Boehm's spiral model describe shortly. #board_2017 
+- [ ] 20. What is the need for a feasibility study of software development? #board_2019 #board_2017 
+- [ ] 21. Distinguish between s-process and s-process model.
+- [ ] 22. List 4 reasons why it is difficult to improve software process?
 
 ---
 
