@@ -8,11 +8,15 @@
 		- [[497955622_122160979856503043_3513902695446083502_n.jpg]]
 	- [[25 করণীয়]]
 	- [[Motivation ❌ Self-Discipline ✔️]]
+	- **quotes of the day**
+		- [[17 May 2025 » quote of the day]]
 	- [[Reality হলো—আপনার স্কিল নেই, শুধু কিছু basic knowledge আছে।]]
 	- [[Self Discipline]]
+	- [[Untitled]]
 	- [[Winner VS Loser]]
 	- [[কীভাবে Self-Discipline build করবেন]]
 	- [[নিজের মূল্যায়ন করতে শিখুন]]
+	- [[সাফল্যের ৭টি দুরন্ত কৌশল]]
 
 %% End Landmark %%
 
