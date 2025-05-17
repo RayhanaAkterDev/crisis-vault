@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE-530219 » Software Engineering/CSE-530219 » Software Engineering.md",
+                "file": "Journal/Daily_Notes/2025-05-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSE-530219 » Software Engineering"
+              "title": "2025-05-17"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE-530219 » Software Engineering/CSE-530219 » Software Engineering.md",
+                "file": "Journal/Daily_Notes/2025-05-17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CSE-530219 » Software Engineering"
+              "title": "Outline of 2025-05-17"
             }
           },
           {
@@ -210,10 +210,13 @@
   },
   "active": "53b50a97e507f3f2",
   "lastOpenFiles": [
+    "CSE-530219 » Software Engineering/@attachments/Pasted image 20250516093305.png",
+    "Journal/Daily_Notes/2025-05-17.md",
+    "Journal/Daily_Notes/Pasted image 20250517085849.png",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
     "CSE-530219 » Software Engineering/CSE-530219 » Software Engineering.md",
+    "CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/New folder",
     "CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists - Copy.md",
-    "Journal/Daily_Notes/2025-05-17.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@questions_list.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 005 » List out the key challenges facing software engineering and discuss those.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 022 » List 4 reasons why it is difficult to improve software process.md",
@@ -224,9 +227,9 @@
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 020 » Define with diagram the Boehm's spiral model of the software process.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 021 » - Explain the sector in each loop of Boehm's spiral model describe shortly.md",
     "Journal/Daily_Notes/2025-05-16.md",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@attachments/what-is-spiral-model-for-software-development.webp",
+    "CSE-530219 » Software Engineering/@attachments/what-is-spiral-model-for-software-development.webp",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 018 » Write a short note on RAD software process mode.md",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@attachments/sdlc_rad_model.jpg",
+    "CSE-530219 » Software Engineering/@attachments/sdlc_rad_model.jpg",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 017 » Explain incremental software process model with merits and demerits.md",
     "Solutions.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software 2.md",
@@ -236,25 +239,22 @@
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software - Copy (3).md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software 1.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software.md",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@attachments/Pasted image 20250516093305.png",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@attachments/Incremental_Process_Model_General_fc1c967bd1.png",
+    "CSE-530219 » Software Engineering/@attachments/Incremental_Process_Model_General_fc1c967bd1.png",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 016 » Briefly describe each step of software development life cycle.md",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 015 » Write down the umbrella activities of software engineering.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/sdf",
     "CSE-530219 » Software Engineering/601 - Software Engineering.canvas",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@attachments/SDLC1.jpg",
+    "CSE-530219 » Software Engineering/@attachments/SDLC1.jpg",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/Sources/SDLC.jpg",
     "601 - Software Engineering/Chapter 1 - Software Engineering Paradigms/umbrella-activity.webp",
     "desktop.ini",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@attachments/umbrella-activity.webp",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@attachments",
+    "CSE-530219 » Software Engineering/@attachments/umbrella-activity.webp",
+    "CSE-530219 » Software Engineering/@attachments",
     "Clippings",
     "ChatGPT_MD/chats",
     "ChatGPT_MD",
     "402 - Numerical Analysis",
     "401 - Algorithm Design and Analysis",
     "604 - Theory of Computation/ToC chapter-9",
-    "604 - Theory of Computation/ToC chapter-8",
     "Pasted image 20250428180437.png",
     "Untitled.canvas"
   ]
