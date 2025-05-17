@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "915e9dffe836f635",
+        "id": "c5231ac0067dd3fe",
         "type": "tabs",
         "children": [
           {
-            "id": "53b50a97e507f3f2",
+            "id": "faa0d934e50eca6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,7 +162,7 @@
             }
           },
           {
-            "id": "44bc7652ce877c74",
+            "id": "fdcc7cd4c60a1e1f",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -205,16 +205,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "53b50a97e507f3f2",
+  "active": "faa0d934e50eca6c",
   "lastOpenFiles": [
-    "CSE-530219 » Software Engineering/@attachments/Pasted image 20250516093305.png",
+    "CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
+    "CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/02 » Requirements Analysis Fundamentals.md",
     "Journal/Daily_Notes/2025-05-17.md",
-    "Journal/Daily_Notes/Pasted image 20250517085849.png",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
     "CSE-530219 » Software Engineering/CSE-530219 » Software Engineering.md",
+    "CSE-530219 » Software Engineering/03 » Software Design Fundamentals/03 » Software Design Fundamentals.md",
+    "CSE-530219 » Software Engineering/04 » Software Testing Technique and Strategies/04 » Software Testing Technique and Strategies.md",
+    "CSE-530219 » Software Engineering/05 » Software Management and Maintenance Technique/05 » Software Management and Maintenance Technique.md",
+    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
+    "CSE-530219 » Software Engineering/@attachments/Pasted image 20250516093305.png",
+    "Journal/Daily_Notes/Pasted image 20250517085849.png",
     "CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/New folder",
     "CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists - Copy.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@questions_list.md",
@@ -236,11 +242,7 @@
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software - Copy (6).md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software - Copy (5).md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software - Copy (4).md",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software - Copy (3).md",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software 1.md",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software.md",
     "CSE-530219 » Software Engineering/@attachments/Incremental_Process_Model_General_fc1c967bd1.png",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 016 » Briefly describe each step of software development life cycle.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/sdf",
     "CSE-530219 » Software Engineering/601 - Software Engineering.canvas",
     "CSE-530219 » Software Engineering/@attachments/SDLC1.jpg",

@@ -1,0 +1,14 @@
+# 03 » Software Design Fundamentals Overview
+%% Begin Landmark %%
+- **[[03 » Software Design Fundamentals]]**
+	- [[03 » Software Design Fundamentals]]
+	- [[Chapter 3 - Question Lists]]
+
+%% End Landmark %%
+
+---
+ 
+```ccard
+type: folder_brief_live
+```
+ 
