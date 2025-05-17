@@ -26,6 +26,7 @@
 	- [[🚀 Strategies to Develop Yourself for Success]]
 	- [[Motivation ❌ Self-Discipline ✔️]]
 	- [[Reality হলো—আপনার স্কিল নেই]]
+	- [[Reward options]]
 	- [[Winner VS Loser]]
 
 %% End Landmark %%

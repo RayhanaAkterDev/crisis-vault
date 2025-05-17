@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@self_dscipline/🎯 Rules of Success.md",
+                "file": "@self_dscipline/🧠 Building Self-Discipline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🧠 Building Self-Discipline"
+            }
+          },
+          {
+            "id": "d804464127c5e737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@self_dscipline/Reality হলো—আপনার স্কিল নেই.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎯 Rules of Success"
+              "title": "Reality হলো—আপনার স্কিল নেই"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@self_dscipline/🎯 Rules of Success.md",
+                "file": "@self_dscipline/Reality হলো—আপনার স্কিল নেই.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🎯 Rules of Success"
+              "title": "Outline of Reality হলো—আপনার স্কিল নেই"
             }
           },
           {
@@ -209,8 +224,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c19d8745043246f7",
+  "active": "d804464127c5e737",
   "lastOpenFiles": [
+    "@self_dscipline/Reward options.md",
+    "@self_dscipline/🧠 Building Self-Discipline.md",
+    "@self_dscipline/🎯 Rules of Success.md",
     "@self_dscipline/@self_dscipline.md",
     "@self_dscipline/🚀 Strategies to Develop Yourself for Success.md",
     "@self_dscipline/Motivation ❌ Self-Discipline ✔️.md",
@@ -222,9 +240,7 @@
     "@self_dscipline/@original_versions/যখন সবকিছু পরিকল্পনামতো হয় না.md",
     "@self_dscipline/@original_versions/নিজের মূল্যায়ন করতে শিখুন.md",
     "@self_dscipline/@original_versions/একটি_শিক্ষামূলক_পোস্ট.md",
-    "@self_dscipline/🧠 Building Self-Discipline.md",
     "@self_dscipline/@original_versions/25 করণীয়.md",
-    "@self_dscipline/🎯 Rules of Success.md",
     "@self_dscipline/@original_versions/কীভাবে Self-Discipline build করবেন.md",
     "@self_dscipline/@original_versions",
     "@self_dscipline/@original_versions/সাফল্যের ৭টি দুরন্ত কৌশল.md",
@@ -240,7 +256,6 @@
     "CSE-530219 » Software Engineering/03 » Software Design Fundamentals/03 » Software Design Fundamentals.md",
     "CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/02 » Requirements Analysis Fundamentals.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 022 » List 4 reasons why it is difficult to improve software process.md",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 021 » Distinguish between s-process and s-process model..md",
     "@self_dscipline/@quotes",
     "@self_dscipline/@attachment/497564189_122228082794240244_8119886443548416295_n.jpg",
     "@self_dscipline/@attachment",
