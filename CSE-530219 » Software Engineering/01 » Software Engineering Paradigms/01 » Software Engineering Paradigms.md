@@ -28,7 +28,6 @@
 - [[📘 020 » - What is the need for a feasibility study of software development]]
 - [[📘 021 » - Distinguish between s-process and s-process model.]]
 - [[📘 022 » List 4 reasons why it is difficult to improve software process]]
-- [[📘 023 » List out the key challenges facing software engineering and discuss those]]
 - [[01 » Software Engineering Paradigms]]
 
 %% End Waypoint %%
