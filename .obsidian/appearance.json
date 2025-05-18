@@ -2,7 +2,8 @@
   "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [
     "MCL Multi Column",
-    "View-mode"
+    "View-mode",
+    "stylish-tasks"
   ],
   "interfaceFontFamily": "Consolas",
   "textFontFamily": "Candara",

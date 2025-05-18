@@ -4,11 +4,11 @@
 
 ## Topics of Phase-1
 
-> - [ ] **HTML5 semantic structure**
+> - [ ] **HTML5 semantic structure** 
 > 	- [ ] *Semantic tags*
 > 	- [ ] *Forms*
 > 	- [ ] *Accessibility basics*
-> 	
+
 > - [ ] **CSS (Box model, Flexbox, Grid, Media Queries)**
 > 	- [ ] Syntax & selectors
 > 	- [ ] Box model
@@ -18,45 +18,35 @@
 > 	- [ ] Media queries
 > 	- [ ] Pseudo-classes & pseudo-elements
 > 	- [ ] CSS variables
-> 	  
-> - JavaScript (Basics, Functions, Arrays, DOM)
+
+> - [ ] **JavaScript (Basics, Functions, Arrays, DOM)**
+> 	- [ ] *var, let, const*
+> 	- [ ] *Data types*
+> 	- [ ] *Operators*
+> 	- [ ] *Conditions*
+> 	- [ ] *Loops*
+> 	- [ ] *Functions*
+> 	- [ ] *Array methods*
+> 	- [ ] *Object manipulation*
+> 	- [ ] *Template literals*
+> 	- [ ] *Arrow functions*
+> 	- [ ] *Destructuring*
+> 	- [ ] *Spread/rest operator*
+> 	- [ ] *Default parameters*
+> 	- [ ] *Promises*
+> 	- [ ] *async/await*
+
+
 > - Responsive design
 > - Accessibility
 > - Git & GitHub basics
 > - Basic projects (Portfolio, To-do App)
 
----
-
----
-
-- ### CSS3
-	- Syntax & selectors
-	- Box model
-	- Flexbox
-	- Grid
-	- Transitions & animations
-	- Media queries
-	- Pseudo-classes & pseudo-elements
-	- CSS variables
 
 ---
 
 - ### JavaScript (Core + ES6)
-	- var, let, const
-	- Data types
-	- Operators
-	- Conditions
-	- Loops
-	- Functions
-	- Array methods
-	- Object manipulation
-	- Template literals
-	- Arrow functions
-	- Destructuring
-	- Spread/rest operator
-	- Default parameters
-	- Promises
-	- async/await
+
 
 ---
 
