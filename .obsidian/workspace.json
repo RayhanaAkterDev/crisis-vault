@@ -8,20 +8,78 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7ace9152d8634d5",
+            "id": "22a814f2cee647fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/Chapter 1 - Introduction.md",
+                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Introduction"
+              "title": "@questions_list"
+            }
+          },
+          {
+            "id": "795a941ccc9adda6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 001 » What is computer network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📘 001 » What is computer network"
+            }
+          },
+          {
+            "id": "2c48867ed3d25beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 002 » Classified different types of network according to distance..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📘 002 » Classified different types of network according to distance."
+            }
+          },
+          {
+            "id": "a740e3324c5bd50b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 003 » How does computer network differ from the distributed system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📘 003 » How does computer network differ from the distributed system"
+            }
+          },
+          {
+            "id": "15f45be0ae5634e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily_Notes/2025-05-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-18"
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -142,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/Chapter 1 - Introduction.md",
+                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 001 » What is computer network.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1 - Introduction"
+              "title": "Outline of 📘 001 » What is computer network"
             }
           },
           {
@@ -209,21 +267,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b7ace9152d8634d5",
+  "active": "795a941ccc9adda6",
   "lastOpenFiles": [
-    "CSE-530221 » Computer Network/CSE-530221 » Computer Network.md",
+    "Journal/Daily_Notes/2025-05-18.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 003 » How does computer network differ from the distributed system.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 002 » Classified different types of network according to distance..md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 001 » What is computer network.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/Chapter 1 - Introduction.md",
+    "CSE-530221 » Computer Network/CSE-530221 » Computer Network.md",
     "CSE-530219 » Software Engineering/CSE-530219 » Software Engineering.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software.md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 001 » What is software.md",
     "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/@short_notes.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/@extra_notes.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list - Copy (2).md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list - Copy.md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
     "CSE-530221 » Computer Network/@non_chapter_questions.md",
-    "Journal/Daily_Notes/2025-05-18.md",
     "CSE-530221 » Computer Network/@attachments",
     "CSE-530221 » Computer Network/New folder",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists (CN).md",
@@ -237,8 +297,6 @@
     "@self_dscipline/Winner VS Loser.md",
     "Journal/Daily_Notes/2025-05-17.md",
     "@self_dscipline/@original_versions/সফলতার জন্য নিজেকে ডেভেলপ করার কৌশল.md",
-    "@self_dscipline/@original_versions/যখন সবকিছু পরিকল্পনামতো হয় না.md",
-    "@self_dscipline/@original_versions/নিজের মূল্যায়ন করতে শিখুন.md",
     "@self_dscipline/@original_versions",
     "@self_dscipline/@attachment/496185103_122226446624240244_4126095264522855744_n.jpg",
     "@self_dscipline/@stories",

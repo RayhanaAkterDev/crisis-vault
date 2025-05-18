@@ -1,12 +1,5 @@
-- #### What is computer network. #board_2021 #board_2018 #board_2019 #board_2017 
-> [!note] Computer network: 
->A **computer network** is a system of two or more interconnected computers and computing devices that are linked through communication channels—such as cables, telephone lines, radio waves, satellites, or infrared beams—to enable communication, data exchange, and resource sharing (e.g., files, printers, or internet access) among users. Networks can use wired (like Ethernet) or wireless (like Wi-Fi) technologies to function effectively.
+# Classification of Network according to Distance
 
----
-
-- #### Classified different types of network according to distance. #board_2019 
-  > [!note] Classification of Network:
-  
 **Computer network** fall into **three** classes regarding the size, distance, and the structure namely:
 
 > **LAN (Local Area Network)**: A LAN connects computers and other network devices in a limited area, such as offices, schools, colleges, or universities, allowing them to share data, tools, and programs. These computers and devices are connected through a switch or a group of switches, using a private IP addressing system as defined by the TCP/IP protocol.
@@ -30,9 +23,6 @@ in the Ie ot different cities. It covers a large geographical area and may serve
 connectivity. Speeds of MAN ranges in terms of Mbps. It's hard to design and maintain a
 Metropolitan Area Network
 
-
-- #### How does computer network differ from the distributed system? #board_2021 #board_2018 
-
 As the name suggests the Wide Area Network (WANJ covers a wide area which may across
 provinces and even a whole country. Generally. telecommunication networks are wide area network. these networks provide connectivity to mans and lans. since they are equipped with very high speed backbone, wans use very expensive network equipment.
 
@@ -42,3 +32,7 @@ geographical area. although it might be confined within the bounds of a State or
 A WAN could be a connection of LAN connecting to other LAN's via telephone lines
 and racfio waves and may be limited to an enterprise (a corporation or an organization) or
 accessible to the public. The technology is high speed and relatively expensive.
+
+---
+
+tag:: #board_2019 

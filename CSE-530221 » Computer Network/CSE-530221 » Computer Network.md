@@ -7,7 +7,9 @@
 		- [[@extra_notes]]
 		- [[@questions_list]]
 		- [[@short_notes]]
-		- [[📘 001 » What is software]]
+		- [[📘 001 » What is computer network]]
+		- [[📘 002 » Classified different types of network according to distance.]]
+		- [[📘 003 » How does computer network differ from the distributed system]]
 		- [[Chapter 1 - Introduction]]
 	- **Chapter 2 - Frame Relay**
 		- [[Chapter 2 - Question Lists]]
