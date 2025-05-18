@@ -11,14 +11,10 @@
             "id": "6f0a8f1a4f8eaa07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@WebDev_JobPrep_MasterPlan/Frontend Foundations (Month 1–4)/Frontend Foundations (Month 1–4).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Frontend Foundations (Month 1–4)"
+              "title": "New tab"
             }
           }
         ],
@@ -210,11 +206,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6f0a8f1a4f8eaa07",
+  "active": "ef82c6be0b23cbd3",
   "lastOpenFiles": [
+    "@WebDev_JobPrep_MasterPlan/Phase 1 - Frontend Foundations/Frontend Foundations (Month 1–4).md",
+    "@WebDev_JobPrep_MasterPlan/Phase 1 - Frontend Foundations",
     "@WebDev_JobPrep_MasterPlan/Untitled/Untitled.md",
-    "CSE-530221 » Computer Network/CSE-530221 » Computer Network.md",
     "@WebDev_JobPrep_MasterPlan/Frontend Foundations (Month 1–4)/Frontend Foundations (Month 1–4).md",
+    "CSE-530221 » Computer Network/CSE-530221 » Computer Network.md",
     "@WebDev_JobPrep_MasterPlan/Untitled 2",
     "@WebDev_JobPrep_MasterPlan/Untitled 1",
     "@WebDev_JobPrep_MasterPlan/Untitled",
@@ -249,7 +247,6 @@
     "@self_dscipline/@attachment/496185103_122226446624240244_4126095264522855744_n.jpg",
     "@self_dscipline/@stories",
     "@self_dscipline/@attachment/494787705_122226436268240244_4646957041229386168_n.jpg",
-    "@self_dscipline/@quotes",
     "@self_dscipline/@attachment/497564189_122228082794240244_8119886443548416295_n.jpg",
     "@self_dscipline/@attachment/497581101_122228334812240244_3212243682799661590_n.jpg",
     "@self_dscipline/@attachment/497955622_122160979856503043_3513902695446083502_n.jpg",
