@@ -8,6 +8,8 @@
 		- [[SDLC1.jpg]]
 		- [[umbrella-activity.webp]]
 		- [[what-is-spiral-model-for-software-development.webp]]
+	- [[@non_chapter _questions]]
+	- [[@questions_by_poly_mame]]
 	- **[[01 » Software Engineering Paradigms]]**
 		- [[@extra_notes]]
 		- [[@questions_list]]
@@ -51,8 +53,6 @@
 		- [[Chapter 5 - Question Lists]]
 	- [[601 - Software Engineering.canvas]]
 	- [[CSE-530219 » Software Engineering]]
-	- [[Non-Chapter  Questions]]
-	- [[Questions By Pouly Bhumic]]
 
 %% End Landmark %%
 

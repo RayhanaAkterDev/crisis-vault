@@ -2,7 +2,7 @@
 %% Begin Landmark %%
 - **[[03 » Software Design Fundamentals]]**
 	- [[03 » Software Design Fundamentals]]
-	- [[Chapter 3 - Question Lists]]
+	- [[CSE-530219 » Software Engineering/03 » Software Design Fundamentals/Chapter 3 - Question Lists]]
 
 %% End Landmark %%
 

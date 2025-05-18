@@ -2,7 +2,7 @@
 %% Begin Landmark %%
 - **[[04 » Software Testing Technique and Strategies]]**
 	- [[04 » Software Testing Technique and Strategies]]
-	- [[Chapter 4 - Question Lists]]
+	- [[CSE-530219 » Software Engineering/04 » Software Testing Technique and Strategies/Chapter 4 - Question Lists]]
 
 %% End Landmark %%
 
