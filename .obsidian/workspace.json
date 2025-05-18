@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4b57eae1a78410f5",
+        "id": "6cde5db3c86f55e6",
         "type": "tabs",
         "children": [
           {
-            "id": "0cac87a792915d52",
+            "id": "6f0a8f1a4f8eaa07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@WebDev_JobPrep_MasterPlan/Phase 1 - Frontend Foundations.md",
+                "file": "@WebDev_JobPrep_MasterPlan/Frontend Foundations (Month 1–4)/Frontend Foundations (Month 1–4).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase 1 - Frontend Foundations"
-            }
-          },
-          {
-            "id": "dbc9f6bcaf5b97ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@WebDev_JobPrep_MasterPlan/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Frontend Foundations (Month 1–4)"
             }
           }
         ],
@@ -157,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@WebDev_JobPrep_MasterPlan/Phase 1 - Frontend Foundations.md",
+                "file": "@WebDev_JobPrep_MasterPlan/Frontend Foundations (Month 1–4)/Frontend Foundations (Month 1–4).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Phase 1 - Frontend Foundations"
+              "title": "Outline of Frontend Foundations (Month 1–4)"
             }
           },
           {
@@ -224,11 +210,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0cac87a792915d52",
+  "active": "6f0a8f1a4f8eaa07",
   "lastOpenFiles": [
-    "@WebDev_JobPrep_MasterPlan/Untitled.md",
-    "@WebDev_JobPrep_MasterPlan/Phase 1 - Frontend Foundations.md",
+    "@WebDev_JobPrep_MasterPlan/Untitled/Untitled.md",
     "CSE-530221 » Computer Network/CSE-530221 » Computer Network.md",
+    "@WebDev_JobPrep_MasterPlan/Frontend Foundations (Month 1–4)/Frontend Foundations (Month 1–4).md",
+    "@WebDev_JobPrep_MasterPlan/Untitled 2",
+    "@WebDev_JobPrep_MasterPlan/Untitled 1",
+    "@WebDev_JobPrep_MasterPlan/Untitled",
+    "@WebDev_JobPrep_MasterPlan/Frontend Foundations (Month 1–4)",
     "@WebDev_JobPrep_MasterPlan",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/Chapter 1 - Introduction.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
@@ -253,7 +243,6 @@
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 005 » What is topology..md",
     "CSE-530221 » Computer Network/@attachments/php781vtn.png",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 004 » Write down some of the design issues that should be considered for an efficient network.md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 001 » What is computer network.md",
     "CSE-530221 » Computer Network/@attachments",
     "CSE-530221 » Computer Network/New folder",
     "@self_dscipline/@original_versions",
@@ -262,16 +251,12 @@
     "@self_dscipline/@attachment/494787705_122226436268240244_4646957041229386168_n.jpg",
     "@self_dscipline/@quotes",
     "@self_dscipline/@attachment/497564189_122228082794240244_8119886443548416295_n.jpg",
-    "@self_dscipline/@attachment",
     "@self_dscipline/@attachment/497581101_122228334812240244_3212243682799661590_n.jpg",
     "@self_dscipline/@attachment/497955622_122160979856503043_3513902695446083502_n.jpg",
     "@self_dscipline/@attachment/497471466_122228336474240244_1437163668653820512_n.jpg",
-    "@self_dscipline",
     "Journal/Daily_Notes/Pasted image 20250517085849.png",
     "CSE-530219 » Software Engineering/@attachments/Pasted image 20250516093305.png",
-    "CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/New folder",
     "CSE-530219 » Software Engineering/@attachments/what-is-spiral-model-for-software-development.webp",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/sdf",
     "CSE-530219 » Software Engineering/601 - Software Engineering.canvas",
     "Untitled.canvas"
   ]
