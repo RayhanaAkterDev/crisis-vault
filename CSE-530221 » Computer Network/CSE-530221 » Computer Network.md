@@ -2,6 +2,7 @@
 %% Begin Landmark %%
 - **[[CSE-530221 » Computer Network]]**
 	- **@attachments**
+		- [[php781vtn.png]]
 	- [[@non_chapter_questions]]
 	- **[[Chapter 1 - Introduction]]**
 		- [[@extra_notes]]
@@ -13,7 +14,7 @@
 		- [[📘 004 » Write down some of the design issues that should be considered for an efficient network]]
 		- [[📘 005 » What is topology.]]
 		- [[📘 006 » Discuss different types of network topologies]]
-		- [[📘 007 » Draw a hybrid topology with a star backbone and a star networks.]]
+		- [[📘 007 » Draw a hybrid topology with a star backbone and a star backbone and four ring networks]]
 		- [[📘 008 » What is IoT]]
 		- [[📘 009 » What is protocol]]
 		- [[📘 010 » What are the key elements of protocols]]

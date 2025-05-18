@@ -5,7 +5,7 @@
 - [ ] 5. What is topology. #board_2019 
 - [ ] 6. Discuss different types of network topologies.
 	- Describe mesh, ring, and star topology with its advantages and disadvantages.
-- [ ] 7. Draw a hybrid topology with a star backbone and a star networks.
+- [ ] 7. Draw a hybrid topology with a star backbone and a star backbone and four ring networks.
 - [ ] 8. What is IoT?
 - [ ] 9. What is protocol? #board_2022 #board_2020 #board_2019 #board_2018 
 - [ ] 10. What are the key elements of protocols? #board_2018 
