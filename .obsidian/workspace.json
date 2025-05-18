@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 005 » What is topology..md",
+                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 007 » Draw a hybrid topology with a star backbone and a star networks..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📘 005 » What is topology."
+              "title": "📘 007 » Draw a hybrid topology with a star backbone and a star networks."
             }
           }
         ],
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 005 » What is topology..md",
+                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 007 » Draw a hybrid topology with a star backbone and a star networks..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📘 005 » What is topology."
+              "title": "Outline of 📘 007 » Draw a hybrid topology with a star backbone and a star networks."
             }
           },
           {
@@ -241,8 +241,8 @@
   },
   "active": "c82864bf18d13020",
   "lastOpenFiles": [
-    "Journal/Daily_Notes/2025-05-18.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 005 » What is topology..md",
+    "Journal/Daily_Notes/2025-05-18.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 007 » Draw a hybrid topology with a star backbone and a star networks..md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 006 » Discuss different types of network topologies.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 004 » Write down some of the design issues that should be considered for an efficient network.md",
