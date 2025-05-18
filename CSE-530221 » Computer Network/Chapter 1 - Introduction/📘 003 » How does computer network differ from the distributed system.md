@@ -1,8 +1,8 @@
 # Computer Network & Distributed system
 
-A **computer network** is a system where multiple computers are connected to share resources and communicate with each other. Each computer in the network works **independently**.
+A **computer network** is a system where multiple computers or devices are interconnected through communication channels (such as cables, Wi-Fi, or optical fibers) to share data, hardware (like printers), and internet access. In a network, each computer operates **independently**, and communication is typically based on request-response without any central coordination for processing.
 
-A **distributed system**, on the other hand, is a system where multiple computers are connected and work **together as a single unit** to complete a common task. Although the components are physically separate, they appear as one system to the user.
+A **distributed system**, on the other hand, is a collection of independent computers that are connected via a network but work **collaboratively** to perform a single, unified task. These systems are designed to share computational power, storage, and processes in a coordinated manner. Although physically distributed, they appear as a **single coherent system** to the user, often providing higher fault tolerance, scalability, and performance.
 
 ---
 
