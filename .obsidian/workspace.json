@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 010 » What are the key elements of protocols.md",
+                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 006 » Discuss different types of network topologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📘 010 » What are the key elements of protocols"
+              "title": "📘 006 » Discuss different types of network topologies"
             }
           }
         ],
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 010 » What are the key elements of protocols.md",
+                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 006 » Discuss different types of network topologies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📘 010 » What are the key elements of protocols"
+              "title": "Outline of 📘 006 » Discuss different types of network topologies"
             }
           },
           {
@@ -202,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "50297d8c1b5ada63",
@@ -239,18 +239,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c82864bf18d13020",
+  "active": "96a39f643c040488",
   "lastOpenFiles": [
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 007 » Draw a hybrid topology with a star backbone and a star backbone and four ring networks.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 010 » What are the key elements of protocols.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 009 » What is protocol.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 008 » What is IoT.md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 007 » Draw a hybrid topology with a star backbone and a star backbone and four ring networks.md",
     "CSE-530221 » Computer Network/@attachments/php781vtn.png",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 005 » What is topology..md",
     "Journal/Daily_Notes/2025-05-18.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 006 » Discuss different types of network topologies.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 004 » Write down some of the design issues that should be considered for an efficient network.md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 010 » What are the key elements of protocols.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 001 » What is computer network.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 003 » How does computer network differ from the distributed system.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 002 » Classified different types of network according to distance..md",
