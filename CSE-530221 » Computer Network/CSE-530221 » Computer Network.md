@@ -18,6 +18,12 @@
 		- [[📘 008 » What is IoT]]
 		- [[📘 009 » What is protocol]]
 		- [[📘 010 » What are the key elements of protocols]]
+		- [[📘 011 » Explain the seven layers of OSI system with diagram.]]
+		- [[📘 012 » Why TCP or IP model is more popular than OSI model]]
+		- [[📘 013 » Which layer OSI is used for the following -]]
+		- [[📘 014 » Describe the function of different layers or types of TCP or IP]]
+		- [[📘 015 » State the differences between TCP or IP and OSI reference model]]
+		- [[📘 016 » With a configuration of TCP or IP show the operation of the following -]]
 		- [[Chapter 1 - Introduction]]
 	- **Chapter 2 - Frame Relay**
 		- [[Chapter 2 - Question Lists]]

@@ -13,44 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
+                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/Chapter 1 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@questions_list"
+              "title": "Chapter 1 - Introduction"
             }
           },
           {
-            "id": "15f45be0ae5634e6",
+            "id": "9610a6550579f126",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-18.md",
+                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 016 » With a configuration of TCP or IP show the operation of the following -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-18"
-            }
-          },
-          {
-            "id": "c82864bf18d13020",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 010 » What are the key elements of protocols.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📘 010 » What are the key elements of protocols"
+              "title": "📘 016 » With a configuration of TCP or IP show the operation of the following -"
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -239,36 +224,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c82864bf18d13020",
+  "active": "22a814f2cee647fc",
   "lastOpenFiles": [
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 009 » What is protocol.md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 008 » What is IoT.md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 007 » Draw a hybrid topology with a star backbone and a star backbone and four ring networks.md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 006 » Discuss different types of network topologies.md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 005 » What is topology..md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 010 » What are the key elements of protocols.md",
-    "CSE-530221 » Computer Network/@attachments/php781vtn.png",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 016 » With a configuration of TCP or IP show the operation of the following -.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 015 » State the differences between TCP or IP and OSI reference model.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 014 » Describe the function of different layers or types of TCP or IP.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 013 » Which layer OSI is used for the following -.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 012 » Why TCP or IP model is more popular than OSI model.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 011 » Explain the seven layers of OSI system with diagram..md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 01 ».md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 011 » - Copy (5).md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 011 » - Copy (4).md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 011 » - Copy (3).md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 011 » - Copy (2).md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 011 » - Copy.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 008 » What is IoT.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 006 » Discuss different types of network topologies.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 010 » What are the key elements of protocols.md",
     "Journal/Daily_Notes/2025-05-18.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 009 » What is protocol.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 007 » Draw a hybrid topology with a star backbone and a star backbone and four ring networks.md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 005 » What is topology..md",
+    "CSE-530221 » Computer Network/@attachments/php781vtn.png",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 004 » Write down some of the design issues that should be considered for an efficient network.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 001 » What is computer network.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 003 » How does computer network differ from the distributed system.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 002 » Classified different types of network according to distance..md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/Chapter 1 - Introduction.md",
     "CSE-530221 » Computer Network/CSE-530221 » Computer Network.md",
-    "CSE-530219 » Software Engineering/CSE-530219 » Software Engineering.md",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software.md",
-    "CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/@short_notes.md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/@extra_notes.md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list - Copy (2).md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list - Copy.md",
-    "CSE-530221 » Computer Network/@non_chapter_questions.md",
     "CSE-530221 » Computer Network/@attachments",
     "CSE-530221 » Computer Network/New folder",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/Chapter 1 - Question Lists (CN).md",
-    "@self_dscipline/@self_dscipline.md",
-    "@self_dscipline/Reward options.md",
     "@self_dscipline/@original_versions",
     "@self_dscipline/@attachment/496185103_122226446624240244_4126095264522855744_n.jpg",
     "@self_dscipline/@stories",
