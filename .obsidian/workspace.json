@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 003 » How does computer network differ from the distributed system.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 001 » What is computer network.md",
+                "file": "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 002 » Classified different types of network according to distance..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📘 001 » What is computer network"
+              "title": "Outline of 📘 002 » Classified different types of network according to distance."
             }
           },
           {
@@ -267,12 +267,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "795a941ccc9adda6",
+  "active": "2c48867ed3d25beb",
   "lastOpenFiles": [
-    "Journal/Daily_Notes/2025-05-18.md",
-    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 003 » How does computer network differ from the distributed system.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 002 » Classified different types of network according to distance..md",
+    "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 003 » How does computer network differ from the distributed system.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 001 » What is computer network.md",
+    "Journal/Daily_Notes/2025-05-18.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
     "CSE-530221 » Computer Network/Chapter 1 - Introduction/Chapter 1 - Introduction.md",
     "CSE-530221 » Computer Network/CSE-530221 » Computer Network.md",
