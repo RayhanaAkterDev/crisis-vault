@@ -10,7 +10,7 @@
   "obsidian-git",
   "mathlive",
   "obsidian-languagetool-plugin",
-  "obsidian-advanced-slides",
   "folder-note-plugin",
-  "waypoint"
+  "waypoint",
+  "multi-state-checkbox-switcher"
 ]
