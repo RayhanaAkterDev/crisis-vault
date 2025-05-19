@@ -48,20 +48,20 @@
 
 ---
 
-## ✅ Week 4: Advanced Forms & HTML Validation
+## ✅ Forms & HTML5 Validation
 
-### 🎯 Learning Topics
-- Input types: `email`, `number`, `range`, `date`    
-- HTML5 validation attributes: `required`, `min`, `max`, `pattern`    
-- Grouping forms with `<fieldset>` and `<legend>`    
+### 🎯 Learning Topics:
+- Input types: `email`, `number`, `date`, `range`, `color`
+- HTML5 validation: `required`, `pattern`, `min`, `max`
+- Grouping inputs: `<fieldset>`, `<legend>`
 
-### 🧩 Mini Tasks
-- Enhance your contact form with advanced input types and validation.    
-- Group related fields using `<fieldset>` for better structure.
+### 🧩 Mini Tasks:
+- Enhance your contact form with advanced input types and validation.
+- Use `fieldset` to group related inputs (like personal info, messages).
 
 ---
 
-## ✅ Week 5: Project Week — Personal Portfolio
+## ✅ Project Week — Personal Portfolio
 
 ### 🎯 Objectives
 - Apply all semantic HTML and CSS concepts learned   
@@ -76,68 +76,50 @@
 
 ---
 
-## ✅ Week 6: Typography & UI Design Basics
+## ✅ JavaScript Basics & DOM
 
-### 🎯 Learning Topics
-- Font families, sizes, weights    
-- Line height, letter spacing, text alignment    
-- Color theory basics, accessible contrast, UI spacing    
+### 🎯 Learning Topics:
+- Variables: `var`, `let`, `const`
+- Data types and operators
+- Functions and conditional logic
+- DOM selection: `getElementById`, `querySelector`
+- Event handling: `click`, `mouseover`, `submit`
 
-### 🧩 Mini Tasks
-- Redesign your blog with improved typography and spacing    
-- Add hover effects and a consistent color palette
-
----
-
-## ✅ Week 7: CSS Grid Layout
-
-### 🎯 Learning Topics
-- Grid container and grid items    
-- Properties: `grid-template-columns`, `grid-template-rows`, `gap`, `fr`    
-- Implicit vs explicit grid, `grid-area`    
-
-### 🧩 Mini Tasks
-- Build a responsive image gallery using CSS Grid    
-- Recreate your portfolio layout using Grid instead of Flexbox
+### 🧩 Mini Tasks:
+- Add a JS alert when a button is clicked.
+- Change the background color of a section using a button.
+- Validate your contact form using JavaScript.
+- Create a theme toggle button (light/dark mode).
 
 ---
 
-## ✅ Week 8: JavaScript Basics
+## ✅ Git & GitHub Workflow
 
-### 🎯 Learning Topics
-- Variables: `var`, `let`, `const`    
-- Data types and operators    
-- Functions and basic DOM manipulation    
+### 🎯 Learning Topics:
+- Core Git commands: `init`, `add`, `commit`, `status`, `log`
+- Remote GitHub repo: clone, push, pull
+- Branches and merge basics
+- Writing a meaningful `README.md`
 
-### 🧩 Mini Tasks
-- Add a JavaScript alert to your portfolio    
-- Change the background color of a section using a button
-
----
-
-## ✅ Week 9: JavaScript Events & DOM
-
-### 🎯 Learning Topics
-- DOM tree structure and selectors    
-- Events: `click`, `mouseover`, `keydown`, etc.    
-- `addEventListener`, event object, event delegation    
-
-### 🧩 Mini Tasks
-- Add a working contact form validation using JS    
-- Implement a dark/light theme toggle for your portfolio    
+### 🧩 Mini Tasks:
+- Initialize Git in your project folder.
+- Push your code to GitHub with proper commit messages.
+- Write a README for your portfolio or blog with a live link or preview.
 
 ---
 
-## ✅ Week 10: Final Project — Interactive Portfolio
+## ✅ Final Project — Interactive Personal Portfolio
 
-### 🎯 Objectives
-- Combine HTML, CSS, and JavaScript into a single cohesive site    
-- Make the UI interactive and responsive    
-- Polish typography, colors, and layout    
+### 🎯 Objectives:
+- Combine everything you’ve learned into a single polished website.
+- Showcase your **HTML**, **Tailwind CSS**, **JavaScript**, and **Git** skills.
+- Ensure accessibility, responsiveness, and clean design.
 
-### 🧩 Project Tasks
-- Add animated sections or transitions    
-- Add a filterable project gallery    
-- Use JavaScript to enhance interactivity (e.g., dynamic contact form)
+### 🧩 Project Tasks:
+- Create sections: About Me, Projects, Contact
+- Add smooth scrolling with anchor links
+- Implement light/dark mode toggle
+- Add subtle transitions or animations (e.g., fade-ins, hovers)
+- Push the final version to GitHub and share your live site link
 
 ---
