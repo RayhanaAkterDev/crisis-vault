@@ -61,68 +61,44 @@
 - Using factories to generate bulk data for testing    
 - Relationships within factories (e.g., post belongs to user)    
 
-### 🧩 Mini Tasks:
-
-- Create migrations for users, posts, and tags tables
-    
-- Use seeders to insert 10 users and 50 posts
-    
-- Generate factories for posts with fake content and tags
-    
+### 🧩 Mini Tasks
+- Create migrations for users, posts, and tags tables    
+- Use seeders to insert 10 users and 50 posts    
+- Generate factories for posts with fake content and tags    
 
 ---
 
 ## ✅ Query Optimization & Security
 
 ### 🎯 Learning Topics
+- Indexing for faster queries    
+- Avoiding N+1 query problem (use eager loading)    
+- Parameterized queries (SQL injection prevention)    
+- Using Laravel’s query logs and performance tips    
+- Caching (optional intro via Laravel Cache)    
 
-- Indexing for faster queries
-    
-- Avoiding N+1 query problem (use eager loading)
-    
-- Parameterized queries (SQL injection prevention)
-    
-- Using Laravel’s query logs and performance tips
-    
-- Caching (optional intro via Laravel Cache)
-    
-
-### 🧩 Mini Tasks:
-
-- Optimize a query using indexing and `with()`
-    
-- Protect a raw query with parameter binding
-    
-- Measure and compare query performance using Laravel Debugbar
-    
+### 🧩 Mini Tasks
+- Optimize a query using indexing and `with()`    
+- Protect a raw query with parameter binding    
+- Measure and compare query performance using Laravel Debugbar    
 
 ---
 
 ## ✅ Final Project — Database-Centric Blog
 
 ### 🎯 Objectives
-
 - Build a Laravel blog app focused on robust **database structure**, **relationships**, and **performance**
-    
-- Implement **real-world data interaction** via MySQL
-    
+- Implement **real-world data interaction** via MySQL    
 
-### 🧩 Project Tasks:
-
-- Models: User, Post, Comment, Tag
-    
-- Relationships:
-    
-    - User → Posts (One-to-Many)
-        
-    - Post ↔ Tags (Many-to-Many)
-        
-    - Post → Comments (One-to-Many)
-        
-- Use seeders and factories to simulate a working blog
-    
-- Optimize post-fetching with eager loading
-    
-- Secure inputs and protect against SQL injection
-    
+### 🧩 Project Tasks
+- Models: User, Post, Comment, Tag    
+- Relationships:    
+    - User → Posts (One-to-Many)        
+    - Post ↔ Tags (Many-to-Many)        
+    - Post → Comments (One-to-Many)        
+- Use seeders and factories to simulate a working blog    
+- Optimize post-fetching with eager loading    
+- Secure inputs and protect against SQL injection    
 - Backup database and export via `.sql` (optional advanced task)
+
+---
