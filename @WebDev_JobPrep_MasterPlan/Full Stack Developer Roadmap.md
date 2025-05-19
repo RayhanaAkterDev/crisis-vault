@@ -91,23 +91,24 @@
 
 
 ## Final Phase: Job Readiness
-
-### Optional Timeline Buffer**
-Since life and learning aren't always predictable, consider adding a buffer or review period:
-
-> ⏳ **Catch-Up/Review Month:** March 2026 – In case of delays or deeper revision before job prep.
-
-
 > **Focus:** Final projects, portfolio, resume, interview prep, job applications  
 > **Goals:** Prepare for and land your first developer role
 > **Timeline**: 1 Feb 2026 - 30 Apr 2026
 
 ### Job Readiness Topics
-- Build 2–3 polished full stack projects (React + Laravel + MySQL)    
-- Create and publish a developer portfolio    
-- Polish resume, LinkedIn, and GitHub profiles    
-- Practice common interview questions (Laravel, React, DB, API)    
-- Apply for junior developer jobs and network
+- Plan and start your final 2–3 full stack projects
+- Draft your developer portfolio    
+- Refine your resume, LinkedIn, and GitHub profile    
+ad- Prepare common interview questions
+
+---
+
+### ⏳ **Optional Review Buffer (March 2026)**  
+If you fall behind or need deeper revision, use March as a flexible period to:
+
+- Catch up on any pending topics or projects    
+- Focus on reinforcing weak concepts    
+- Continue refining your portfolio and preparing for interviews
 
 ---
 
