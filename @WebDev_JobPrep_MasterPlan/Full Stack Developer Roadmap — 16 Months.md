@@ -1,27 +1,25 @@
 # 🚀 Full Stack Developer Roadmap 
 
 ## Month 1: Core Web Foundations
+- **Week 1:** _HTML5 + Semantic Structure + Forms_  
+	- **Learn:** HTML tags, semantic structure, forms, accessibility  
+	- **Mini Task:** Build a blog layout + contact form  
+	- **Tools:** VSCode, Live Server  
 
-> ##### **Week 1: HTML5 + Semantic Structure + Forms**  
-> - **Learn**: HTML tags, semantic structure, forms, accessibility  
-> - **Mini Task**: Build a blog layout + contact form  
-> - **Tools**: VSCode, Live Server
+- **Week 2**: *CSS Core + Flexbox + Grid + Responsive Design*  
+	- **Learn**: Box Model, Flexbox, Grid, media queries  
+	- **Practice**: 1 landing page layout (mobile-first)  
+	- **Tools**: Figma-to-code if possible
 
-🔹 **Week 2: CSS Core + Flexbox + Grid + Responsive Design**  
-Learn: Box Model, Flexbox, Grid, media queries  
-Practice: 1 landing page layout (mobile-first)  
-Tools: Figma-to-code if possible
+- **Week 3**: *Git & GitHub Basics + Tailwind CSS Intro*
+	- **Learn**: Git init, add, commit, push, branching  
+	- **Tailwind CSS**: Utility classes, responsive design basics  
+	- **Task**: Convert Week 2 landing page into Tailwind version
 
-🔹 **Week 3: Git & GitHub Basics + Tailwind CSS Intro**  
-Learn: Git init, add, commit, push, branching  
-Tailwind CSS: Utility classes, responsive design basics  
-Task: Convert Week 2 landing page into Tailwind version
-
-🔹 **Week 4: JavaScript Basics + DOM Manipulation**  
-Learn: Data types, loops, functions, DOM, events  
-Task: Build a small app (Counter or Modal)  
-Optional: Add Tailwind styling to JS project
-
+- **Week 4**: *JavaScript Basics + DOM Manipulation*
+	- **Learn**: Data types, loops, functions, DOM, events  
+	- **Task**: Build a small app (Counter or Modal)  
+	- **Optional**: Add Tailwind styling to JS project
 
 ---
 
