@@ -96,14 +96,17 @@
 > **Timeline**: 1 Feb 2026 - 30 Apr 2026
 
 ### Job Readiness Topics
-- Plan and start your final 2–3 full stack projects
-- Draft your developer portfolio    
-- Refine your resume, LinkedIn, and GitHub profile    
-ad- Prepare common interview questions
+- Plan and build 2–3 polished full stack projects (React + Laravel + MySQL)    
+- Review and strengthen core concepts (JavaScript, React, Laravel, MySQL)    
+- Finalize project deployment and ensure production-readiness    
+- Create and publish your developer portfolio website    
+- Refine resume, GitHub profile, and LinkedIn presence    
+- Practice mock interviews and common technical questions    
+- Apply for junior developer roles and begin networking
 
 ---
 
-### ⏳ **Optional Review Buffer (March 2026)**  
+#### Optional Review Buffer (March 2026)
 If you fall behind or need deeper revision, use March as a flexible period to:
 
 - Catch up on any pending topics or projects    
