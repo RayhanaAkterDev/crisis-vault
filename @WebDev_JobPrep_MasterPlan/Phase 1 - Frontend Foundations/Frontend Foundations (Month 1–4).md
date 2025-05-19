@@ -1,3 +1,4 @@
+# Frontend Foundations
 > **🎯 Goal:** Master the fundamentals of frontend development: HTML, CSS, JavaScript, DOM, APIs, and version control.
 
 ---

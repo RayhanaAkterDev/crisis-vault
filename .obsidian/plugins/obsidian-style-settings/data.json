@@ -123,7 +123,7 @@
   "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-full-palette",
   "catppuccin-icon-styles@@ctp-icon-hide": false,
   "catppuccin-interface-styles@@ctp-bold-folder-title": true,
-  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-black",
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
   "maple-editor@@setting-hr-icon": "\"\"",
   "minimal-advanced@@styled-scrollbars": false,
   "minimal-advanced@@cursor": "pointer",

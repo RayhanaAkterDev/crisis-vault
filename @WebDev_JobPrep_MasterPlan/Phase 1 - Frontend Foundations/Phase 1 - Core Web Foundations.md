@@ -4,7 +4,7 @@
 
 ## Topics of Phase-1
 
-> - [ ] **HTML5 semantic structure** 
+### HTML5 semantic structure 
 > 	- [ ] *Semantic tags*
 > 	- [ ] *Forms*
 > 	- [ ] *Accessibility basics*
@@ -19,7 +19,7 @@
 > 	- [ ] Pseudo-classes & pseudo-elements
 > 	- [ ] CSS variables
 
-> - [ ] **JavaScript (Basics, Functions, Arrays, DOM)**
+> - [ ] **JavaScript (Core + ES6)**
 > 	- [ ] *var, let, const*
 > 	- [ ] *Data types*
 > 	- [ ] *Operators*
@@ -35,102 +35,51 @@
 > 	- [ ] *Default parameters*
 > 	- [ ] *Promises*
 > 	- [ ] *async/await*
+> 	- [ ] **DOM Manipulation**
+> 		- [ ] Element selection
+> 		- [ ] Content manipulation
+> 		- [ ] Styling via JS
+> 		- [ ] Event handling
+> 		- [ ] Creating/inserting/removing elements
+
+> - **API Basics**
+> 	- JSON structure
+> 	- fetch()
+> 	- then() and catch()
+> 	- async/await with APIs
+> 	- Display fetched data
 
 
-> - Responsive design
+> - **Responsive design**
+
+---
+
 > - Accessibility
-> - Git & GitHub basics
-> - Basic projects (Portfolio, To-do App)
-
 
 ---
 
-- ### JavaScript (Core + ES6)
-
-
----
-
-- ### DOM Manipulation
-	- Element selection
-	- Content manipulation
-	- Styling via JS
-	- Event handling
-	- Creating/inserting/removing elements
+> - **Git & GitHub**
+> 	- Initialize repo    
+> 	- Commit, push    
+> 	- Branches, pull/merge    
+> 	- GitHub setup    
+> 	- README.md    
+> 	- .gitignore    
 
 ---
 
-- ### API Basics
-	- JSON structure
-	- fetch()
-	- then() and catch()
-	- async/await with APIs
-	- Display fetched data
+> - **Projects to Build**
+> 	- Personal Portfolio    
+> 	- Quiz App    
+> 	- Weather App    
+> 	- To-Do App    
+> 	- Color Palette Generator    
 
 ---
 
-## Git & GitHub
-
-- Initialize repo    
-- Commit, push    
-- Branches, pull/merge    
-- GitHub setup    
-- README.md    
-- .gitignore    
+> - **Resources**
+> 	- JavaScript.info    
+> 	- FreeCodeCamp (Responsive Web Design, JS Algorithms)    
+> 	- YouTube: Web Dev Simplified, Kevin Powell, Mosh, Traversy Media
 
 ---
-
-## 🛠️ Projects to Build
-
-- Personal Portfolio    
-- Quiz App    
-- Weather App    
-- To-Do App    
-- Color Palette Generator    
-
----
-
-## 🧰 Resources
-
-- JavaScript.info    
-- FreeCodeCamp (Responsive Web Design, JS Algorithms)    
-- YouTube: Web Dev Simplified, Kevin Powell, Mosh, Traversy Media
-
----
-
----
-
-## ✅ HTML
-
-- Semantic Elements
-- Forms
-- Accessibility Basics
-
-## ✅ CSS
-- Box Model
-- Flexbox
-- CSS Grid
-- Pseudo-selectors
-- Responsive Design (Media Queries)
-- Animations & Transitions
-- CSS Variables
-
-## ✅ JavaScript
-- Variables: var, let, const
-- Data Types & Operators
-- Conditions & Loops
-- Functions & Scope
-- Arrays & Objects
-- Array Methods (map, filter, reduce)
-- DOM Manipulation
-- Events
-
-## ✅ Git & GitHub
-- Git Basics: init, add, commit, push
-- Branching & Merging
-- .gitignore
-- GitHub Project Hosting
-
-## 🛠️ Projects
-- Portfolio Website
-- Quiz App
-- To-Do App
