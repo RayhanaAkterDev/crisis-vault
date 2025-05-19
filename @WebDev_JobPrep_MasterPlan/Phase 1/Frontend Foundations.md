@@ -2,45 +2,49 @@
 
 **🎯 Goal:** Master the core building blocks of web development: **HTML**, **CSS**, **Responsive Design**, **JavaScript**, **DOM**, **Git**, and **basic API** interaction. These are the foundation of both frontend and backend.
 
-⏳ **Suggested Duration:** ==Month 1 → Month 3== (*3 months total*)
+⏳ **Suggested Duration:** 20 May 2025 → 15 June 2025 (4 weeks)
 
 ---
 
-## ✅ Week 1: HTML5 Semantic Structure
+## ✅HTML5 Semantic Structure
 
-#### 🎯 Learning Topics:
-- Semantic tags (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`)
-- Form elements (`<form>`, `<input>`, `<label>`, `<button>`)
-- Accessibility basics (*alt text, label associations, heading structure*)
+### 🎯 Learning Topics:
+- Semantic tags: `<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`
+- Form elements: `<form>`, `<input>`, `<label>`, `<button>`
+- Accessibility basics: alt text, heading order, label association
 
-#### 🧩 Mini Tasks:
-- Build a simple blog layout using only semantic HTML elements.    
-- Add a contact form with basic structure and proper labels.
+### 🧩 Mini Tasks:
+- Build a basic blog layout using only semantic tags.
+- Add a contact form with proper labels and accessibility features.
 
 ---
 
-## ✅ Week 2: CSS Basics & Selectors
+## ✅ CSS Basics & Responsive Design
 
-### 🎯 Learning Topics
-- CSS syntax and structure    
-- Types of selectors: element, class, ID, group    
-- Box model: _margin, border, padding, content_    
+### 🎯 Learning Topics:
+- CSS syntax and types of selectors (element, class, ID)
+- Box model: margin, border, padding, content
+- Flexbox: layout, alignment, spacing
+- Media queries for responsive design
 
-### 🧩 Mini Tasks
-- Style the blog layout from Week 1 using basic CSS.    
-- Highlight different sections using class and ID selectors.
+### 🧩 Mini Tasks:
+- Style your blog layout using vanilla CSS and Flexbox.
+- Add a responsive navbar that adapts on small screens.
 
-## ✅ Week 3: Flexbox & Responsive Layout
+---
 
-### 🎯 Learning Topics
+## ✅ Tailwind CSS Essentials
 
-- Flex container & flex items    
-- Properties: `justify-content`, `align-items`, `flex-direction`, `gap`    
-- Mobile-first responsive design concepts    
+### 🎯 Learning Topics:
+- Utility-first concept and class structure
+- Layout utilities: `flex`, `grid`, `container`, `space-x`, `gap`
+- Typography and color system: `text-lg`, `font-bold`, `text-gray-800`
+- Responsive and hover states: `md:flex`, `hover:bg-blue-500`
 
-### 🧩 Mini Tasks
-- Convert your blog layout into a responsive design using Flexbox.    
-- Add a navigation bar that adapts on smaller screens.
+### 🧩 Mini Tasks:
+- Rebuild your blog or form using Tailwind instead of vanilla CSS.
+- Create a responsive card or section layout with Tailwind.
+- Implement hover effects, spacing, and consistent color palette.
 
 ---
 
