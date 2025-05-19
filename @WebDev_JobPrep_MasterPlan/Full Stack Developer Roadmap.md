@@ -31,9 +31,9 @@
 ---
 
 ## Phase 3: Backend with PHP & Laravel
-> **Focus:** PHP basics, Laravel framework setup, MVC pattern, Blade templating, API creation  
-> **Goals:** Build backend apps, understand Laravel ecosystem
-> **Timeline**: 1 Aug 2025 - 30 Sep 2025
+> **Focus:** PHP basics, Laravel setup, MVC pattern, Blade templating, intro to database & API creation  
+> **Goals:** Build backend apps with database connection, understand Laravel ecosystem  
+> **Timeline:** 1 Aug 2025 - 30 Sep 2025
 
 ### Topics of PHP & Laravel
 - PHP syntax, variables, arrays, OOP basics    
@@ -42,36 +42,38 @@
 - Request validation, middleware    
 - Laravel MVC Pattern    
 - Authentication and authorization    
-- Laravel Eloquent ORM (CRUD, relationships)    
-- Laravel API development (routes, controllers, JSON responses) 
+- **Intro to Laravel Eloquent ORM** (basic CRUD)    
+- **Database integration with MySQL** (basic setup, simple migrations)    
+- Laravel API development (routes, controllers, JSON responses)    
 
 ---
 
 ## Phase 4: Full Stack Integration (React + Laravel)
-> **Focus:** Connecting React frontend with Laravel backend, API communication, CORS, authentication flows  
-> **Goals:** Build a seamless full stack app with frontend/backend communication
-> **Timeline**: 1 Oct 2025 - 30 Nov 2025
+> **Focus:** Connecting React frontend with Laravel backend, API communication, CORS, auth flows, DB handling  
+> **Goals:** Build a full stack app with frontend/backend/API/database connection  
+> **Timeline:** 1 Oct 2025 - 30 Nov 2025
 
 ### Full Stack Integration Topics
 - Laravel API with JSON responses    
 - React fetching data and submitting forms to Laravel API    
 - CORS setup and API security    
 - Authentication flows (login/register via API)    
-- Error handling and status codes
+- Error handling and status codes    
+- Storing/fetching data via database in full stack workflow    
 
 ---
 
 ## Phase 5: Database Management
-> **Focus:** MySQL basics, Laravel Eloquent ORM, migrations, relationships, database optimization  
->**Goals:** Master relational databases and integrate with backend
-> **Timeline**: 1 Dec 2025 - 31 Dec 2025
+> **Focus:** MySQL fundamentals, advanced Eloquent ORM, relationships, database optimization  
+> **Goals:** Master relational databases and integrate efficiently with backend  
+> **Timeline:** 1 Dec 2025 - 31 Dec 2025
 
 ### Topics of Database Management
 - MySQL tables, CRUD queries, joins    
 - Laravel Eloquent ORM (CRUD, relationships)    
 - Database relationships (one-to-many, many-to-many)    
 - Migrations, seeders, factories    
-- Query optimization and security    
+- Query optimization and security
 
 ---
 
