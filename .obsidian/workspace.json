@@ -206,19 +206,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "task-status:Change Checkbox Status": false
+      "task-status:Change Checkbox Status": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "6f0a8f1a4f8eaa07",
   "lastOpenFiles": [
+    "@WebDev_JobPrep_MasterPlan/Phase 3 - Backend with PHP & Laravel/Phase 3 - Backend with PHP & Laravel.md",
+    "@WebDev_JobPrep_MasterPlan/Phase 3 - Backend with PHP & Laravel/Phase 3 - Backend with PHP & Laravel.md",
     "@WebDev_JobPrep_MasterPlan/Phase 2/Advanced JavaScript with React.md",
-    "@WebDev_JobPrep_MasterPlan/Phase 3 - Backend with PHP & Laravel/Phase 3 - Laravel Backend & SQL Database.md",
     "@WebDev_JobPrep_MasterPlan/Full Stack Developer Roadmap.md",
     "@WebDev_JobPrep_MasterPlan/Phase 1/Frontend Foundations.md",
     "@WebDev_JobPrep_MasterPlan/Phase 1/Untitled.md",
     "@WebDev_JobPrep_MasterPlan/Phase 2/Phase 2 - React & API Integration.md",
     "@WebDev_JobPrep_MasterPlan/Untitled.md",
-    "@WebDev_JobPrep_MasterPlan/Phase 3 - Backend with PHP & Laravel/Phase 3 - Backend with PHP & Laravel.md",
     "@WebDev_JobPrep_MasterPlan/Phase 1 - Frontend Foundations/Frontend Foundations (Month 1–4).md",
     "Journal/Daily_Notes/2025-05-19.md",
     "Journal/Daily_Notes/2025-05-18.md",
