@@ -84,72 +84,44 @@
 ## ✅ JavaScript Basics & DOM Manipulation
 
 ### 🎯 Learning Topics:
--  🔹 **JavaScript Fundamentals**
+- **JavaScript Fundamentals**
 	- *Variables*: `var`, `let`, `const`
 	- *Data Types*: string, number, boolean, null, undefined, symbol
 	- *Operators*: arithmetic, comparison, logical, assignment
    
-- 🔹 Control Flow
-	- **Conditional Statements**: `if`, `else if`, `else`, `switch`
-	- **Loops**: `for`, `while`, `do...while`, `for...of`
-    
+- **Control Flow**
+	- *Conditional Statements*: `if`, `else if`, `else`, `switch`
+	- *Loops*: `for`, `while`, `do...while`, `for...of`
 
-#### 🔹 Functions & Scope
+- **Functions & Scope**
+	- Function declaration & expression
+	- Arrow functions
+	- Parameters & return values
+	- *Scope*: global vs. local
 
-- **Function declaration & expression**
-    
-- **Arrow functions (`=>`)**
-    
-- **Parameters & return values**
-    
-- **Scope**: global vs. local
-    
+- **Arrays & Objects**
+	- *Array basics*: creation, indexing, methods like `push()`, `pop()`, `map()`
+	- *Objects*: key-value pairs, dot vs bracket notation
+	- Looping over arrays & objects
 
-#### 🔹 Arrays & Objects
+- **DOM Manipulation**
+	- *Element selection*: `getElementById()`, `querySelector()`, etc.
+	- *Modifying DOM*: change text, styles, classes, and attributes
+	- Creating & appending elements
+	- Removing elements
 
-- **Array basics**: creation, indexing, methods like `push()`, `pop()`, `map()`
-    
-- **Objects**: key-value pairs, dot vs bracket notation
-    
-- **Looping over arrays & objects**
-    
-
-#### 🔹 DOM Manipulation
-
-- **Element selection**: `getElementById()`, `querySelector()`, etc.
-    
-- **Modifying DOM**: change text, styles, classes, and attributes
-    
-- **Creating & appending elements**
-    
-- **Removing elements**
-    
-
-#### 🔹 Events & Interactivity
-
-- **Event listeners**: `click`, `mouseover`, `submit`, etc.
-    
-- **Handling events and `event.target`**
-    
-- **Form validation with JavaScript**
-    
-- **Interactive features**: toggle sections, theme switchers, etc.
-    
-
----
+ - **Events & Interactivity**
+	 - Event listeners: `click`, `mouseover`, `submit`, etc.
+	 - Handling events and `event.target`
+	 - Form validation with JavaScript
+	 - *Interactive features*: toggle sections, theme switchers, etc.
 
 ### 🧩 Mini Tasks:
-
-- Show alert on a button click
-    
-- Change background color on a button press
-    
-- Toggle visibility of a paragraph or section
-    
-- Validate form fields using JavaScript
-    
-- Add a light/dark mode toggle
-    
+- Show alert on a button click    
+- Change background color on a button press    
+- Toggle visibility of a paragraph or section    
+- Validate form fields using JavaScript    
+- Add a light/dark mode toggle    
 - Dynamically update content (e.g., add list items)
 
 ---
@@ -186,5 +158,6 @@
 - Add **subtle animations** using transitions or class changes    
 - Use JS to validate the form before submit    
 - Host it on GitHub Pages and include the live link in the README
+- ✅ **Deploy your final project live on GitHub Pages and share the URL**
 
 ---
