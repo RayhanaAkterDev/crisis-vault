@@ -29,7 +29,7 @@
   "blue-topaz-theme@@plain-file-title": false,
   "blue-topaz-theme@@title-justify-start": false,
   "blue-topaz-theme@@fancy-hr": "default-hr",
-  "blue-topaz-theme@@colorful-ordered-list": true,
+  "blue-topaz-theme@@colorful-ordered-list": false,
   "blue-topaz-theme@@bt-colorful-indentation-lines": false,
   "blue-topaz-theme@@file-bg-shape-option": "file-shape-default",
   "blue-topaz-theme@@file-name-style-option": "file-name-non-wrapped",
@@ -38,7 +38,6 @@
   "blue-topaz-theme@@folder-note-underline": false,
   "blue-topaz-theme@@folder-note-dot": true,
   "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-border",
-  "blue-topaz-theme@@colorful-unordered-list": true,
   "blue-topaz-theme@@bt-colorful-indentation-lines-editing": false,
   "blue-topaz-theme@@bt-colorful-indentation-line-options": "bt-indentation-line-gradient",
   "blue-topaz-theme@@folder-icons": true,
@@ -103,7 +102,6 @@
   "blue-topaz-theme@@toggle-left-aligned-content": true,
   "blue-topaz-theme@@layout-style-options": "bt-bubble-layout",
   "blue-topaz-theme@@bt-colorful-connected-indent-hover": false,
-  "blue-topaz-theme@@unordered-list-style-options": "bt-default-unordered-list",
   "blue-topaz-theme@@tag-style-option": "rainbow-tag",
   "ITS@@ITS-Sizes": "sizing-mini",
   "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-indigo-dt",
@@ -234,5 +232,6 @@
   "blue-topaz-theme@@remove-selectionbackground": false,
   "blue-topaz-theme@@inline-title-color@@dark": "#93F1DD",
   "blue-topaz-theme@@inline-title-bg-color@@dark": "#2E263F",
-  "blue-topaz-theme@@accent-em@@dark": "#D9C8FF"
+  "blue-topaz-theme@@accent-em@@dark": "#D9C8FF",
+  "blue-topaz-theme@@unordered-list-style-options": "default-list-marker"
 }
