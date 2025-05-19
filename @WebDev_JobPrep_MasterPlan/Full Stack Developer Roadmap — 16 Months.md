@@ -1,36 +1,18 @@
 # 🚀 Full Stack Developer Roadmap 
 
-## Month 1: Core Web Foundations
-- **Week 1:** _HTML5 + Semantic Structure + Forms_  
-	- **Learn:** HTML tags, semantic structure, forms, accessibility  
-	- **Mini Task:** Build a blog layout + contact form  
-	- **Tools:** VSCode, Live Server  
+## Phase 1: Core Web Foundations
+> **Focus:** HTML5, CSS3 (including Tailwind CSS), JavaScript basics, Git & GitHub  
+> **Goals:** Build strong fundamentals, simple projects, version control
 
-- **Week 2**: *CSS Core + Flexbox + Grid + Responsive Design*  
-	- **Learn**: Box Model, Flexbox, Grid, media queries  
-	- **Practice**: 1 landing page layout (mobile-first)  
-	- **Tools**: Figma-to-code if possible
-
-- **Week 3**: *Git & GitHub Basics + Tailwind CSS Intro*
-	- **Learn**: Git init, add, commit, push, branching  
-	- **Tailwind CSS**: Utility classes, responsive design basics  
-	- **Task**: Convert Week 2 landing page into Tailwind version
-
-- **Week 4**: *JavaScript Basics + DOM Manipulation*
-	- **Learn**: Data types, loops, functions, DOM, events  
-	- **Task**: Build a small app (Counter or Modal)  
-	- **Optional**: Add Tailwind styling to JS project
+### **Topics of Core Web Foundations**
+- HTML5 semantic tags, forms, accessibility    
+- CSS box model, Flexbox, Grid, responsive design    
+- Tailwind CSS basics    
+- JavaScript data types, loops, functions, DOM, events    
+- Git commands, GitHub workflow
 
 ---
 
-# 🚀 Full Stack Developer Roadmap (React + Laravel + MySQL)
-
-## Phase 1: Core Web Foundations
-
-- HTML5 (Semantic Tags, Forms, Accessibility)    
-- CSS3 (Box Model, Flexbox, Grid, Media Queries, Animations)    
-- JavaScript Basics (Data Types, Loops, Functions, Events, DOM)    
-- Git & GitHub (init, commit, push, branches, README.md)
 
 ---
 
