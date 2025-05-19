@@ -1,4 +1,16 @@
 /* Add top spacing to H3 in reading mode only */
 .markdown-preview-view h3 {
-  margin-top: 2.5rem; /* You can change 2rem to any value you prefer */
+  margin: 2rem auto 1.5rem; /* You can change 2rem to any value you prefer */
+}
+
+/* Style bullet lists in reading/view mode */
+.markdown-preview-view ul {
+  margin-left: 1rem;   /* Indentation from the left */
+  line-height: 1em;    /* Reduce line height */
+margin-bottom: 1rem;
+}
+
+/* Optional: adjust spacing between bullet points and text */
+.markdown-preview-view ul li {
+  margin-bottom: 0.3em;  /* Space between list items */
 }
