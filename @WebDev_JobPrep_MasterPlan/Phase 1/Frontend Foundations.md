@@ -1,4 +1,4 @@
-# ✅ 🌼 Phase 1: Core Web Foundations
+# 🌼 Phase 1: Core Web Foundations
 
 **🎯 Goal:** Master the core building blocks of web development: **HTML**, **CSS**, **Responsive Design**, **JavaScript**, **DOM**, **Git**, and **basic API** interaction. These are the foundation of both frontend and backend.
 
@@ -19,22 +19,62 @@
 
 ---
 
+## ✅ Week 2: CSS Basics & Selectors
+
+### 🎯 Learning Topics
+- CSS syntax and structure    
+- Types of selectors: element, class, ID, group    
+- Box model: _margin, border, padding, content_    
+
+### 🧩 Mini Tasks
+- Style the blog layout from Week 1 using basic CSS.    
+- Highlight different sections using class and ID selectors.
+
+## ✅ Week 3: Flexbox & Responsive Layout
+
+### 🎯 Learning Topics
+
+- Flex container & flex items    
+- Properties: `justify-content`, `align-items`, `flex-direction`, `gap`    
+- Mobile-first responsive design concepts    
+
+### 🧩 Mini Tasks
+- Convert your blog layout into a responsive design using Flexbox.    
+- Add a navigation bar that adapts on smaller screens.
+
+---
+
+## ✅ Week 4: Advanced Forms & HTML Validation
+
+### 🎯 Learning Topics
+- Input types: `email`, `number`, `range`, `date`    
+- HTML5 validation attributes: `required`, `min`, `max`, `pattern`    
+- Grouping forms with `<fieldset>` and `<legend>`    
+
+### 🧩 Mini Tasks
+- Enhance your contact form with advanced input types and validation.    
+- Group related fields using `<fieldset>` for better structure.
+
+---
+
+## ✅ Week 5: Project Week — Personal Portfolio
+
+### 🎯 Objectives
+- Apply all semantic HTML and CSS concepts learned   
+- Build a personal portfolio homepage    
+- Ensure accessibility and responsiveness    
+
+### 🧩 Project Tasks
+- Create sections: About Me, Projects, Contact    
+- Add internal navigation with anchor links    
+- Use Flexbox or Grid for layout    
+- Test the design on mobile and desktop
+
+---
+
+
+
 ## Topics of Phase-1
-
-> - [ ] **HTML5 semantic structure** 
-> 	- [ ] *Semantic tags*
-> 	- [ ] *Forms*
-> 	- [ ] *Accessibility basics*
-
-> - [ ] **CSS (Box model, Flexbox, Grid, Media Queries)**
-> 	- [ ] Syntax & selectors
-> 	- [ ] Box model
-> 	- [ ] Flexbox
-> 	- [ ] Grid
-> 	- [ ] Transitions & animations
-> 	- [ ] Media queries
-> 	- [ ] Pseudo-classes & pseudo-elements
-> 	- [ ] CSS variables
 
 > - [ ] **JavaScript (Core + ES6)**
 > 	- [ ] *var, let, const*
