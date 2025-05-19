@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@WebDev_JobPrep_MasterPlan/Phase 1 - Frontend Foundations/Phase 1 - Core Web Foundations.md",
+                "file": "@WebDev_JobPrep_MasterPlan/Phase 1/Frontend Foundations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Phase 1 - Core Web Foundations"
+              "title": "Outline of Frontend Foundations"
             }
           },
           {
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "50297d8c1b5ada63",

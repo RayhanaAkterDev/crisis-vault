@@ -1,6 +1,23 @@
-# Core Web Foundations
+# ✅ 🌼 Phase 1: Core Web Foundations
 
-**🎯 Goal:** Master the basics of web development: HTML, CSS, JavaScript, and Git. These are essential for both frontend and backend.
+**🎯 Goal:** Master the core building blocks of web development: **HTML**, **CSS**, **Responsive Design**, **JavaScript**, **DOM**, **Git**, and **basic API** interaction. These are the foundation of both frontend and backend.
+
+⏳ **Suggested Duration:** ==Month 1 → Month 3== (*3 months total*)
+
+---
+
+## ✅ Week 1: HTML5 Semantic Structure
+
+#### 🎯 Learning Topics:
+- Semantic tags (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`)
+- Form elements (`<form>`, `<input>`, `<label>`, `<button>`)
+- Accessibility basics (*alt text, label associations, heading structure*)
+
+#### 🧩 Mini Tasks:
+- Build a simple blog layout using only semantic HTML elements.    
+- Add a contact form with basic structure and proper labels.
+
+---
 
 ## Topics of Phase-1
 

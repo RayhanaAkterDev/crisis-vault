@@ -29,7 +29,7 @@
   "blue-topaz-theme@@plain-file-title": false,
   "blue-topaz-theme@@title-justify-start": false,
   "blue-topaz-theme@@fancy-hr": "default-hr",
-  "blue-topaz-theme@@colorful-ordered-list": false,
+  "blue-topaz-theme@@colorful-ordered-list": true,
   "blue-topaz-theme@@bt-colorful-indentation-lines": false,
   "blue-topaz-theme@@file-bg-shape-option": "file-shape-default",
   "blue-topaz-theme@@file-name-style-option": "file-name-non-wrapped",
@@ -233,5 +233,7 @@
   "blue-topaz-theme@@inline-title-color@@dark": "#93F1DD",
   "blue-topaz-theme@@inline-title-bg-color@@dark": "#2E263F",
   "blue-topaz-theme@@accent-em@@dark": "#D9C8FF",
-  "blue-topaz-theme@@unordered-list-style-options": "default-list-marker"
+  "blue-topaz-theme@@unordered-list-style-options": "bt-default-unordered-list",
+  "blue-topaz-theme@@colorful-unordered-list": true,
+  "blue-topaz-theme@@h2-line-height": 2
 }
