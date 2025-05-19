@@ -4,7 +4,7 @@
 > **Focus:** HTML5, CSS3 (including Tailwind CSS), JavaScript basics, Git & GitHub  
 > **Goals:** Build strong fundamentals, simple projects, version control
 
-### **Topics of Core Web Foundations**
+### Topics of Core Web Foundations
 - HTML5 semantic tags, forms, accessibility    
 - CSS box model, Flexbox, Grid, responsive design    
 - Tailwind CSS basics    
