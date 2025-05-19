@@ -28,21 +28,34 @@
 
 ---
 
+## Phase 3: Backend with PHP & Laravel
+> **Focus:** PHP basics, Laravel framework setup, MVC pattern, Blade templating, API creation  
+> **Goals:** Build backend apps, understand Laravel ecosystem
+
+## Topics of PHP & Laravel
+- PHP syntax, variables, arrays, OOP basics    
+- Laravel installation and setup    
+- Routing, controllers, Blade views    
+- Request validation, middleware    
+- Laravel MVC Pattern    
+- Authentication and authorization    
+- Laravel Eloquent ORM (CRUD, relationships)    
+- Laravel API development (routes, controllers, JSON responses) 
+
+---
+
 ## Phase 4: Full Stack Integration (React + Laravel)
 > **Focus:** Connecting React frontend with Laravel backend, API communication, CORS, authentication flows  
 > **Goals:** Build a seamless full stack app with frontend/backend communication
 
-**Topics:**
-
-- Laravel API with JSON responses
-    
-- React fetching data and submitting forms to Laravel API
-    
-- CORS setup and API security
-    
-- Authentication flows (login/register via API)
-    
+### Topics Full Stack Integration
+- Laravel API with JSON responses    
+- React fetching data and submitting forms to Laravel API    
+- CORS setup and API security    
+- Authentication flows (login/register via API)    
 - Error handling and status codes
+
+
 ## Phase 3: Backend with PHP & Laravel
 
 - PHP Basics (syntax, variables, arrays, loops, functions)    
