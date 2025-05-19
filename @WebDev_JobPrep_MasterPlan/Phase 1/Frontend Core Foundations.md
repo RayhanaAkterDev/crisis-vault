@@ -1,4 +1,4 @@
-# 🌼 Phase 1: Core Web Foundations
+# 🌼 Phase 1: Frontend Core Foundations
 
 **🎯 Goal:** Master the core building blocks of web development: **HTML**, **CSS**, **Responsive Design**, **JavaScript**, **DOM**, **Git**, and **basic API** interaction. These form the foundation of both frontend and backend.
 

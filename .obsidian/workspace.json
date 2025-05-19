@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@WebDev_JobPrep_MasterPlan/Phase 3 - Backend with PHP & Laravel/Phase 3 - Backend with PHP & Laravel.md",
-                "mode": "preview",
+                "file": "@WebDev_JobPrep_MasterPlan/Phase 5/Phase 5 - Database Management.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase 3 - Backend with PHP & Laravel"
+              "title": "Phase 5 - Database Management"
             }
           }
         ],
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 365.5
   },
   "right": {
     "id": "8f112ace402a832e",
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@WebDev_JobPrep_MasterPlan/Phase 3 - Backend with PHP & Laravel/Phase 3 - Backend with PHP & Laravel.md",
+                "file": "@WebDev_JobPrep_MasterPlan/Phase 5/Phase 5 - Database Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Phase 3 - Backend with PHP & Laravel"
+              "title": "Outline of Phase 5 - Database Management"
             }
           },
           {
@@ -213,12 +213,17 @@
   "active": "6f0a8f1a4f8eaa07",
   "lastOpenFiles": [
     "@WebDev_JobPrep_MasterPlan/Full Stack Developer Roadmap.md",
-    "@WebDev_JobPrep_MasterPlan/Phase 4 - Full Stack Integration/Phase 4 - Full Stack Integration & Deployment.md",
-    "@WebDev_JobPrep_MasterPlan/Phase 4 - Full Stack Integration/Phase 4 - Full Stack Integration (React + Laravel).md",
+    "@WebDev_JobPrep_MasterPlan/Phase 4/Phase 4 - Full Stack Integration.md",
+    "@WebDev_JobPrep_MasterPlan/Phase 3/Phase 3 - Backend with PHP & Laravel.md",
+    "@WebDev_JobPrep_MasterPlan/Phase 5/Phase 5 - Database Management.md",
+    "@WebDev_JobPrep_MasterPlan/Phase 5",
+    "@WebDev_JobPrep_MasterPlan/Phase 4 - Full Stack Integration/Phase 4 - Full Stack Integration.md",
+    "@WebDev_JobPrep_MasterPlan/Phase 4",
     "@WebDev_JobPrep_MasterPlan/Phase 3 - Backend with PHP & Laravel/Phase 3 - Backend with PHP & Laravel.md",
-    "@WebDev_JobPrep_MasterPlan/Phase 3 - Backend with PHP & Laravel/Phase 3 - Backend with PHP & Laravel.md",
+    "@WebDev_JobPrep_MasterPlan/Phase 3",
     "@WebDev_JobPrep_MasterPlan/Phase 2/Advanced JavaScript with React.md",
-    "@WebDev_JobPrep_MasterPlan/Phase 1/Frontend Foundations.md",
+    "@WebDev_JobPrep_MasterPlan/Phase 1/Frontend Core Foundations.md",
+    "@WebDev_JobPrep_MasterPlan/Phase 4 - Full Stack Integration/Phase 4 - Full Stack Integration (React + Laravel).md",
     "@WebDev_JobPrep_MasterPlan/Phase 1/Untitled.md",
     "@WebDev_JobPrep_MasterPlan/Phase 2/Phase 2 - React & API Integration.md",
     "@WebDev_JobPrep_MasterPlan/Untitled.md",
@@ -237,17 +242,12 @@
     "@WebDev_JobPrep_MasterPlan/Untitled 1",
     "@WebDev_JobPrep_MasterPlan/Phase 3 - Backend with PHP & Laravel.md",
     "@WebDev_JobPrep_MasterPlan/Phase 2 - Advance JavaScript + React/Untitled.md",
-    "@WebDev_JobPrep_MasterPlan/Phase 2",
     "@WebDev_JobPrep_MasterPlan/Phase 1 - Frontend Foundations/Full Stack Developer Roadmap.md",
     "@WebDev_JobPrep_MasterPlan/Phase 1 - Core Web Foundations.md",
     "@WebDev_JobPrep_MasterPlan/Phase 7 - Job Readiness.md",
     "@WebDev_JobPrep_MasterPlan/Phase 6 - Production & Deployment.md",
     "@WebDev_JobPrep_MasterPlan/Phase 5 - Database Management.md",
     "@WebDev_JobPrep_MasterPlan/Phase 4 - Full Stack Integration (React + Laravel).md",
-    "@WebDev_JobPrep_MasterPlan/Phase 4 - Full Stack Integration & Deployment.md",
-    "@WebDev_JobPrep_MasterPlan/Phase 3 - Laravel Backend & SQL Database.md",
-    "@WebDev_JobPrep_MasterPlan/Phase 1",
-    "@WebDev_JobPrep_MasterPlan/Untitled 2",
     "CSE-530221 » Computer Network/@attachments/php781vtn.png",
     "@self_dscipline/@attachment/496185103_122226446624240244_4126095264522855744_n.jpg",
     "@self_dscipline/@attachment/494787705_122226436268240244_4646957041229386168_n.jpg",

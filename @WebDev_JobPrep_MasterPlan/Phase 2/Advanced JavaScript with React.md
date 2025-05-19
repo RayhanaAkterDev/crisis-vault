@@ -1,8 +1,7 @@
 # ⚛️ Phase 2: Advanced JavaScript + React
 
-**🎯 Goal:** Dive into modern JavaScript (ES6+), master **React fundamentals**, and build interactive apps with API integration, routing, and hooks.
-
-⏳ **Suggested Duration:** 16 June 2025 → 30 July 2025 (6 weeks)
+> **🎯 Goal:** Dive into modern JavaScript (ES6+), master **React fundamentals**, and build interactive apps with API integration, routing, and hooks.
+> ⏳ **Suggested Duration:** 16 June 2025 → 30 July 2025 (6 weeks)
 
 ---
 
