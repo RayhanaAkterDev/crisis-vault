@@ -1,10 +1,10 @@
-# Phase 1 – Core Web Foundations
+# Core Web Foundations
 
 **🎯 Goal:** Master the basics of web development: HTML, CSS, JavaScript, and Git. These are essential for both frontend and backend.
 
 ## Topics of Phase-1
 
-### HTML5 semantic structure 
+> - [ ] **HTML5 semantic structure** 
 > 	- [ ] *Semantic tags*
 > 	- [ ] *Forms*
 > 	- [ ] *Accessibility basics*
@@ -35,12 +35,13 @@
 > 	- [ ] *Default parameters*
 > 	- [ ] *Promises*
 > 	- [ ] *async/await*
-> 	- [ ] **DOM Manipulation**
-> 		- [ ] Element selection
-> 		- [ ] Content manipulation
-> 		- [ ] Styling via JS
-> 		- [ ] Event handling
-> 		- [ ] Creating/inserting/removing elements
+
+> - [ ] **DOM Manipulation**
+> 	- [ ] Element selection
+> 	- [ ] Content manipulation
+> 	- [ ] Styling via JS
+> 	- [ ] Event handling
+> 	- [ ] Creating/inserting/removing elements
 
 > - **API Basics**
 > 	- JSON structure
