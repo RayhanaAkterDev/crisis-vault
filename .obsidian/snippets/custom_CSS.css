@@ -1,0 +1,4 @@
+/* Add top spacing to H3 in reading mode only */
+.markdown-preview-view h3 {
+  margin-top: 2.5rem; /* You can change 2rem to any value you prefer */
+}

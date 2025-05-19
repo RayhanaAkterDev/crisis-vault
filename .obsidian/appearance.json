@@ -3,7 +3,8 @@
   "enabledCssSnippets": [
     "MCL Multi Column",
     "View-mode",
-    "stylish-tasks"
+    "stylish-tasks",
+    "custom_CSS"
   ],
   "interfaceFontFamily": "Consolas",
   "textFontFamily": "Candara",

@@ -235,5 +235,6 @@
   "blue-topaz-theme@@accent-em@@dark": "#D9C8FF",
   "blue-topaz-theme@@unordered-list-style-options": "bt-default-unordered-list",
   "blue-topaz-theme@@colorful-unordered-list": true,
-  "blue-topaz-theme@@list-spacing-bt": 4
+  "blue-topaz-theme@@list-spacing-bt": 4,
+  "blue-topaz-theme@@toggle-paragraph-spacing": false
 }

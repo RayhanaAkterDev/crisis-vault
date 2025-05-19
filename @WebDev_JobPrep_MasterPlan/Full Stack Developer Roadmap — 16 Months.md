@@ -13,22 +13,36 @@
 
 ---
 
-
----
-
 ## Phase 2: Advanced JavaScript + React
+> **Focus:** Modern JS (ES6+), React core concepts, React Router, Hooks, API integration  
+> **Goals:** Build interactive React apps, understand component architecture
 
-- ES6+ (let/const, arrow functions, destructuring, spread/rest)    
-- JavaScript DOM (querySelector, classList, events, createElement)    
-- Async JS (Promises, fetch(), async/await)    
-- React Core (JSX, Components, Props, State, Events)    
-- React Router (Navigation, Route params, 404 page)    
+### Topics of Advance JavaScript & React
+- ES6+ features (let/const, arrow functions, destructuring)    
+- DOM manipulation projects    
+- Async JS (Promises, fetch(), async/await) 
+- React fundamentals: JSX, props, state, events    
+- React Router (routing, navigation)    
 - React Hooks (useState, useEffect, custom hooks)    
-- API Integration (fetch(), axios, handling loading/error states)    
-- Project: React + API app (like weather app, user list, etc.)    
+- API Integration (fetch(), axios, handling loading/error states)
 
 ---
 
+## Phase 4: Full Stack Integration (React + Laravel)
+> **Focus:** Connecting React frontend with Laravel backend, API communication, CORS, authentication flows  
+> **Goals:** Build a seamless full stack app with frontend/backend communication
+
+**Topics:**
+
+- Laravel API with JSON responses
+    
+- React fetching data and submitting forms to Laravel API
+    
+- CORS setup and API security
+    
+- Authentication flows (login/register via API)
+    
+- Error handling and status codes
 ## Phase 3: Backend with PHP & Laravel
 
 - PHP Basics (syntax, variables, arrays, loops, functions)    
