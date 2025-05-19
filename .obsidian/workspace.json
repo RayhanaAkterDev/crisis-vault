@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@WebDev_JobPrep_MasterPlan/Full Stack Developer Roadmap.md",
+                "file": "@WebDev_JobPrep_MasterPlan/Full Stack Developer Roadmap — 16 Months.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full Stack Developer Roadmap"
+              "title": "Full Stack Developer Roadmap — 16 Months"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@WebDev_JobPrep_MasterPlan/Full Stack Developer Roadmap.md",
+                "file": "@WebDev_JobPrep_MasterPlan/Full Stack Developer Roadmap — 16 Months.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full Stack Developer Roadmap"
+              "title": "Full Stack Developer Roadmap — 16 Months"
             }
           }
         ],
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@WebDev_JobPrep_MasterPlan/Full Stack Developer Roadmap.md",
+                "file": "@WebDev_JobPrep_MasterPlan/Full Stack Developer Roadmap — 16 Months.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Full Stack Developer Roadmap"
+              "title": "Outline of Full Stack Developer Roadmap — 16 Months"
             }
           },
           {
@@ -227,12 +227,13 @@
   },
   "active": "05e7ff90b0cf606b",
   "lastOpenFiles": [
+    "@WebDev_JobPrep_MasterPlan/Untitled.md",
+    "@WebDev_JobPrep_MasterPlan/Full Stack Developer Roadmap — 16 Months.md",
     "@WebDev_JobPrep_MasterPlan/Phase 2/Advanced JavaScript.md",
     "@WebDev_JobPrep_MasterPlan/Phase 1/Frontend Foundations.md",
     "@WebDev_JobPrep_MasterPlan/Phase 2/Phase 2 - React & API Integration.md",
     "@WebDev_JobPrep_MasterPlan/Phase 1/Untitled.md",
     "@WebDev_JobPrep_MasterPlan/Phase 3 - Backend with PHP & Laravel/Phase 3 - Laravel Backend & SQL Database.md",
-    "@WebDev_JobPrep_MasterPlan/Full Stack Developer Roadmap.md",
     "@WebDev_JobPrep_MasterPlan/Phase 3 - Backend with PHP & Laravel/Phase 3 - Backend with PHP & Laravel.md",
     "@WebDev_JobPrep_MasterPlan/Phase 1 - Frontend Foundations/Frontend Foundations (Month 1–4).md",
     "Journal/Daily_Notes/2025-05-19.md",
@@ -260,7 +261,6 @@
     "@WebDev_JobPrep_MasterPlan/Phase 4 - Full Stack Integration (React + Laravel).md",
     "@WebDev_JobPrep_MasterPlan/Phase 4 - Full Stack Integration & Deployment.md",
     "@WebDev_JobPrep_MasterPlan/Phase 3 - Laravel Backend & SQL Database.md",
-    "@WebDev_JobPrep_MasterPlan/Phase 2 - React & API Integration.md",
     "@WebDev_JobPrep_MasterPlan/Phase 1",
     "@WebDev_JobPrep_MasterPlan/Untitled 2",
     "CSE-530221 » Computer Network/@attachments/php781vtn.png",
