@@ -1,9 +1,9 @@
 # 01 » Software Engineering Paradigms Overview
 %% Begin Landmark %%
 - **[[01 » Software Engineering Paradigms]]**
-	- [[@extra_notes]]
-	- [[@questions_list]]
-	- [[@short_notes]]
+	- [[@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@extra_notes]]
+	- [[@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@questions_list]]
+	- [[@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@short_notes]]
 	- [[📘 001 » What is software]]
 	- [[📘 002 » What do you mean by software engineering]]
 	- [[📘 003 » State and explain some qualities that are used to access software.]]

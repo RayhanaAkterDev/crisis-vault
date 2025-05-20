@@ -2,7 +2,7 @@
 %% Begin Landmark %%
 - **[[05 » Software Management and Maintenance Technique]]**
 	- [[05 » Software Management and Maintenance Technique]]
-	- [[CSE-530219 » Software Engineering/05 » Software Management and Maintenance Technique/Chapter 5 - Question Lists]]
+	- [[@diit_6th_semester/CSE-530219 » Software Engineering/05 » Software Management and Maintenance Technique/Chapter 5 - Question Lists]]
 
 %% End Landmark %%
 

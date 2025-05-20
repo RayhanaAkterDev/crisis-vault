@@ -7,6 +7,7 @@
 ---
 
 ## ✅ HTML5 Semantic Structure
+**Deadline:** 20 May 2025 → 24 May 2025 (5 days)
 
 ### 🎯 Learning Topics:
 - Semantic tags: `<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`    
@@ -20,6 +21,7 @@
 ---
 
 ## ✅ CSS Basics & Responsive Design
+**Deadline:** 25 May 2025 → 29 May 2025 (5 days)
 
 ### 🎯 Learning Topics
 - CSS syntax and types of selectors (element, class, ID)    
@@ -36,6 +38,7 @@
 ---
 
 ## ✅ Project — Personal Portfolio with HTML & CSS
+**Deadline:** 30 May 2025 → 2 June 2025 (4 days)
 
 ### 🎯 Objectives
 - Apply all semantic HTML, CSS, and validation concepts learned
@@ -51,6 +54,7 @@
 ---
 
 ## ✅ Tailwind CSS Essentials
+**Deadline:** 3 June 2025 → 6 June 2025 (4 days)
 
 ### 🎯 Learning Topics
 - Utility-first concept and class structure    
@@ -67,6 +71,7 @@
 ---
 
 ## ✅ Forms & HTML5 Validation
+**Deadline:** 7 June 2025 → 9 June 2025 (3 days)
 
 ### 🎯 Learning Topics
 - Input types: `text`, `email`, `number`, `date`, `range`, `color`    
@@ -82,6 +87,7 @@
 ---
 
 ## ✅ JavaScript Basics & DOM Manipulation
+**Deadline:** 10 June 2025 → 13 June 2025 (4 days)
 
 ### 🎯 Learning Topics:
 - **JavaScript Fundamentals**
@@ -127,6 +133,7 @@
 ---
 
 ## ✅ Git & GitHub Workflow
+**Deadline:** 14 June 2025 (1 day)
 
 ### 🎯 Learning Topics:
 - Git basics: `init`, `add`, `commit`, `status`, `log`    
@@ -144,6 +151,7 @@
 ---
 
 ## ✅ Final Project — Interactive Personal Portfolio (Using Tailwind & JS)
+**Deadline:** 15 June 2025 (1 day)
 
 ### 🎯 Objectives:
 - Combine everything you’ve learned into a polished website.    
