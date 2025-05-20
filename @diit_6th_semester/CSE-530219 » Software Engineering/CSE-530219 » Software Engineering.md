@@ -55,9 +55,9 @@
 		- [[02 » Requirements Analysis Fundamentals]]
 		- [[Chapter 2 - Question Lists]]
 	- **[[03 » Software Design Fundamentals]]**
-		- [[📘 001 » State the definition of software architecture and software design.]]
-		- [[📘 002 » What do you mean by software engineering]]
-		- [[📘 003 » State and explain some qualities that are used to access software.]]
+		- [[📘 001 » State the definition of software architecture and software design]]
+		- [[📘 002 » Define a software design process]]
+		- [[📘 003 » State the principle of software design process]]
 		- [[📘 004 » Explain the attributes of quality software]]
 		- [[📘 005 » List out the key challenges facing software engineering and discuss those]]
 		- [[📘 006 » Discuss about the professional and ethical responsibilities of a software engineering]]

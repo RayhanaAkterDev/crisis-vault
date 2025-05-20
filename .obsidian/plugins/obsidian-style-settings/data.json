@@ -100,7 +100,7 @@
   "blue-topaz-theme@@text-indentation-two-em": false,
   "blue-topaz-theme@@justify-align": false,
   "blue-topaz-theme@@toggle-left-aligned-content": true,
-  "blue-topaz-theme@@layout-style-options": "layout-style-options-rectangle",
+  "blue-topaz-theme@@layout-style-options": "asymmetric-split-left",
   "blue-topaz-theme@@bt-colorful-connected-indent-hover": false,
   "blue-topaz-theme@@tag-style-option": "rainbow-tag",
   "ITS@@ITS-Sizes": "sizing-mini",
