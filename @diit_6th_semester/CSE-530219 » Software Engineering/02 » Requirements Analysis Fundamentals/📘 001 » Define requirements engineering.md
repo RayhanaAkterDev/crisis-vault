@@ -14,4 +14,5 @@ The requirements engineering process is accomplished through the execution of se
 > **Requirements Engineering** is the process of identifying, analyzing, documenting, validating, and managing the needs and requirements of stakeholders for a software system.
 
 ---
+
 tag:: #board_2018 
