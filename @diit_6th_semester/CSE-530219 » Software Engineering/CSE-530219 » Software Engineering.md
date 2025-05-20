@@ -11,9 +11,9 @@
 	- [[@non_chapter _questions]]
 	- [[@questions_by_poly_mame]]
 	- **[[01 » Software Engineering Paradigms]]**
-		- [[@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@extra_notes]]
-		- [[@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@questions_list]]
-		- [[@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@short_notes]]
+		- [[@extra_notes]]
+		- [[@questions_list]]
+		- [[@short_notes]]
 		- [[📘 001 » What is software]]
 		- [[📘 002 » What do you mean by software engineering]]
 		- [[📘 003 » State and explain some qualities that are used to access software.]]
@@ -38,19 +38,18 @@
 		- [[📘 022 » List 4 reasons why it is difficult to improve software process]]
 		- [[01 » Software Engineering Paradigms]]
 	- **[[02 » Requirements Analysis Fundamentals]]**
+		- [[📘 001 » Define requirements engineering]]
 		- [[02 » Requirements Analysis Fundamentals]]
-		- [[Chapter 2 - Question Lists - Copy]]
-		- [[@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists]]
-		- **New folder**
+		- [[Chapter 2 - Question Lists]]
 	- **[[03 » Software Design Fundamentals]]**
 		- [[03 » Software Design Fundamentals]]
-		- [[@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/Chapter 3 - Question Lists]]
+		- [[Chapter 3 - Question Lists]]
 	- **[[04 » Software Testing Technique and Strategies]]**
 		- [[04 » Software Testing Technique and Strategies]]
-		- [[@diit_6th_semester/CSE-530219 » Software Engineering/04 » Software Testing Technique and Strategies/Chapter 4 - Question Lists]]
+		- [[Chapter 4 - Question Lists]]
 	- **[[05 » Software Management and Maintenance Technique]]**
 		- [[05 » Software Management and Maintenance Technique]]
-		- [[@diit_6th_semester/CSE-530219 » Software Engineering/05 » Software Management and Maintenance Technique/Chapter 5 - Question Lists]]
+		- [[Chapter 5 - Question Lists]]
 	- [[601 - Software Engineering.canvas]]
 	- [[CSE-530219 » Software Engineering]]
 
