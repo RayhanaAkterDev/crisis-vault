@@ -1,17 +1,21 @@
+/*==============================
+  CUSTOM DARK BLOCKQUOTE STYLE
+===============================*/
 .markdown-preview-view blockquote {
-  background-color: #1e1e1e;          /* Dark background */
-  border-left: 4px solid #00ADB5;     /* Teal accent line */
-  color: #dcdcdc;                     /* Light text */
-  padding: 12px 16px;
-  margin: 16px 0;
-  border-radius: 8px;                 /* Rounded corners */
-  font-style: italic;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-  transition: background-color 0.3s ease, border-color 0.3s ease;
+  all: unset; /* Remove all inherited styles */
+  display: block;
 }
 
-/* Optional: Hover effect */
-.markdown-preview-view blockquote:hover {
-  background-color: #252525;
-  border-left-color: #FF6500;         /* Change accent color on hover */
+.markdown-preview-view blockquote {
+  background: rgba(30, 43, 51, 0.5);       /* Semi-transparent dark glass */
+  color: #dcdcdc;                          /* Light text */
+  border-left: 3px solid #00ADB5;         /* Teal accent line */
+  padding: 12px 16px;
+  margin: 16px 0;
+  border-radius: 12px;                    /* Slightly more rounded for glass feel */
+  font-style: italic;
+  backdrop-filter: blur(8px);             /* Glass blur effect */
+  -webkit-backdrop-filter: blur(8px);     /* Safari support */
+  box-shadow: 0 4px 20px rgba(0, 173, 181, 0.1); /* Soft glow */
+  transition: all 0.3s ease;
 }
