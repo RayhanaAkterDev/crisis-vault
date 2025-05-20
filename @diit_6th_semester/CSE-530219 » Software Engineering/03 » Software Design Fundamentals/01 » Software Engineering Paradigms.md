@@ -1,6 +1,9 @@
-# 03 » Software Design Fundamentals Overview
+# 01 » Software Engineering Paradigms Overview
 %% Begin Landmark %%
-- **[[03 » Software Design Fundamentals]]**
+- **[[01 » Software Engineering Paradigms]]**
+	- [[@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@extra_notes]]
+	- [[@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@questions_list]]
+	- [[@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@short_notes]]
 	- [[📘 001 » State the definition of software architecture and software design.]]
 	- [[📘 002 » What do you mean by software engineering]]
 	- [[📘 003 » State and explain some qualities that are used to access software.]]
@@ -24,13 +27,11 @@
 	- [[📘 021 » Distinguish between s-process and s-process model.]]
 	- [[📘 022 » List 4 reasons why it is difficult to improve software process]]
 	- [[01 » Software Engineering Paradigms]]
-	- [[03 » Software Design Fundamentals]]
-	- [[Chapter 3 - Question Lists]]
 
 %% End Landmark %%
 
 ---
- 
+
 ```ccard
 type: folder_brief_live
 ```
