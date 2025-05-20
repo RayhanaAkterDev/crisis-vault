@@ -7,6 +7,7 @@
 		- [[sdlc_rad_model.jpg]]
 		- [[SDLC1.jpg]]
 		- [[umbrella-activity.webp]]
+		- [[Use-Case-Diagram-Notations.webp]]
 		- [[what-is-spiral-model-for-software-development.webp]]
 	- [[@non_chapter _questions]]
 	- [[@questions_by_poly_mame]]

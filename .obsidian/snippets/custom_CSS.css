@@ -6,13 +6,15 @@
   display: block;
   position: relative;
   margin: 20px 0;
-  padding: 14px 20px;
+  padding: 10px 15px !important;
   border-left: none !important;
   border-inline-start: none !important;
   box-shadow: none !important;
   background: none !important;
   color: inherit; /* reset color */
 }
+
+.markdown-preview-view
 
 /* Remove pseudo-elements that might add borders */
 .markdown-preview-view blockquote::before,
@@ -26,6 +28,7 @@
   DARK GLASSY BLOCKQUOTE (ENHANCED STYLE)
 ========================================*/
 .markdown-preview-view blockquote {
+border: 0;
   border-left: 4px solid #707BC2 !important; /* your accent color */
   border-radius: 5px !important;
   background: rgba(112, 123, 194, 0.1) !important; /* subtle translucent */

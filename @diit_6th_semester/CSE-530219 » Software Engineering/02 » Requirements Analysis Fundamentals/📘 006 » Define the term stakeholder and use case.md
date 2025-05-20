@@ -6,15 +6,19 @@ A **stakeholder** is any person, group, or organization that has an interest in 
 
 ---
 
-A use case is a methodology used in system analysis to identify , clarify, and organize system requirements. The use case is made up of a set of possible sequences of interactions between systems and users in a particular environment and related to a particular goal.
+A **use case** is a methodology used in system analysis to identify , clarify, and organize system requirements. The use case is made up of a set of possible sequences of interactions between systems and users in a particular environment and related to a particular goal.
 
 In simple terms, a **use case** is a specific scenario that describes **how a user interacts with a system** to achieve a particular goal. It defines the steps or actions between a user (actor) and the system to complete a task.
 
-Every use case contains three essential elements:
+**Every use case contains three essential elements**:
 
 - **Actor**: The **actor** is the person or system that interacts with the software to achieve a goal. It could be a user, admin, or another system. _Example:_ A student logging in to register for a course.
+
 - **System**: The **system** refers to the software or application that responds to the actor’s actions and performs the required tasks. It shows what the system does in response to the actor’s input. _Example:_ The course registration system that processes the student’s request.
-- **Goal**: The **goal** is the final outcome the actor wants to achieve by interacting with the system. Each use case is centered around one specific goal. _Example:_ Successfully registering for a course.
+
+> **Goal**: The **goal** is the final outcome the actor wants to achieve by interacting with the system. Each use case is centered around one specific goal. _Example:_ Successfully registering for a course.
+
+![[Use-Case-Diagram-Notations.webp]]
 
 ---
 
