@@ -1,4 +1,4 @@
-- [ ] 1. Define requirements engineering. #board_2018 
+- [x] 1. Define requirements engineering. #board_2018 
 - [ ] 2. What are the different types of user requirement process. #board_2017 
 - [ ] 3. What is the functional and non-functional requirement of software engineering (process)? - Explain. #board_2020 #board_2018 
 - [ ] 4. What are the difference between functional and non-functional requirements of SE. #board_2021 #board_2019 #board_2017 
