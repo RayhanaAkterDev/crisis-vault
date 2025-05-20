@@ -93,7 +93,7 @@
   "blue-topaz-theme@@embed-hover": true,
   "blue-topaz-theme@@view-button-front": false,
   "blue-topaz-theme@@tab-title-bar-position": false,
-  "blue-topaz-theme@@toggle-divider-lines": true,
+  "blue-topaz-theme@@toggle-divider-lines": false,
   "blue-topaz-theme@@toggle-header-bottom-line": true,
   "blue-topaz-theme@@h1-toggle-underline": true,
   "blue-topaz-theme@@h1-text-align-settings": "h1-text-align-start",
@@ -191,7 +191,7 @@
   "Editor@@editor-grid-background-pattren": false,
   "Editor@@focus-indicator-list-level": true,
   "Editor@@focus-indicator-codeblock-line-number": true,
-  "Editor@@collapse-icon-restore": false,
+  "Editor@@collapse-icon-restore": true,
   "Editor@@heading-indicator-off": true,
   "Editor@@inline-title-divider-remove": false,
   "Editor@@h1-divider-on": false,
@@ -238,5 +238,6 @@
   "blue-topaz-theme@@list-spacing-bt": 4,
   "blue-topaz-theme@@toggle-paragraph-spacing": true,
   "blue-topaz-theme@@line-height-list": 1,
-  "blue-topaz-theme@@h3-line-height": 2
+  "blue-topaz-theme@@h3-line-height": 2,
+  "blue-topaz-theme@@h2-line-height": 2
 }
