@@ -269,9 +269,10 @@
   "Editor@@callout-border-opacity": 0.25,
   "Editor@@callout-style-select": "callout-style-2",
   "Editor@@blockquote-background-dark": "\"\"",
-  "Editor@@inline-title-size": "1.2em",
   "Components@@scrollbar-hide": true,
   "Appearance-dark@@workspace-divider-transparent-dark": false,
   "Editor@@collapse-icon-restore": true,
-  "Editor@@inline-title-divider-remove": false
+  "Editor@@inline-title-divider-remove": false,
+  "Editor@@inline-title-weight": 400,
+  "Editor@@inline-title-size": "0.9em"
 }

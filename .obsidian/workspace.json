@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 002 » What are the different types of user requirement process.md",
-                "mode": "preview",
+                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 003 » What is the functional and non-functional requirement of software engineering (process) - Explain.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "📘 002 » What are the different types of user requirement process"
+              "title": "📘 003 » What is the functional and non-functional requirement of software engineering (process) - Explain"
             }
           }
         ]
@@ -211,10 +211,11 @@
   },
   "active": "d01d07081c5ff93c",
   "lastOpenFiles": [
+    "Journal/Daily_Notes/2025-05-20.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 003 » What is the functional and non-functional requirement of software engineering (process) - Explain.md",
+    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 004 » What are the difference between functional and non-functional requirements of SE.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 002 » What are the different types of user requirement process.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 001 » Define requirements engineering.md",
-    "Journal/Daily_Notes/2025-05-20.md",
     "Templates/daily_template.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/02 » Requirements Analysis Fundamentals.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
@@ -236,7 +237,6 @@
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 011 » What is the difference between software engineering and system engineering.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 010 » State and explain process maturity levels of SEI's CMM.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/01 » Software Engineering Paradigms.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 014 » Write short note on class diagram.md",
     "@diit_4th_semester",
     "@diit_6th_semester",
     "@WebDev_JobPrep/Phase 7",
