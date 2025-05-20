@@ -12,5 +12,7 @@
   "obsidian-languagetool-plugin",
   "folder-note-plugin",
   "waypoint",
-  "task-status"
+  "task-status",
+  "colored-tags",
+  "rainbow-colored-sidebar"
 ]

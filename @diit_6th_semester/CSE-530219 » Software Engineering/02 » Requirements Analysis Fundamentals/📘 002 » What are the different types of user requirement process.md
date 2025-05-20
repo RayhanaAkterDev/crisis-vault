@@ -8,11 +8,9 @@ The **requirement process** (also called the **requirements engineering process*
 
 - **Requirements Specification**: In the requirements specification phase, the finalized and analyzed requirements are documented in a formal and structured way. This documentation is often done in the form of a Software Requirements Specification (SRS) document. It includes both functional requirements, which describe what the system should do, and non-functional requirements, which describe how the system should perform.
 
-- **Requirements Validation**  
-	Requirements validation is the process of ensuring that the documented requirements accurately represent the stakeholders’ needs and are suitable for the intended system. This involves reviewing the requirement documents with stakeholders through walkthroughs, inspections, or prototype demonstrations to detect errors, misunderstandings, or missing information before actual development begins.
+- **Requirements Validation**: Requirements validation is the process of ensuring that the documented requirements accurately represent the stakeholders’ needs and are suitable for the intended system. This involves reviewing the requirement documents with stakeholders through walkthroughs, inspections, or prototype demonstrations to detect errors, misunderstandings, or missing information before actual development begins.
 
-- **Requirements Management**  
-	Requirements management is the continuous process of monitoring, updating, and controlling changes to the requirements throughout the software development lifecycle. Since requirements may evolve due to changing business goals, user feedback, or new technical constraints, this phase ensures that all changes are tracked and handled properly without disrupting the consistency and integrity of the project.
+- **Requirements Management**: Requirements management is the continuous process of monitoring, updating, and controlling changes to the requirements throughout the software development lifecycle. Since requirements may evolve due to changing business goals, user feedback, or new technical constraints, this phase ensures that all changes are tracked and handled properly without disrupting the consistency and integrity of the project.
 
 
 ---
