@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@WebDev_JobPrep/Phase 1/Frontend Core Foundations.md",
+                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontend Core Foundations"
+              "title": "Chapter 2 - Question Lists"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-20.md",
+                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 001 » Define requirements engineering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-20"
+              "title": "Outline of 📘 001 » Define requirements engineering"
             }
           },
           {
@@ -193,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "50297d8c1b5ada63",
@@ -232,9 +232,11 @@
   },
   "active": "3285dc22d254589d",
   "lastOpenFiles": [
-    "@WebDev_JobPrep/Phase 1/Frontend Core Foundations.md",
+    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 001 » Define requirements engineering.md",
+    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
     "Journal/Daily_Notes/2025-05-20.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/02 » Requirements Analysis Fundamentals.md",
+    "@WebDev_JobPrep/Phase 1/Frontend Core Foundations.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 004 » Explain the attributes of quality software.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/03 » Software Design Fundamentals.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/Chapter 3 - Question Lists.md",
@@ -253,11 +255,9 @@
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/01 » Software Engineering Paradigms.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 014 » Write short note on class diagram.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 013 » Explain different types of check factors carried out during requirement validation.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 012 » Mention some guidelines for conducting a collaborative requirement gathering meeting.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 011 » Draw and explain a use-case diagram for an e-commerce system.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 010 » Draw a use a case diagram for virtual education management system.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 009 » Depict the online flight reservation system using a use case diagram.md",
     "@diit_4th_semester",
     "@diit_6th_semester",
     "@WebDev_JobPrep/Phase 7",
