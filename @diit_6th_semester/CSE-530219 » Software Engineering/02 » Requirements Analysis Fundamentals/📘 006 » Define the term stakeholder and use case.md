@@ -12,11 +12,11 @@ In simple terms, a **use case** is a specific scenario that describes **how a us
 
 **Every use case contains three essential elements**:
 
-- **Actor**: The **actor** is the person or system that interacts with the software to achieve a goal. It could be a user, admin, or another system. _Example:_ A student logging in to register for a course.
+> 1. **Actor**: The **actor** is the person or system that interacts with the software to achieve a goal. It could be a user, admin, or another system. _Example:_ A student logging in to register for a course.
 
-- **System**: The **system** refers to the software or application that responds to the actor’s actions and performs the required tasks. It shows what the system does in response to the actor’s input. _Example:_ The course registration system that processes the student’s request.
+> 2. **System**: The **system** refers to the software or application that responds to the actor’s actions and performs the required tasks. It shows what the system does in response to the actor’s input. _Example:_ The course registration system that processes the student’s request.
 
-> **Goal**: The **goal** is the final outcome the actor wants to achieve by interacting with the system. Each use case is centered around one specific goal. _Example:_ Successfully registering for a course.
+>3. **Goal**: The **goal** is the final outcome the actor wants to achieve by interacting with the system. Each use case is centered around one specific goal. _Example:_ Successfully registering for a course.
 
 ![[Use-Case-Diagram-Notations.webp]]
 

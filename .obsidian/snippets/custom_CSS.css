@@ -1,40 +1,31 @@
 /*=======================================
-  RESET BORDER THEME BLOCKQUOTE STYLES
+  RESET & CUSTOM BLOCKQUOTE STYLE
 ========================================*/
 .markdown-preview-view blockquote {
   all: unset;
   display: block;
   position: relative;
   margin: 20px 0;
-  padding: 10px 15px !important;
-  border-left: none !important;
-  border-inline-start: none !important;
-  box-shadow: none !important;
-  background: none !important;
-  color: inherit; /* reset color */
+  padding: 10px 15px;
+  color: inherit;
+
+  /* Custom Styles */
+  border-left: 4px solid #707BC2; /* your accent color */
+  border-radius: 8px !important;
+  background: rgba(112, 123, 194, 0.1);
+  backdrop-filter: blur(105px);
+  box-shadow:
+    0 4px 10px rgba(0, 0, 0, 0.7),
+    inset 0 0 4px rgba(112, 123, 194, 0.6);
+  transition: none;
 }
 
-.markdown-preview-view
-
-/* Remove pseudo-elements that might add borders */
+/*=======================================
+  REMOVE PSEUDO-ELEMENTS IF ANY
+========================================*/
 .markdown-preview-view blockquote::before,
 .markdown-preview-view blockquote::after {
   content: none !important;
   border: none !important;
   box-shadow: none !important;
-}
-
-/*=======================================
-  DARK GLASSY BLOCKQUOTE (ENHANCED STYLE)
-========================================*/
-.markdown-preview-view blockquote {
-border: 0;
-  border-left: 4px solid #707BC2 !important; /* your accent color */
-  border-radius: 5px !important;
-  background: rgba(112, 123, 194, 0.1) !important; /* subtle translucent */
-  backdrop-filter: blur(105px) !important;
-  box-shadow:
-    0 4px 10px rgba(0, 0, 0, 0.7),
-    inset 0 0 4px rgba(112, 123, 194, 0.6) !important; /* inner glow */
-  transition: none !important;
 }
