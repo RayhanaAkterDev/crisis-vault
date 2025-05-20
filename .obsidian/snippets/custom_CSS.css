@@ -11,6 +11,7 @@
   border-inline-start: none !important;
   box-shadow: none !important;
   background: none !important;
+  color: inherit; /* reset color */
 }
 
 /* Remove pseudo-elements that might add borders */
@@ -25,15 +26,12 @@
   DARK GLASSY BLOCKQUOTE (ENHANCED STYLE)
 ========================================*/
 .markdown-preview-view blockquote {
- background: linear-gradient(145deg, rgba(30, 43, 51, 0.6), rgba(20, 25, 30, 0.5)) !important;
-  border-left: 4px solid #00ADB5 !important;
-  color: #E0E0E0!important;
-  border-radius: 6px!important;
-  font-style: italic!important;
-  backdrop-filter: blur(10px) saturate(120%)!important;
-  -webkit-backdrop-filter: blur(10px) saturate(120%)!important;
+  border-left: 4px solid #707BC2 !important; /* your accent color */
+  border-radius: 5px !important;
+  background: rgba(112, 123, 194, 0.1) !important; /* subtle translucent */
+  backdrop-filter: blur(105px) !important;
   box-shadow:
-    inset 0 0 0.5px rgba(255, 255, 255, 0.1),
-    0 8px 20px rgba(0, 0, 0, 0.4)!important;
-  transition: all 0.3s ease!important;
+    0 4px 10px rgba(0, 0, 0, 0.7),
+    inset 0 0 4px rgba(112, 123, 194, 0.6) !important; /* inner glow */
+  transition: none !important;
 }
