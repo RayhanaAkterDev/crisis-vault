@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-20.md",
+                "file": "@WebDev_JobPrep_MasterPlan/Phase 1/Frontend Core Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-20"
+              "title": "Frontend Core Foundations"
             }
           }
         ],
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-20.md",
+                "file": "@WebDev_JobPrep_MasterPlan/Phase 1/Frontend Core Foundations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-20"
+              "title": "Outline of Frontend Core Foundations"
             }
           },
           {
@@ -212,8 +212,8 @@
   },
   "active": "6f0a8f1a4f8eaa07",
   "lastOpenFiles": [
-    "@WebDev_JobPrep_MasterPlan/Phase 1/Frontend Core Foundations.md",
     "Journal/Daily_Notes/2025-05-20.md",
+    "@WebDev_JobPrep_MasterPlan/Phase 1/Frontend Core Foundations.md",
     "@WebDev_JobPrep_MasterPlan/Phase 7/Phase 7 - Job Readiness.md",
     "@WebDev_JobPrep_MasterPlan/Full Stack Developer Roadmap.md",
     "@WebDev_JobPrep_MasterPlan/Phase 6/Phase 6 - Production & Deployment.md",
