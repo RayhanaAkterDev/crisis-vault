@@ -1,21 +1,39 @@
-/*==============================
-  CUSTOM DARK BLOCKQUOTE STYLE
-===============================*/
+/*=======================================
+  RESET BORDER THEME BLOCKQUOTE STYLES
+========================================*/
 .markdown-preview-view blockquote {
-  all: unset; /* Remove all inherited styles */
+  all: unset;
   display: block;
+  position: relative;
+  margin: 20px 0;
+  padding: 14px 20px;
+  border-left: none !important;
+  border-inline-start: none !important;
+  box-shadow: none !important;
+  background: none !important;
 }
 
+/* Remove pseudo-elements that might add borders */
+.markdown-preview-view blockquote::before,
+.markdown-preview-view blockquote::after {
+  content: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/*=======================================
+  DARK GLASSY BLOCKQUOTE (ENHANCED STYLE)
+========================================*/
 .markdown-preview-view blockquote {
-  background: rgba(30, 43, 51, 0.5);       /* Semi-transparent dark glass */
-  color: #dcdcdc;                          /* Light text */
-  border-left: 3px solid #00ADB5;         /* Teal accent line */
-  padding: 12px 16px;
-  margin: 16px 0;
-  border-radius: 12px;                    /* Slightly more rounded for glass feel */
-  font-style: italic;
-  backdrop-filter: blur(8px);             /* Glass blur effect */
-  -webkit-backdrop-filter: blur(8px);     /* Safari support */
-  box-shadow: 0 4px 20px rgba(0, 173, 181, 0.1); /* Soft glow */
-  transition: all 0.3s ease;
+ background: linear-gradient(145deg, rgba(30, 43, 51, 0.6), rgba(20, 25, 30, 0.5)) !important;
+  border-left: 4px solid #00ADB5 !important;
+  color: #E0E0E0!important;
+  border-radius: 6px!important;
+  font-style: italic!important;
+  backdrop-filter: blur(10px) saturate(120%)!important;
+  -webkit-backdrop-filter: blur(10px) saturate(120%)!important;
+  box-shadow:
+    inset 0 0 0.5px rgba(255, 255, 255, 0.1),
+    0 8px 20px rgba(0, 0, 0, 0.4)!important;
+  transition: all 0.3s ease!important;
 }
