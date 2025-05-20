@@ -10,7 +10,7 @@ The **requirement process** (also called the **requirements engineering process*
 
 - **Requirements Validation**  
 	Requirements validation is the process of ensuring that the documented requirements accurately represent the stakeholders’ needs and are suitable for the intended system. This involves reviewing the requirement documents with stakeholders through walkthroughs, inspections, or prototype demonstrations to detect errors, misunderstandings, or missing information before actual development begins.
-    
+
 - **Requirements Management**  
 	Requirements management is the continuous process of monitoring, updating, and controlling changes to the requirements throughout the software development lifecycle. Since requirements may evolve due to changing business goals, user feedback, or new technical constraints, this phase ensures that all changes are tracked and handled properly without disrupting the consistency and integrity of the project.
 
