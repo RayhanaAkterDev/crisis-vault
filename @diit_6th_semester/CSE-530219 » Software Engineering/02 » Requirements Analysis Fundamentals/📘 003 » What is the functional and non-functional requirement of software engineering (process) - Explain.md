@@ -18,18 +18,16 @@ In software engineering, **requirements** are essential to define what a system 
 
 ## Non-Functional Requirements
 
-The non-functional requirements are the constraints on the functions provided by the system. They include timing constraints, constraints on the development process and standard. Non-functional requirements often apply to the system as a whole, they do not usually just apply to individual system features or services.
+Non-functional requirements are the **constraints and quality attributes** that define **how the system should perform**, rather than what functions it should provide. They apply to the system as a whole, rather than to individual features or services, and include aspects like performance, usability, reliability, security, and compliance with standards. These requirements often specify timing constraints, development process standards, system capacity, security measures (e.g., protection against SQL injection), failure rates, programming languages, tools to be used, and organizational policies the system must follow.
 
-Non-functional requirements define the **quality attributes** of the system, i.e., **how the system should perform** rather than what it does. They set standards for system performance, usability, reliability, and other operational aspects. The constraints, like how many process the system can handle, what are the issues the system needs to take care of such as SQL injections, the rate of failure, what are the languages and tools will be used what are the rules you need to follow to ensure the system operates within the law of the organization.
-
-Non-functional requirements are often critical than individual functional requirements. Users can usually find ways to work around a system function that doesn't really meet their needs, however, failing to meet a non-functional requirement can mean that the whole system is unusable.
+Non-functional requirements are often **more critical** than individual functional requirements. While users may find workarounds if a function does not fully meet their needs, failing to meet non-functional requirements can make the entire system unusable.
 
 **Examples:**
 - The system should load within 3 seconds.    
 - It should be available 24/7 with 99.9% uptime.    
 - All user data must be stored securely and encrypted.    
 
-Non-functional requirements are important for the **user experience and performance** of the system. They help in evaluating how well the system meets user expectations beyond just the core functionality.
+Non-functional requirements are essential for ensuring a good **user experience** and system **performance**, helping to evaluate how well the system meets user expectations beyond just its core functions.
 
 ---
 

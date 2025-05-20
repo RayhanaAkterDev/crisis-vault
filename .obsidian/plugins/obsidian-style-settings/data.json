@@ -247,7 +247,7 @@
   "Editor@@h4-color-select": "h4-color-designated",
   "Editor@@h5-color-select": "h5-color-designated",
   "Editor@@h6-color-select": "h6-color-designated",
-  "Editor@@table-width-select": "table-width-customized",
+  "Editor@@table-width-select": "table-width-default",
   "Editor@@img-center-align": true,
   "Editor@@img-darken": true,
   "Editor@@zoom-off": true,
@@ -274,5 +274,6 @@
   "Editor@@collapse-icon-restore": true,
   "Editor@@inline-title-divider-remove": false,
   "Editor@@inline-title-weight": 400,
-  "Editor@@inline-title-size": "0.9em"
+  "Editor@@inline-title-size": "0.9em",
+  "Editor@@table-header-color@@dark": "#707BC2"
 }
