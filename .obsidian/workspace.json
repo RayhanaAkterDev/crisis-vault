@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d644c77171911e2e",
+        "id": "1b07c6bd739b5701",
         "type": "tabs",
         "children": [
           {
-            "id": "d01d07081c5ff93c",
+            "id": "38dede1f1bc3dcd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -209,13 +209,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d01d07081c5ff93c",
+  "active": "38dede1f1bc3dcd2",
   "lastOpenFiles": [
+    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
+    "@WebDev_JobPrep/Phase 1/Frontend Core Foundations.md",
+    "@WebDev_JobPrep/Phase 1/@01 » HTML5 Semantic Structure",
     "Journal/Daily_Notes/2025-05-20.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 007 »  Brief the stages or process activities of requirement elicitation and analysis with figure.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 006 » Define the term stakeholder and use case.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 013 » Discuss different types of prototyping.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 014 » What software engineering process.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 015 » Write down the umbrella activities of software engineering.md",
@@ -233,11 +235,9 @@
     "Templates/daily_template.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/02 » Requirements Analysis Fundamentals.md",
     "@self_dscipline/@self_dscipline.md",
-    "@WebDev_JobPrep/Phase 1/Frontend Core Foundations.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 004 » Explain the attributes of quality software.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/03 » Software Design Fundamentals.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/Chapter 3 - Question Lists.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 003 » State the principle of software design process.md",
     "@diit_4th_semester",
     "@diit_6th_semester",
     "@WebDev_JobPrep/Phase 7",
@@ -247,7 +247,6 @@
     "@WebDev_JobPrep/Phase 3",
     "@WebDev_JobPrep_MasterPlan/Phase 7 - Jobe Readiness",
     "@WebDev_JobPrep_MasterPlan/New folder",
-    "@WebDev_JobPrep_MasterPlan/Phase 6 - Production & Deployment",
     "@diit_6th_semester/CSE-530221 » Computer Network/@attachments/php781vtn.png",
     "@self_dscipline/@attachment/496185103_122226446624240244_4126095264522855744_n.jpg",
     "@self_dscipline/@attachment/494787705_122226436268240244_4646957041229386168_n.jpg",
