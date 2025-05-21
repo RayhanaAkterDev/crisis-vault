@@ -18,7 +18,7 @@
 		- [[📘 001 » What is software]]
 		- [[📘 002 » What do you mean by software engineering]]
 		- [[📘 003 » State and explain some qualities that are used to access software.]]
-		- [[📘 004 » Explain the attributes of quality software]]
+		- [[📘 004 » Explain the attributes of a good software product]]
 		- [[📘 005 » List out the key challenges facing software engineering and discuss those]]
 		- [[📘 006 » Discuss about the professional and ethical responsibilities of a software engineering]]
 		- [[📘 007 » Write down some characteristics of legacy software]]
