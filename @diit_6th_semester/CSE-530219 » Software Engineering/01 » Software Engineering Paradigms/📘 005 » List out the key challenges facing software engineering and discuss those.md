@@ -8,6 +8,7 @@
 
 2. **Legacy System Integration and Maintenance:**  
    Many organizations still rely on older software systems, known as legacy systems, which were built long ago and may use outdated technology. Maintaining these systems and integrating them with new software is difficult because old systems can be poorly documented and incompatible with modern tools. This makes updating or improving software harder and more time-consuming.
+	>Many organizations still depend on outdated legacy systems. These are often poorly documented and incompatible with modern tools, making maintenance and integration with new software challenging and time-consuming.
 
 3. **Rapid Technological and Business Changes:**  
    Technology evolves very fast, and business needs keep changing. Software engineers must continuously learn new tools, programming languages, and methods. At the same time, they need to update software quickly to meet new business goals and user expectations. Keeping up with these rapid changes is a constant challenge.
