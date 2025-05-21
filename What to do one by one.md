@@ -4,7 +4,7 @@
 	- [x] Set strong password
 	- [x] Enable 2-Step Verification
     
-- [ ]  Set email signature:
+- [/]  Set email signature:
 ```bash
 Rayhana Akter Sumaya  
 CSE Student | Aspiring Frontend Developer  
@@ -12,25 +12,25 @@ CSE Student | Aspiring Frontend Developer
 🔗 github.com/sumayasultana | linkedin.com/in/sumayasultana
 ```
 
- - [ ] Create labels: `Job`, `Coding`, `Courses`
- - [ ] Archive/delete welcome/spam emails
- - [ ] Update “Send mail as” name to “Rayhana Akter Sumaya”
- - [ ] Add profile picture (optional)
+ - [x] Create labels: `Job`, `Coding`, `Courses`
+ - [x] Archive/delete welcome/spam emails
+ - [-] Update “Send mail as” name to “Rayhana Akter Sumaya”
+ - [x] Add profile picture (optional)
 
 ---
 
 # GitHub Update To-Do
 
-- [ ] Log in to GitHub    
-- [ ] Go to **Settings > Emails**     
-- [ ]  Add `sumayaakter.cse_dev@gmail.com` and verify it    
-- [ ]  Set it as **primary email**
-- [ ]  Update your GitHub profile bio:
+- [x] Log in to GitHub    
+- [x] Go to **Settings > Emails**     
+- [x]  Add `sumayaakter.cse_dev@gmail.com` and verify it    
+- [x]  Set it as **primary email**
+- [x]  Update your GitHub profile bio:
 ```less
 💻 CSE Student | Frontend Developer in Progress   🚀 Learning HTML, CSS, JavaScript
 ```
-- [ ] Add links to GitHub bio: LinkedIn, portfolio (if any)
-- [ ] Add or update profile picture (match Gmail/LinkedIn if possible)
+- [<] Add links to GitHub bio: LinkedIn, portfolio (if any)
+- [>] Add or update profile picture (match Gmail/LinkedIn if possible)
 - [ ] Create or update your **profile README**    
 - [ ] Organize repos: rename or archive messy/old repos
 
