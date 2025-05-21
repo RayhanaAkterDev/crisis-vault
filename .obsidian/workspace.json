@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7880687027e6394",
+        "id": "4883922b160e69dc",
         "type": "tabs",
         "children": [
           {
-            "id": "9c78faeeef3af020",
+            "id": "4aa0755b962b062e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "d65b63bf5e44a08c",
+            "id": "6d50736f1fa3d3ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
+                "file": "Journal/Daily_Notes/2025-05-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase 1 - Frontend Core Foundations"
+              "title": "2025-05-21"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
+                "file": "Journal/Daily_Notes/2025-05-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Phase 1 - Frontend Core Foundations"
+              "title": "Outline of 2025-05-21"
             }
           },
           {
@@ -220,18 +220,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "task-status:Change Checkbox Status": false,
-      "periodic-notes:Open today": false
+      "task-status:Change Checkbox Status": false
     }
   },
-  "active": "ef82c6be0b23cbd3",
+  "active": "6d50736f1fa3d3ee",
   "lastOpenFiles": [
-    "What to do one by one.md",
+    "6th Semester Mid.md",
+    "How should I learn.md",
     "How to work.md",
-    "Journal/Daily_Notes/2025-05-21.md",
+    "What to do one by one.md",
+    "@WebDev_JobPrep/Phase 3 - Backend with PHP & Laravel.md",
+    "@WebDev_JobPrep/Phase 2 - Advanced JavaScript with React.md",
     "@WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
+    "@coding_notes",
+    "Journal/Daily_Notes/2025-05-21.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
-    "@WebDev_JobPrep/Phase 1/@01 » HTML5 Semantic Structure",
+    "@coding_notes/@01 » HTML5 Semantic Structure",
     "Journal/Daily_Notes/2025-05-20.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 007 »  Brief the stages or process activities of requirement elicitation and analysis with figure.md",
@@ -250,10 +254,6 @@
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 005 » Distinguish between requirement definition and requirement specification.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/@attachments/Use-Case-Diagram-Notations.webp",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 001 » Define requirements engineering.md",
-    "Templates/daily_template.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/02 » Requirements Analysis Fundamentals.md",
-    "@self_dscipline/@self_dscipline.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 004 » Explain the attributes of quality software.md",
     "@diit_4th_semester",
     "@diit_6th_semester",
     "@WebDev_JobPrep/Phase 7",
@@ -262,7 +262,6 @@
     "@WebDev_JobPrep/Phase 4",
     "@WebDev_JobPrep/Phase 3",
     "@WebDev_JobPrep_MasterPlan/Phase 7 - Jobe Readiness",
-    "@WebDev_JobPrep_MasterPlan/New folder",
     "@diit_6th_semester/CSE-530221 » Computer Network/@attachments/php781vtn.png",
     "@self_dscipline/@attachment/496185103_122226446624240244_4126095264522855744_n.jpg",
     "@self_dscipline/@attachment/494787705_122226436268240244_4646957041229386168_n.jpg",
