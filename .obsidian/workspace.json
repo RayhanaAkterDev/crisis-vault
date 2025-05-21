@@ -35,8 +35,7 @@
               "title": "📘 020 » What is the need for a feasibility study of software development"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 020 » What is the need for a feasibility study of software development.md",
+                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 019 » Explain spiral software process model with its merits and demerits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📘 020 » What is the need for a feasibility study of software development"
+              "title": "Outline of 📘 019 » Explain spiral software process model with its merits and demerits"
             }
           },
           {
@@ -234,8 +233,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "28e6faf436052850",
+  "active": "77f8301501ec6960",
   "lastOpenFiles": [
+    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 020 » What is the need for a feasibility study of software development.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 019 » Explain spiral software process model with its merits and demerits.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 004 » Explain the attributes of a good software product.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@extra_notes.md",
@@ -243,7 +243,6 @@
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 015 » Write down the umbrella activities of software engineering.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 021 » Distinguish between s-process and s-process model..md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 022 » List 4 reasons why it is difficult to improve software process.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 020 » What is the need for a feasibility study of software development.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 018 » Write a short note on RAD software process mode.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 017 » Explain incremental software process model with merits and demerits.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 016 » Briefly describe each step of software development life cycle.md",
