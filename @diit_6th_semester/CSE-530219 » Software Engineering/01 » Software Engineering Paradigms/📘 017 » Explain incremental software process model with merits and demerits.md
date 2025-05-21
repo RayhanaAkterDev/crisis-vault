@@ -43,8 +43,4 @@ The Incremental Process Model in Software Development Life Cycle (SDLC) primaril
 
 ---
 
-![[Pasted image 20250516093305.png]]
-
----
-
 tag::  #board_2022 #board_2020 #board_2018 
