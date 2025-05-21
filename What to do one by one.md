@@ -1,8 +1,8 @@
 # Email set-up
 
-- [ ] Create a new-email `sumayaakter.cse_dev@gmail.com`
-	- [ ] Set strong password
-	- [ ] Enable 2-Step Verification
+- [x] Create a new-email `sumayaakter.cse_dev@gmail.com`
+	- [x] Set strong password
+	- [x] Enable 2-Step Verification
     
 - [ ]  Set email signature:
 ```bash
