@@ -11,4 +11,42 @@ There are 4 attributes of quality software –
 
 ---
 
+- **Correctness**  >>
+    The software should perform its intended functions accurately and fulfill all specified requirements without errors.
+    
+- **Reliability**  >>
+    It should consistently operate without failure under expected conditions, ensuring stable performance over time.
+    
+- **Efficiency**  >>
+    The software should use system resources wisely — minimizing memory use, CPU time, and power — while delivering quick responses.
+    
+- **Usability**  >>
+    A good software product should be easy to learn and use, with a clear and intuitive interface that enhances user experience.
+    
+- **Maintainability**  >>
+    The software should be designed for easy updates and modifications so it can adapt to evolving user and business needs.
+    
+- **Portability**  
+    It should run smoothly on different platforms and environments with minimal changes, increasing flexibility.
+    
+- **Scalability**  
+    The system should handle growing amounts of work or user traffic without a drop in performance.
+    
+- **Security**  >>
+    The software must protect data and operations against unauthorized access, breaches, and malicious activity.
+    
+- **Dependability**  >>
+    A dependable software is safe, secure, and reliable. It prevents harm during failures and resists unauthorized use or damage.
+    
+- **Reusability**  >>
+    Its components should be general and modular enough to be reused in other software systems or projects.
+    
+- **Interoperability**  
+    It should work effectively with other software or systems, allowing data sharing and coordination across platforms.
+    
+- **Acceptability**  
+    The software must meet the expectations of its target users. It should be understandable, trustworthy, and compatible with users' tools and workflows.
+
+---
+
 tag:: #board_2021 #board_2019  #board_2017 
