@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 015 » Write down the umbrella activities of software engineering.md",
-                "mode": "source",
+                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 002 » What do you mean by software engineering.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📘 015 » Write down the umbrella activities of software engineering"
+              "title": "📘 002 » What do you mean by software engineering"
             }
           }
         ],
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 015 » Write down the umbrella activities of software engineering.md",
+                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 002 » What do you mean by software engineering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📘 015 » Write down the umbrella activities of software engineering"
+              "title": "Outline of 📘 002 » What do you mean by software engineering"
             }
           },
           {
@@ -237,6 +236,11 @@
   },
   "active": "6d50736f1fa3d3ee",
   "lastOpenFiles": [
+    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
+    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/02 » Requirements Analysis Fundamentals.md",
+    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 002 » What are the different types of user requirement process.md",
+    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software.md",
+    "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 015 » Write down the umbrella activities of software engineering.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@questions_list.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/@questions_by_poly_mame.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 011 » What is the difference between software engineering and system engineering.md",
@@ -246,7 +250,6 @@
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 017 » Explain incremental software process model with merits and demerits.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 009 » Write down the principles of agile process method.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 005 » List out the key challenges facing software engineering and discuss those.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/CSE-530219 » Software Engineering.md",
     "How should I learn.md",
     "How to work.md",
@@ -261,10 +264,6 @@
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 007 »  Brief the stages or process activities of requirement elicitation and analysis with figure.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 006 » Define the term stakeholder and use case.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 013 » Discuss different types of prototyping.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 014 » What software engineering process.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 015 » Write down the umbrella activities of software engineering.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 010 » State and explain process maturity levels of SEI's CMM.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/@attachments/Use-Case-Diagram-Notations.webp",
     "@diit_4th_semester",
     "@diit_6th_semester",
