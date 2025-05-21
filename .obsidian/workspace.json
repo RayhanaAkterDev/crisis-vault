@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What to do one by one.md",
+                "file": "How should I learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What to do one by one"
+              "title": "How should I learn"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What to do one by one.md",
+                "file": "How should I learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What to do one by one"
+              "title": "Outline of How should I learn"
             }
           },
           {
@@ -226,11 +226,11 @@
   },
   "active": "6d50736f1fa3d3ee",
   "lastOpenFiles": [
+    "How to work.md",
+    "How should I learn.md",
+    "What to do one by one.md",
     "Journal/Daily_Notes/2025-05-21.md",
     "6th Semester Mid.md",
-    "How should I learn.md",
-    "How to work.md",
-    "What to do one by one.md",
     "@WebDev_JobPrep/Phase 3 - Backend with PHP & Laravel.md",
     "@WebDev_JobPrep/Phase 2 - Advanced JavaScript with React.md",
     "@WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",

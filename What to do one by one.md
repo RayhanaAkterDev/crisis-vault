@@ -4,7 +4,7 @@
 	- [x] Set strong password
 	- [x] Enable 2-Step Verification
     
-- [/]  Set email signature:
+- [>]  Set email signature:
 ```bash
 Rayhana Akter Sumaya  
 CSE Student | Aspiring Frontend Developer  
@@ -29,10 +29,10 @@ CSE Student | Aspiring Frontend Developer
 ```less
 💻 CSE Student | Frontend Developer in Progress   🚀 Learning HTML, CSS, JavaScript
 ```
-- [<] Add links to GitHub bio: LinkedIn, portfolio (if any)
+- [>] Add links to GitHub bio: LinkedIn, portfolio (if any)
 - [>] Add or update profile picture (match Gmail/LinkedIn if possible)
-- [ ] Create or update your **profile README**    
-- [ ] Organize repos: rename or archive messy/old repos
+- [>] Create or update your **profile README**    
+- [>] Organize repos: rename or archive messy/old repos
 
 ---
 
