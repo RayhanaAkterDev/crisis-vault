@@ -10,7 +10,7 @@ The activities of umbrella activities are discussed below:
 
 3. **Software Quality Assurance (SQA)**: SQA involves activities to ensure that the software meets the required quality standards. This includes planning and conducting reviews, audits, inspections, and testing to verify that the software is reliable, secure, and performs as expected.
 
-4. **Formal Technical Reviews**: These reviews involve structured assessments of the software design, code, and other project artifacts. They are conducted by a team of professionals, helping to identify defects early, improve quality, and ensure that the software meets its requirements.
+4. **Technical Reviews**: These reviews involve structured assessments of the software design, code, and other project artifacts. They are conducted by a team of professionals, helping to identify defects early, improve quality, and ensure that the software meets its requirements.
 
 5. **Software Configuration Management**: Configuration management involves tracking and controlling changes in the software and its related documentation. This ensures proper version control, enables traceability of changes, and maintains consistency across different parts of the software.
 
