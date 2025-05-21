@@ -4,25 +4,50 @@ Umbrella activities in software engineering support the main development process
  
 The activities of umbrella activities are discussed below:
 
-1. **Software Project Tracking and Control**: This activity involves monitoring and managing the progress of the software project to ensure that it stays on schedule, within budget, and meets project goals. It includes tracking milestones, progress reports, and adjusting plans as needed.
- 
-2. **Risk Management**: Risk management focuses on identifying, analyzing, and mitigating potential risks that could affect the success of the software project. It helps prevent major issues and ensures that risks are proactively handled to minimize their impact.
+1. **Software Project Tracking and Control**  
+    This activity involves monitoring and managing the progress of the software project to ensure it stays on schedule, within budget, and meets goals. It includes tracking milestones, progress reports, and making necessary adjustments to the plan.
+    
 
-3. **Software Quality Assurance (SQA)**: SQA involves activities to ensure that the software meets the required quality standards. This includes planning and conducting reviews, audits, inspections, and testing to verify that the software is reliable, secure, and performs as expected.
+---
 
-4. **Formal Technical Reviews**: These reviews involve structured assessments of the software design, code, and other project artifacts. They are conducted by a team of professionals, helping to identify defects early, improve quality, and ensure that the software meets its requirements.
+2. **Risk Management**  
+    Risk management focuses on identifying, analyzing, and minimizing potential risks that may affect the project's success. Proactively handling risks helps prevent serious issues and ensures smoother project execution.
+    
 
-5. **Software Configuration Management**: Configuration management involves tracking and controlling changes in the software and its related documentation. This ensures proper version control, enables traceability of changes, and maintains consistency across different parts of the software.
+---
 
-6. **Document Preparation and Production**: Creating and maintaining thorough documentation is essential throughout the software development process. This includes documenting requirements, design decisions, code, and test results, ensuring that the software is maintainable and understandable in the future.
+3. **Software Quality Assurance (SQA)**  
+    SQA includes processes and activities to ensure the software meets defined quality standards. It involves planning and conducting reviews, audits, and testing to ensure the product is reliable, secure, and functions as expected.
+    
 
-7. **Reusability Management**: Reusability management encourages the development of software components that can be reused across different projects or modules. This helps reduce development time and effort by leveraging existing, tested components.
+---
 
-8. **Measurement and Metrics**: This activity involves defining and collecting metrics related to software development. It helps track the quality of the software and the efficiency of the development process. Metrics such as defect density, code complexity, and test coverage are commonly used.
+4. **Technical Reviews**  
+    Structured reviews of software artifacts like design documents and source code are conducted to detect defects early. These reviews involve team members assessing quality and conformance to requirements.
+    
 
-9. **Project Management**: Project management encompasses planning, organizing, and overseeing the execution of the software project. It ensures the project stays on track by managing resources, schedules, budgets, and stakeholder communication, facilitating the successful completion of the project.
+---
 
-10. **Verification and Validation (V&V)**: Verification and validation activities ensure that the software is developed according to specifications and fulfills user requirements. Verification checks if the software was built correctly (i.e., according to the design), while validation ensures the right product is built (i.e., meeting user needs and expectations).
+5. **Software Configuration Management**  
+    This activity tracks and controls changes in the software and related documents. It ensures version control, traceability, and consistency, helping to manage updates and avoid conflicts in the project.
+    
+
+---
+
+6. **Document Preparation and Production**  
+    Creating and maintaining clear, complete documentation is essential. This includes documenting requirements, design decisions, source code, and test results to support future maintenance and understanding of the software.
+    
+
+---
+
+7. **Reusability Management**  
+    This activity promotes the use and creation of reusable software components. By reusing tested and proven modules, development time and cost are reduced, and software quality improves.
+    
+
+---
+
+8. **Measurement and Metrics**  
+    It involves collecting and analyzing quantitative data related to software and its development process. Metrics like defect rates, code complexity, and test coverage help monitor performance and guide improvements.
 
 ![[umbrella-activity.webp]]
 
