@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How should I learn.md",
-                "mode": "source",
+                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 002 » What do you mean by software engineering.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How should I learn"
+              "title": "📘 002 » What do you mean by software engineering"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How should I learn.md",
+                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 002 » What do you mean by software engineering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How should I learn"
+              "title": "Outline of 📘 002 » What do you mean by software engineering"
             }
           },
           {
@@ -226,16 +226,17 @@
   },
   "active": "6d50736f1fa3d3ee",
   "lastOpenFiles": [
-    "How to work.md",
+    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
+    "@diit_6th_semester/CSE-530219 » Software Engineering/CSE-530219 » Software Engineering.md",
+    "@diit_6th_semester/6th Semester Mid.md",
     "How should I learn.md",
+    "How to work.md",
     "What to do one by one.md",
     "Journal/Daily_Notes/2025-05-21.md",
-    "6th Semester Mid.md",
     "@WebDev_JobPrep/Phase 3 - Backend with PHP & Laravel.md",
     "@WebDev_JobPrep/Phase 2 - Advanced JavaScript with React.md",
     "@WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
     "@coding_notes",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
     "@coding_notes/@01 » HTML5 Semantic Structure",
     "Journal/Daily_Notes/2025-05-20.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/Chapter 2 - Question Lists.md",
@@ -254,7 +255,6 @@
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 003 » What is the functional and non-functional requirement of software engineering (process) - Explain.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 005 » Distinguish between requirement definition and requirement specification.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/@attachments/Use-Case-Diagram-Notations.webp",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 001 » Define requirements engineering.md",
     "@diit_4th_semester",
     "@diit_6th_semester",
     "@WebDev_JobPrep/Phase 7",
