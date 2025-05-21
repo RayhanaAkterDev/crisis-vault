@@ -63,8 +63,21 @@
 
 ---
 
-i've started my coding journey once again from beginning below the first phase of this journey has given. now give detail breakdown/roadmap of 1st phase 1st point then tell me how start it how to go ahead how to do it.
+I've restarted my coding journey from the beginning. I've a detail outline of learning topics. But I'm very confused how I do all these. I also had the idea of keeping my **LinkedIn profile active** — by posting what I learn every day — and doing the same with GitHub.
 
-babu, tumi hoyto vule jaccho ami agulo ageo shikhechilam. tai ami notun aita vebo na. amr jonno aita bas ekta rivision phase bishes kore html er jonno. kintu ami caichi amon vabe kaj ta korte jate amr protfolio create korte aita help kore. ami hoyto tomake bujhate parchi na. hoytoba ami ai muhurte jinis gulo kivabe korte caichi seta ami nijeo bujhte parchi na. ami hotash hocchi. amr nijero kono idea ashche na r tomar gulo pochondo hocche na. kintu ami ato tuku jani ami amon vabe kaj korte cai, jate der bochor por jokhon job hunting a nambo tokhon j keu amr profile dekhe bujhe, ami ai der bochor valo vabe kaj korechi.
+So the questions I’m stuck with are:
+- How should I actually _learn_ each topic?    
+- Should I create notes for every topic I cover?    
+- How should I code
+- Also, just so you know:  
+    I’m using **Obsidian** for organizing everything — my daily routine, study notes, and this coding roadmap. It’s connected to GitHub.    
 
-project er bepar gulo pore ashbe amr mone. ami iccha chilo linked profile active rakhar, protidin ki shikhchi, seta post kore rakha sei sathe github ao. sei khetre amr kivabe shikha uchit? proti ta topic er upor note create? r sei sathe ami ro janate cai, ami ai muhurte obsidian a kaj korchi mane, amr daily rutine, amr poralekhar note, ai coding journey er roadmap sob note akare obsidian a ache. r seta github er sathe connected ache. amr ki practice code obsidian a rakha uchit naki github a alada repo create kora uchit prottek ta topic + project er jonno. ami ai sobkichu niye onk confused. abar ami aitao vabi, ato kichu korte gele somoyo jabe + amr poralekha, versity, onnanno kaj o ache.
+Should I:
+- Keep my **practice code** inside Obsidian?    
+- Or create a **separate GitHub repo** for each topic and project?
+- Should I create a new gmail, a new linkedin id    
+
+I’m really confused about all of this.  
+And on top of that, if I try to do _everything_ at once, it will take up a lot of time — and I have university, studies, and other responsibilities too. Also can't take this slowly. I need to hurry up. I don't have much time, I need to a log of things. I need prepare myself for a job. so I have to make sure whatever I'm doing is not disorganized. 
+
+I talked about all these previously with you. and you give some ideas. maybe they're or not I don't know. I'm just too confused about everything. I'm not liking any plans or suggestions.
