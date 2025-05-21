@@ -185,9 +185,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "4580cc9b3fd2b2ed",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "50297d8c1b5ada63",
