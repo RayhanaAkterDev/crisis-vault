@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4883922b160e69dc",
+        "id": "1ac7c4b857ab4cdd",
         "type": "tabs",
         "children": [
           {
-            "id": "ab873a599588a5cd",
+            "id": "6f151159db5f726a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-22.md",
-                "mode": "source",
+                "file": "How should I learn.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-22"
-            }
-          },
-          {
-            "id": "9cdef0b7cec2f7f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 003 » What is the functional and non-functional requirement of software engineering (process) - Explain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📘 003 » What is the functional and non-functional requirement of software engineering (process) - Explain"
-            }
-          },
-          {
-            "id": "1dcdab5c3977b403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 004 » What are the difference between functional and non-functional requirements of SE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📘 004 » What are the difference between functional and non-functional requirements of SE"
+              "title": "How should I learn"
             }
           }
         ]
@@ -102,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +87,6 @@
       {
         "id": "ff74fa591f8b79eb",
         "type": "tabs",
-        "dimension": 58.372093023255815,
         "children": [
           {
             "id": "3b1c86d9b06d7dba",
@@ -171,13 +141,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 019 » Explain spiral software process model with its merits and demerits.md",
+                "file": "How should I learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📘 019 » Explain spiral software process model with its merits and demerits"
+              "title": "Outline of How should I learn"
+            }
+          },
+          {
+            "id": "92ff5241df6126b1",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -189,37 +169,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "fdcc7cd4c60a1e1f",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "4580cc9b3fd2b2ed",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
-        "id": "50297d8c1b5ada63",
+        "id": "d42fce614bffbe12",
         "type": "tabs",
-        "dimension": 41.627906976744185,
         "children": [
           {
-            "id": "fcc62833fb712c92",
+            "id": "dc79b660d09d0e3d",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -239,20 +198,27 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "task-status:Change Checkbox Status": false,
-      "periodic-notes:Open today": false
+      "task-status:Change Checkbox Status": false
     }
   },
-  "active": "ab873a599588a5cd",
+  "active": "6f151159db5f726a",
   "lastOpenFiles": [
-    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 013 » Explain different types of check factors carried out during requirement validation.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 003 » What is the functional and non-functional requirement of software engineering (process) - Explain.md",
+    "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
+    "How should I learn.md",
+    "How to work.md",
+    "@skin_care.md",
+    "What to do one by one.md",
+    "Journal/Daily_Notes/2025-05-22.md",
+    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 004 » What are the difference between functional and non-functional requirements of SE.md",
+    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 003 » What is the functional and non-functional requirement of software engineering (process) - Explain.md",
+    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 013 » Explain different types of check factors carried out during requirement validation.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 013 » Discuss different types of prototyping.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 013 » Discuss different types of prototyping.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 018 » Write a short note on RAD software process mode.md",
@@ -264,18 +230,11 @@
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 002 » Define a software design process.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 012 » Mention some guidelines for conducting a collaborative requirement gathering meeting.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 007 »  Brief the stages or process activities of requirement elicitation and analysis with figure.md",
-    "Journal/Daily_Notes/2025-05-22.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 006 » Define the term stakeholder and use case.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 005 » Distinguish between requirement definition and requirement specification.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 020 » What is the need for a feasibility study of software development.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 002 » What are the different types of user requirement process.md",
     "Journal/Daily_Notes/2025-05-21.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 004 » Explain the attributes of a good software product.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/@extra_notes.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 015 » Write down the umbrella activities of software engineering.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 021 » Distinguish between s-process and s-process model..md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 022 » List 4 reasons why it is difficult to improve software process.md",
     "@coding_notes",
     "@coding_notes/@01 » HTML5 Semantic Structure",
     "@diit_6th_semester/CSE-530219 » Software Engineering/@attachments/Use-Case-Diagram-Notations.webp",
