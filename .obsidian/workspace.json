@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How should I learn.md",
-                "mode": "source",
+                "file": "@coding_notes/@01 » HTML & CSS/Untitled.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How should I learn"
+              "title": "Untitled"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to commit.md",
+                "file": "@coding_notes/@01 » HTML & CSS/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to commit"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -236,12 +236,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8de85491818d86e1",
+  "active": "f2d0424102814ed7",
   "lastOpenFiles": [
-    "@coding_notes/@01 » HTML & CSS/HTML5/@001 » Basic document structure and tags.md",
-    "How to commit.md",
-    "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
     "How should I learn.md",
+    "@coding_notes/@01 » HTML & CSS/Untitled.md",
+    "How to commit.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@001 » Basic document structure and tags.md",
+    "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
     "What to do one by one.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
     "@coding_notes/@01 » HTML & CSS/Responsive Design",
@@ -266,7 +267,6 @@
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/01 » Software Engineering Paradigms.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 018 » Write a short note on RAD software process mode.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 019 » Explain spiral software process model with its merits and demerits.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 019 » Explain spiral software process model with its merits and demerits.md",
     "@coding_notes",
     "@coding_notes/@01 » HTML & CSS",
     "@diit_6th_semester/CSE-530219 » Software Engineering/@attachments/Use-Case-Diagram-Notations.webp",

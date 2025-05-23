@@ -48,7 +48,7 @@ type(scope): message
 ### ❌ Bad example (multi-topic commit — not ideal):
 
 ```bash
-[html-css] feat: add new form layout and fix font size in typography.css
+docs(html-css): add new form layout and fix font size in typography.css
 ```
 
 🔎 This mixes two unrelated tasks:
@@ -59,7 +59,7 @@ type(scope): message
 ### ✅ Good example (separated logical commits):
 
 ```bash
-[html-css/forms] feat: add new form layout structure  
+docs(html-css/forms)[html-css/forms] feat: add new form layout structure  
 [html-css/css] fix: correct font size in typography.css
 ```
 
