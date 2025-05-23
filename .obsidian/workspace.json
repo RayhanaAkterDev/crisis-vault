@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "How should I learn"
             }
+          },
+          {
+            "id": "8de85491818d86e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to commit.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to commit"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How should I learn.md",
+                "file": "How to commit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How should I learn"
+              "title": "Outline of How to commit"
             }
           },
           {
@@ -186,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "d42fce614bffbe12",
@@ -222,16 +236,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f2d0424102814ed7",
+  "active": "8de85491818d86e1",
   "lastOpenFiles": [
+    "@coding_notes/@01 » HTML & CSS/HTML5/@001 » Basic document structure and tags.md",
+    "How to commit.md",
+    "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
+    "How should I learn.md",
     "What to do one by one.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
-    "@coding_notes/@01 » HTML & CSS/HTML5/@001 » Basic document structure and tags.md",
-    "How should I learn.md",
     "@coding_notes/@01 » HTML & CSS/Responsive Design",
     "@coding_notes/@01 » HTML & CSS/CSS3",
     "@coding_notes/@01 » HTML & CSS/HTML5",
-    "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
     "@coding_notes/@01 » HTML5 Semantic Structure/@01 » HTML5 Semantic Structure.md",
     "Journal/Daily_Notes/2025-05-23.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software.md",
@@ -252,7 +267,6 @@
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 018 » Write a short note on RAD software process mode.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 019 » Explain spiral software process model with its merits and demerits.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 019 » Explain spiral software process model with its merits and demerits.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 002 » Define a software design process.md",
     "@coding_notes",
     "@coding_notes/@01 » HTML & CSS",
     "@diit_6th_semester/CSE-530219 » Software Engineering/@attachments/Use-Case-Diagram-Notations.webp",
