@@ -207,12 +207,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
+                "file": "Journal/Daily_Notes/2025-05-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Folder Structure"
+              "title": "2025-05-23"
             }
           }
         ],
@@ -236,13 +236,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6f151159db5f726a",
+  "active": "2863bdf5f94cdaa8",
   "lastOpenFiles": [
-    "@coding_notes/How to commit.md",
+    "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
     "Journal/Daily_Notes/2025-05-23.md",
+    "@coding_notes/How to commit.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 004 » Explain the attributes of a good software product.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
-    "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML basic structure and tags.md",
     "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
     "@coding_notes/Documentation Comments in Code.md",
