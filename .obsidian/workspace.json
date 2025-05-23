@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML basic structure and tags.md",
+                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 004 » Explain the attributes of a good software product.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@001 » HTML basic structure and tags"
+              "title": "📘 004 » Explain the attributes of a good software product"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
+                "file": "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 004 » Explain the attributes of a good software product.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Folder Structure"
+              "title": "Outline of 📘 004 » Explain the attributes of a good software product"
             }
           },
           {
@@ -236,13 +236,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2863bdf5f94cdaa8",
+  "active": "6f151159db5f726a",
   "lastOpenFiles": [
+    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
+    "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML basic structure and tags.md",
     "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
     "@coding_notes/How to commit.md",
     "@coding_notes/Documentation Comments in Code.md",
-    "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
     "How should I learn.md",
     "What to do one by one.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
@@ -257,7 +258,6 @@
     "How to work.md",
     "@skin_care.md",
     "Journal/Daily_Notes/2025-05-22.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 004 » What are the difference between functional and non-functional requirements of SE.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 003 » What is the functional and non-functional requirement of software engineering (process) - Explain.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 013 » Explain different types of check factors carried out during requirement validation.md",
