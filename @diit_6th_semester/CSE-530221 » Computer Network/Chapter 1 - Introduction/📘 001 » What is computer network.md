@@ -4,4 +4,4 @@ A **computer network** is a system of two or more interconnected computers and c
 
 ---
 
-tag:: #board_2021 #board_2018 #board_2019 #board_2017 
+tag:: #board_2021 #board_2018 #board_2019 #board_2017 #mid_term

@@ -7,4 +7,4 @@ Examples of common protocols include HTTP (for web communication), TCP/IP (for i
 
 ---
 
-tag:: #board_2022 #board_2020 #board_2019 #board_2018
+tag:: #board_2022 #board_2020 #board_2019 #board_2018 #mid_term

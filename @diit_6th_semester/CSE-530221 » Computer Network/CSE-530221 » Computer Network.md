@@ -21,22 +21,22 @@
 		- [[📘 011 » Explain the seven layers of OSI system with diagram.]]
 		- [[📘 012 » Why TCP or IP model is more popular than OSI model]]
 		- [[📘 013 » Which layer OSI is used for the following -]]
-		- [[📘 014 » Describe the function of different layers or types of TCP or IP]]
+		- [[📘 014 » Describe the function of different types of TCP or IP]]
 		- [[📘 015 » State the differences between TCP or IP and OSI reference model]]
 		- [[📘 016 » With a configuration of TCP or IP show the operation of the following -]]
 		- [[Chapter 1 - Introduction]]
 	- **Chapter 2 - Frame Relay**
-		- [[@diit_6th_semester/CSE-530221 » Computer Network/Chapter 2 - Frame Relay/Chapter 2 - Question Lists]]
+		- [[Chapter 2 - Question Lists]]
 	- **Chapter 3 - ATM Networks**
-		- [[@diit_6th_semester/CSE-530221 » Computer Network/Chapter 3 - ATM Networks/Chapter 3 - Question Lists]]
+		- [[Chapter 3 - Question Lists]]
 	- **Chapter 4 - Medium Access Sub-layer**
-		- [[@diit_6th_semester/CSE-530221 » Computer Network/Chapter 4 - Medium Access Sub-layer/Chapter 4 - Question Lists]]
+		- [[Chapter 4 - Question Lists]]
 	- **Chapter 5 - Network Layer**
-		- [[@diit_6th_semester/CSE-530221 » Computer Network/Chapter 5 - Network Layer/Chapter 5 - Question Lists]]
+		- [[Chapter 5 - Question Lists]]
 	- **Chapter 6 - Optical Fiber Network**
-		- [[@diit_6th_semester/CSE-530221 » Computer Network/Chapter 6 - Optical Fiber Network/Chapter 6 - Question Lists]]
+		- [[Chapter 6 - Question Lists]]
 	- **Chapter 7 - Application Layer**
-		- [[@diit_6th_semester/CSE-530221 » Computer Network/Chapter 7 - Application Layer/Chapter 7 - Question Lists]]
+		- [[Chapter 7 - Question Lists]]
 	- [[CSE-530221 » Computer Network]]
 	- [[Short Notes]]
 
