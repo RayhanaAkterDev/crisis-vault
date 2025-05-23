@@ -20,13 +20,14 @@
 		- [[📘 012 » Why TCP or IP model is more popular than OSI model]]
 		- [[📘 013 » Which layer OSI is used for the following -]]
 		- [[📘 014 » Describe the function of each layer of the TCP or IP model.]]
-		- [[📘 015 » Define intranet, extranet, & the internet.]]
 		- [[📘 019 » Mention the differences between connectionless and connection oriented network system]]
+		- [[📘 034 » Define intranet, extranet, & the internet.]]
 		- [[96fe0be1f5e8f2e6cfbc6d6cd8950f34.jpg]]
 		- [[Chapter 1 - Introduction]]
 	- **Chapter 2 - Frame Relay**
 		- [[Chapter 2 - Question Lists]]
 	- **Chapter 3 - ATM Networks**
+		- [[📘 003 » Explain the ATM layers with their functions.]]
 		- [[Chapter 3 - Question Lists]]
 	- **Chapter 4 - Medium Access Sub-layer**
 		- [[Chapter 4 - Question Lists]]

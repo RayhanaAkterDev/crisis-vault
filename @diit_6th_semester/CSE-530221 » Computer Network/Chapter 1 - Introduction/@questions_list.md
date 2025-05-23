@@ -41,9 +41,9 @@
 - [ ] 29. What is network software? What are the major parts of it?
 - [ ] 30. VSAT
 - [ ] 31. An end system sends 50 packets per seconds data using the user data gram protocol over a full duplex 100 mbps ethernet; An connection each packet consists 1500 B of ethernet frame pay load data what is the throughput, when measure at the UDP layer. #board_2020 #board_2019 
-- [ ] 31 . Describe the function of each layer of the TCP/IP model.
-8. Show how to provide communication to the top layer of five layer network. #board_2020 
-9. Describe the OSI layers which handle each of the following - #board_2020 
+- [ ] 31. Describe the function of each layer of the TCP/IP model.
+- [ ] 32. Show how to provide communication to the top layer of five layer network. #board_2020 
+- [ ] 33. Describe the OSI layers which handle each of the following - #board_2020 
 	- Breaking the transmitted bit stream into frame
 	- Determine the which router through the subnet is used
-10. Define intranet, extranet, & the internet. #board_2022 
+- [ ] 34. Define intranet, extranet, & the internet. #board_2022 
