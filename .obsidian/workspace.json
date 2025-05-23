@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
-                "mode": "preview",
+                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML basic structure and tags.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase 1 - Frontend Core Foundations"
+              "title": "@001 » HTML basic structure and tags"
             }
           },
           {
@@ -27,44 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How should I learn.md",
+                "file": "@coding_notes/How to commit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How should I learn"
-            }
-          },
-          {
-            "id": "abff8b6f639376a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation Comments in Code.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Documentation Comments in Code"
-            }
-          },
-          {
-            "id": "2863bdf5f94cdaa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Folder Structure"
+              "title": "How to commit"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation Comments in Code.md",
+                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML basic structure and tags.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Documentation Comments in Code"
+              "title": "Outline of @001 » HTML basic structure and tags"
             }
           },
           {
@@ -229,8 +200,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "2863bdf5f94cdaa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Folder Structure"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,15 +236,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "abff8b6f639376a0",
+  "active": "6f151159db5f726a",
   "lastOpenFiles": [
-    "How should I learn.md",
-    "Documentation Comments in Code.md",
-    "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
     "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
-    "How to commit.md",
-    "@coding_notes/@01 » HTML & CSS/HTML5/@001 » Basic document structure and tags.md",
+    "@coding_notes/How to commit.md",
+    "@coding_notes/Documentation Comments in Code.md",
+    "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
+    "How should I learn.md",
     "What to do one by one.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML basic structure and tags.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
     "@coding_notes/@01 » HTML & CSS/Responsive Design",
     "@coding_notes/@01 » HTML & CSS/CSS3",
