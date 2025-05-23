@@ -16,8 +16,9 @@
 	- [[📘 012 » Why TCP or IP model is more popular than OSI model]]
 	- [[📘 013 » Which layer OSI is used for the following -]]
 	- [[📘 014 » Describe the function of each layer of the TCP or IP model.]]
-	- [[📘 015 » State the differences between TCP or IP and OSI reference model]]
-	- [[📘 016 » With a configuration of TCP or IP show the operation of the following -]]
+	- [[📘 015 » Define intranet, extranet, & the internet.]]
+	- [[📘 019 » Mention the differences between connectionless and connection oriented network system]]
+	- [[96fe0be1f5e8f2e6cfbc6d6cd8950f34.jpg]]
 	- [[Chapter 1 - Introduction]]
 
 %% End Landmark %%

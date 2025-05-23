@@ -37,14 +37,13 @@
 - [ ] 25. What is cellular network? Explain handover process in the cellular networks. #board_2021  
 - [ ] 26. What are the features of cellular mobile.
 - [ ] 27. What is satellite orbit? Briefly discuss satellite technology. #board_2021 #board_2019 
-
-8. Describe TCP header format. #board_2020 #board_2018 
-9. What is network software? What are the major parts of it?
-10. VSAT
-11. An end system sends 50 packets per seconds data using the user data gram protocol over a full duplex 100 mbps ethernet; An connection each packet consists 1500 B of ethernet frame pay load data what is the throughput, when measure at the UDP layer. #board_2020 #board_2019 
-12. Describe the function of each layer of the TCP/IP model.
-13. Show how to provide communication to the top layer of five layer network. #board_2020 
-14. Describe the OSI layers which handle each of the following - #board_2020 
+- [ ] 28. Describe TCP header format. #board_2020 #board_2018 
+- [ ] 29. What is network software? What are the major parts of it?
+- [ ] 30. VSAT
+- [ ] 31. An end system sends 50 packets per seconds data using the user data gram protocol over a full duplex 100 mbps ethernet; An connection each packet consists 1500 B of ethernet frame pay load data what is the throughput, when measure at the UDP layer. #board_2020 #board_2019 
+- [ ] 31 . Describe the function of each layer of the TCP/IP model.
+8. Show how to provide communication to the top layer of five layer network. #board_2020 
+9. Describe the OSI layers which handle each of the following - #board_2020 
 	- Breaking the transmitted bit stream into frame
 	- Determine the which router through the subnet is used
-15. Define intranet, extranet, & the internet. #board_2022 
+10. Define intranet, extranet, & the internet. #board_2022 
