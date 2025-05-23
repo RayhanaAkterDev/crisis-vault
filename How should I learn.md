@@ -50,6 +50,38 @@ Split your code into 2 types:
     ├── mini-projects/
     └── notes/  (optional, if you want them public)
 ```
+
+```cpp
+frontend-foundations/
+├── html-css/
+│   ├── html/
+│   ├── css/
+│   └── responsive-design/
+│
+├── tailwind-css/
+│   ├── buttons.html
+│   ├── cards.html
+│   └── responsive-navbar.html
+│
+├── javascript-basics/
+│   ├── fundamentals/
+│   ├── dom/
+│   └── practice-exercises/
+│
+├── git-github/
+│   ├── git-commands.md
+│   ├── github-workflow.md
+│   └── branch-vs-merge.md
+│
+├── mini-projects/
+│   ├── calculator/
+│   ├── todo-app/
+│   ├── color-picker/
+│   └── responsive-landing-page/
+│
+└── README.md
+```
+
 📌 Don’t make a separate repo for every tiny topic. Group by theme.
 
 ---

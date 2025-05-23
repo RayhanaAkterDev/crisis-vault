@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-23.md",
+                "file": "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase 1 - Frontend Core Foundations"
+            }
+          },
+          {
+            "id": "f2d0424102814ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How should I learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-23"
+              "title": "How should I learn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-23.md",
+                "file": "How should I learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-23"
+              "title": "Outline of How should I learn"
             }
           },
           {
@@ -207,17 +222,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6f151159db5f726a",
+  "active": "f2d0424102814ed7",
   "lastOpenFiles": [
-    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software.md",
+    "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
+    "How should I learn.md",
+    "What to do one by one.md",
+    "@coding_notes/@01 » HTML5 Semantic Structure/@01 » HTML5 Semantic Structure.md",
     "Journal/Daily_Notes/2025-05-23.md",
+    "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 001 » What is software.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/CSE-530219 » Software Engineering.md",
     "@Coding_WebDev_JobPrep/Full Stack Developer Roadmap.md",
-    "How should I learn.md",
-    "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
     "How to work.md",
     "@skin_care.md",
-    "What to do one by one.md",
     "Journal/Daily_Notes/2025-05-22.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 004 » What are the difference between functional and non-functional requirements of SE.md",
@@ -234,7 +250,6 @@
     "@diit_6th_semester/CSE-530219 » Software Engineering/03 » Software Design Fundamentals/📘 002 » Define a software design process.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 012 » Mention some guidelines for conducting a collaborative requirement gathering meeting.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 007 »  Brief the stages or process activities of requirement elicitation and analysis with figure.md",
-    "@diit_6th_semester/CSE-530219 » Software Engineering/02 » Requirements Analysis Fundamentals/📘 006 » Define the term stakeholder and use case.md",
     "@coding_notes",
     "@coding_notes/@01 » HTML5 Semantic Structure",
     "@diit_6th_semester/CSE-530219 » Software Engineering/@attachments/Use-Case-Diagram-Notations.webp",
