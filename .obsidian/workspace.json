@@ -4,58 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "c439e946865b5f37",
-        "type": "tabs",
-        "dimension": 74.31506849315068,
+        "id": "d2ab08a2ef414c79",
+        "type": "split",
+        "dimension": 73.02857142857142,
         "children": [
           {
-            "id": "6f151159db5f726a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 3 - ATM Networks/📘 005 »What is packet switching.md",
-                "mode": "source",
-                "source": false
+            "id": "2a988f0fb8ef65e9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6f151159db5f726a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 003 » How does computer network differ from the distributed system.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "📘 003 » How does computer network differ from the distributed system"
+                }
               },
-              "icon": "lucide-file",
-              "title": "📘 005 »What is packet switching"
-            }
+              {
+                "id": "cd9fce60bdc6a7e3",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
           },
           {
-            "id": "27f422b715639d51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 034 » Define intranet, extranet, & the internet..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📘 034 » Define intranet, extranet, & the internet."
-            }
-          },
-          {
-            "id": "0727029e504d4a58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 3 - ATM Networks/Chapter 3 - Question Lists.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 3 - Question Lists"
-            }
+            "id": "6f49ad1cf3d4e863",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "db1800f5ed6c324e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "@questions_list"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
-        "id": "2a988f0fb8ef65e9",
+        "id": "9e6a1658956f0524",
         "type": "tabs",
-        "dimension": 25.684931506849317,
+        "dimension": 26.971428571428575,
         "children": [
           {
             "id": "92ff5241df6126b1",
@@ -124,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "8f112ace402a832e",
@@ -187,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 3 - ATM Networks/📘 005 »What is packet switching.md",
+                "file": "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 003 » How does computer network differ from the distributed system.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📘 005 »What is packet switching"
+              "title": "Outline of 📘 003 » How does computer network differ from the distributed system"
             }
           },
           {
@@ -207,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "d42fce614bffbe12",
@@ -230,7 +240,7 @@
               "type": "markdown",
               "state": {
                 "file": "Journal/Daily_Notes/2025-05-23.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -252,7 +262,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -274,28 +284,28 @@
   },
   "active": "6f151159db5f726a",
   "lastOpenFiles": [
-    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 3 - ATM Networks/Chapter 3 - Question Lists.md",
+    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/Chapter 1 - Introduction.md",
+    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 001 » What is computer network.md",
+    "Journal/Daily_Notes/2025-05-23.md",
+    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
+    "@self_dscipline/🧠 Building Self-Discipline.md",
+    "@diit_6th_semester/CSE-530221 » Computer Network/CSE-530221 » Computer Network.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 3 - ATM Networks/📘 005 »What is packet switching.md",
+    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 3 - ATM Networks/Chapter 3 - Question Lists.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 3 - ATM Networks/📘 003 » Explain the ATM layers with their functions..md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 7 - Application Layer/Chapter 7 - Question Lists.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 013 » Which layer OSI is used for the following -.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 034 » Define intranet, extranet, & the internet..md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/96fe0be1f5e8f2e6cfbc6d6cd8950f34.jpg",
-    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 014 » Describe the function of each layer of the TCP or IP model..md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 019 » Mention the differences between connectionless and connection oriented network system.md",
-    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/Chapter 1 - Introduction.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 011 » Explain the seven layers of OSI system with diagram..md",
-    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 001 » What is computer network.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/@short_notes.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/@extra_notes.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 002 » Classified different types of network according to distance..md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 009 » What is protocol.md",
-    "Journal/Daily_Notes/2025-05-23.md",
-    "@diit_6th_semester/CSE-530221 » Computer Network/CSE-530221 » Computer Network.md",
     "@self_dscipline/🎯 Rules of Success.md",
     "@self_dscipline/🚀 Strategies to Develop Yourself for Success.md",
-    "@self_dscipline/🧠 Building Self-Discipline.md",
     "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML basic structure and tags.md",
     "@self_dscipline/@self_dscipline.md",
