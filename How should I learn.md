@@ -43,12 +43,13 @@ Split your code into 2 types:
 2. **Projects & larger topic demos** → GitHub repo
 	- 📁 Suggested GitHub Structure:
 ```cpp
-	github.com/yourname
-└── coding-journey/
-    ├── html-css/
-    ├── javascript-basics/
-    ├── mini-projects/
-    └── notes/  (optional, if you want them public)
+frontend-foundations/
+├── html-css/           # HTML5 and CSS3 learning and practice
+├── tailwind-css/       # Tailwind CSS UI experiments
+├── javascript-basics/  # JS fundamentals, DOM, events
+├── git-github/         # Git & GitHub notes and workflows
+├── mini-projects/      # Small practical projects using core skills
+└── README.md
 ```
 
 ```cpp
