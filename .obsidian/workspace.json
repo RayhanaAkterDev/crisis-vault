@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "How should I learn.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
+                "file": "How should I learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Folder Structure"
+              "title": "Outline of How should I learn"
             }
           },
           {
@@ -236,10 +236,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2863bdf5f94cdaa8",
+  "active": "f2d0424102814ed7",
   "lastOpenFiles": [
-    "How should I learn.md",
     "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
+    "How should I learn.md",
     "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
     "How to commit.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@001 » Basic document structure and tags.md",
