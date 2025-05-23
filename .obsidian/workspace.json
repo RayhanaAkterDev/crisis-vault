@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 014 » Describe the function of different types of TCP or IP.md",
-                "mode": "preview",
+                "file": "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 015 » State the differences between TCP or IP and OSI reference model.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📘 014 » Describe the function of different types of TCP or IP"
+              "title": "📘 015 » State the differences between TCP or IP and OSI reference model"
             }
           }
         ]
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "different types of TCP",
+                "query": "connectionless and connection oriented",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,8 +92,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 014 » Describe the function of different types of TCP or IP.md",
+                "file": "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 015 » State the differences between TCP or IP and OSI reference model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📘 014 » Describe the function of different types of TCP or IP"
+              "title": "Outline of 📘 015 » State the differences between TCP or IP and OSI reference model"
             }
           },
           {
@@ -247,10 +246,14 @@
   },
   "active": "6f151159db5f726a",
   "lastOpenFiles": [
+    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 016 » With a configuration of TCP or IP show the operation of the following -.md",
+    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
+    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 014 » Describe the function of each layer of the TCP or IP model..md",
+    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 001 » What is computer network.md",
+    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/@short_notes.md",
+    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/@extra_notes.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 002 » Classified different types of network according to distance..md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 009 » What is protocol.md",
-    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 001 » What is computer network.md",
-    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
     "Journal/Daily_Notes/2025-05-23.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/CSE-530221 » Computer Network.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/Chapter 1 - Introduction.md",
@@ -269,10 +272,6 @@
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/01 » Software Engineering Paradigms.md",
     "@diit_6th_semester/CSE-530219 » Software Engineering/01 » Software Engineering Paradigms/📘 004 » Explain the attributes of a good software product.md",
     "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
-    "@coding_notes/Documentation Comments in Code.md",
-    "How should I learn.md",
-    "What to do one by one.md",
-    "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
     "@coding_notes/@01 » HTML & CSS/Responsive Design",
     "@coding_notes/@01 » HTML & CSS/CSS3",
     "@coding_notes/@01 » HTML & CSS/HTML5",

@@ -1,9 +1,7 @@
 # Chapter 1 - Introduction Overview
 %% Begin Landmark %%
 - **[[Chapter 1 - Introduction]]**
-	- [[@extra_notes]]
 	- [[@questions_list]]
-	- [[@short_notes]]
 	- [[📘 001 » What is computer network]]
 	- [[📘 002 » Classified different types of network according to distance.]]
 	- [[📘 003 » How does computer network differ from the distributed system]]
@@ -17,7 +15,7 @@
 	- [[📘 011 » Explain the seven layers of OSI system with diagram.]]
 	- [[📘 012 » Why TCP or IP model is more popular than OSI model]]
 	- [[📘 013 » Which layer OSI is used for the following -]]
-	- [[📘 014 » Describe the function of different types of TCP or IP]]
+	- [[📘 014 » Describe the function of each layer of the TCP or IP model.]]
 	- [[📘 015 » State the differences between TCP or IP and OSI reference model]]
 	- [[📘 016 » With a configuration of TCP or IP show the operation of the following -]]
 	- [[Chapter 1 - Introduction]]
