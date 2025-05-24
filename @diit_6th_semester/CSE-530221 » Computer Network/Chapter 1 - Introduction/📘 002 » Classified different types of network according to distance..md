@@ -14,7 +14,7 @@ LANs are usually owned and managed by a single person or organization, and they 
 
 A **MAN** connects multiple LANs across a **city, town, or large campus**. It covers a bigger area than a LAN but is smaller than a WAN. MANs are useful for connecting different buildings of the same company, university, or institution located in different parts of the same city.
 
-MANs often use **high-speed connections** such as fiber optics and are usually managed by a single organization or an Internet Service Provider (ISP). Technologies like Metro Ethernet, ATM, or fiber-based systems are commonly used. MAN works as a bridge between LAN and WAN. It also helps connect local networks to the internet or other remote services using a strong and fast backbone.
+MANs often use **high-speed connections** such as **fiber optics** and are usually managed by a single organization or an Internet Service Provider (ISP). Technologies like Metro Ethernet, ATM, or fiber-based systems are commonly used. MAN works as a bridge between LAN and WAN. It also helps connect local networks to the internet or other remote services using a strong and fast backbone.
 
 ---
 
