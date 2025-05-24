@@ -9,8 +9,8 @@
 
 #### Topology
 
-- [ ] Define topology. Discuss different types of network topologies.
-- [ ] Draw a hybrid topology with a star backbone and a star backbone and four ring networks.
+- [*] Define topology. Discuss different types of network topologies.
+- [*] Draw a hybrid topology with a star backbone and a star backbone and four ring networks.
 
 
 ### TCP/IP (Protocol)
