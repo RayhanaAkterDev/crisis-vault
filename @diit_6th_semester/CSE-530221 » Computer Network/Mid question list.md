@@ -2,6 +2,7 @@
 
 - [ ] What is computer network? #ch1 
 - [ ] Classified different types of network according to distance.
+	- Mention different types of mobility in a wireless LAN.
 - [ ] How does computer network differ from distribution system? #ch1 
 - [ ] Write down some of the design issues that should be considered for an efficient network. #ch1 
 - [ ] Mention the difference between connectionless an connection oriented network system. #ch1 
@@ -55,12 +56,43 @@
 
 ### Frame Relay
 
-- [ ] Explain the frame relay frame format. #ch2
+- [ ] Explain the frame relay frame/header format. #ch2
 - [ ] Discuss the frame relay network. #ch2 
 - [ ] Explain and compare frame relay and X.25 network architecture. #ch2 
 - [ ] The address field of a frame relay frame is 101100000001011. What is the DLCI (in decimal)? #ch2 
+- Explain the layer of frame relay
+- Write down some characteristics of Frame Relay.
+- Explain the basic operation of frame relay.
+- Draw the frame relay frame and also state the purpose of FECN, BECN fields.
+- Write down the functions of Gateway, Routers, Repeaters, Bridges, Hubs and Switches.
 
 ### ATM
 
-- [ ] Explain the ATM layers with their functions. #ch3 
 - [ ] What is packet switching? Explaining two approaches of packet switching. #ch3 
+- [ ] Explain the ATM layers with their functions. #ch3 
+- [ ] Explain why padding is unnecessary in AAL 1, but necessary in other AALS?
+- [ ] Explain ATM protocol architecture?
+- [ ] What is the purpose of ATM Adaptation layer? Describe the AAL2, AAL3 and AAL5 layers.
+- [ ] If an application uses AAL ¼ and there are 47,787 bytes of data
+coming into the CS, how many padding bytes are necessary? How
+many data units get passed from the SAR to the ATM layer? How
+many cells are produced?
+
+
+---
+
+
+
+
+
+(c) 
+
+
+
+The address field of a Frame Relay frame is 1011000000010111.
+What is the DLCI (in decimal)? 
+
+
+
+) 
+Describe following term: VPI UNI AAL PVC

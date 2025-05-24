@@ -20,7 +20,6 @@
 	- [[📘 034 » Define intranet, extranet, & the internet.]]
 	- [[96fe0be1f5e8f2e6cfbc6d6cd8950f34.jpg]]
 	- [[Chapter 1 - Introduction]]
-	- [[Mid question list]]
 
 %% End Landmark %%
 
