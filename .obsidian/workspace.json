@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
-                "mode": "preview",
+                "file": "Journal/Daily_Notes/2025-05-24.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Folder Structure"
+              "title": "2025-05-24"
             }
           }
         ]
@@ -159,6 +159,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "73b4aa804cab5947",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 4
@@ -228,8 +238,8 @@
   },
   "active": "560d4982455a493c",
   "lastOpenFiles": [
-    "Journal/Daily_Notes/2025-05-23.md",
     "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
+    "Journal/Daily_Notes/2025-05-23.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML basic structure and tags.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
     "@diit_6th_semester/CSE-530221 » Computer Network/CSE-530221 » Computer Network.md",
