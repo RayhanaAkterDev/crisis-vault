@@ -19,7 +19,11 @@
     "short_note": 7,
     "board_2016": 8,
     "css": 9,
-    "mid_term": 10
+    "mid_term": 10,
+    "ch_3": 11,
+    "ch3": 12,
+    "ch1": 13,
+    "ch2": 14
   },
   "_version": 3
 }
