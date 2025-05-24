@@ -73,26 +73,8 @@
 - [ ] Explain why padding is unnecessary in AAL 1, but necessary in other AALS?
 - [ ] Explain ATM protocol architecture?
 - [ ] What is the purpose of ATM Adaptation layer? Describe the AAL2, AAL3 and AAL5 layers.
-- [ ] If an application uses AAL ¼ and there are 47,787 bytes of data
-coming into the CS, how many padding bytes are necessary? How
-many data units get passed from the SAR to the ATM layer? How
-many cells are produced?
-
+- [ ] If an application uses AAL ¼ and there are 47,787 bytes of data coming into the CS, how many padding bytes are necessary? 
+- [ ] How many data units get passed from the SAR to the ATM layer? How many cells are produced?
+- [ ] Describe following term: VPI UNI AAL PVC
 
 ---
-
-
-
-
-
-(c) 
-
-
-
-The address field of a Frame Relay frame is 1011000000010111.
-What is the DLCI (in decimal)? 
-
-
-
-) 
-Describe following term: VPI UNI AAL PVC
