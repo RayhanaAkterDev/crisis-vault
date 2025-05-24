@@ -19,6 +19,8 @@ The OSI model is a way to understand how data moves through a network. It divide
 
 ![[96fe0be1f5e8f2e6cfbc6d6cd8950f34.jpg]]
 
+> The word **“synch”** is an **informal abbreviation** of **“synchronize”** or **“synchronization.”**
+
 ---
 
 tag:: #board_2022 #mid_term 
