@@ -15,9 +15,9 @@
 
 ### TCP/IP (Protocol)
 
-- [ ] What is protocol?  #ch1
-- [ ] What are the key elements of protocol? #ch1 
-- [ ] Describe the function of different layer of TCP/IP. #ch1 
+- [x] What is protocol?  #ch1
+- [x] What are the key elements of protocol? #ch1 
+- [ ] Describe the function of different/each layer of TCP/IP. #ch1 
 - [ ] Why TCP/IP model is more popular than OSI model? #ch1 
 - [ ] With a configuration of TCP/IP show the operation of the following - #ch1 
 	- action to sender
