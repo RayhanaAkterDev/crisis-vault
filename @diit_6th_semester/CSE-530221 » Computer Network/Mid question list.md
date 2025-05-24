@@ -1,9 +1,9 @@
 ### Network System
 
 - [x] What is computer network? #ch1 
-- [ ] Classified different types of network according to distance. #ch1 
+- [x] Classified different types of network according to distance. #ch1 
 - [x] How does computer network differ from distribution system? #ch1 
-- [ ] Write down some of the design issues that should be considered for an efficient network. #ch1 
+- [*] Write down some of the design issues that should be considered for an efficient network. #ch1 
 - [ ] Mention the difference between connectionless an connection oriented network system. #ch1 
 - [ ] Define intranet, extranet, and the internet. #ch1 
 - [ ] What is IoT? #ch1 
