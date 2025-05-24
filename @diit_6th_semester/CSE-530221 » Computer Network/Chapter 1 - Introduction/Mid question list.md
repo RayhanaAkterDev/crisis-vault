@@ -5,4 +5,7 @@
 - [ ] Define intranet, extranet, and the internet.
 
 ### ATM
-- [ ] E
+
+- [ ] Explain the ATM layers with their functions.
+- [ ] What is packet switching? Explaining two approaches of packet switching.
+- [ ] 
