@@ -5,8 +5,7 @@
 - [x] How does computer network differ from distribution system? #ch1 
 - [*] Write down some of the design issues that should be considered for an efficient network. #ch1 
 - [x] Mention the difference between connectionless an connection oriented network system. #ch1 
-- [ ] Define intranet, extranet, and the internet. #ch1 
-- [ ] What is IoT? #ch1 
+- [x] Define intranet, extranet, and the internet. #ch1 
 
 #### Topology
 

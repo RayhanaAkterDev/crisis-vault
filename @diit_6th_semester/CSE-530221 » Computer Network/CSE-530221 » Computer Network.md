@@ -10,7 +10,7 @@
 		- [[📘 002 » Classified different types of network according to distance.]]
 		- [[📘 003 » How does computer network differ from the distributed system]]
 		- [[📘 004 » Write down some of the design issues that should be considered for an efficient network]]
-		- [[📘 005 » What is topology.]]
+		- [[📘 005 » Define topology. Discuss different types of network topologies.]]
 		- [[📘 006 » Discuss different types of network topologies]]
 		- [[📘 007 » Draw a hybrid topology with a star backbone and a star backbone and four ring networks]]
 		- [[📘 008 » What is IoT]]
