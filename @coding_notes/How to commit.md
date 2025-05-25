@@ -10,25 +10,24 @@ type(scope): message
 
 ---
 
-### 🔑 Common Commit Types:
+## 🔑 Common Commit Types:
 
 - `feat` – for adding a new feature    
 - `fix` – for bug fixes    
-- `docs` – for documentation changes    
-- `style` – for formatting (white-space, missing semi-colons, etc.)    
+- `docs` – for documentation changes (including comments inside code)    
+- `style` – for formatting (white-space, missing semicolons, etc.)    
 - `refactor` – for code changes that neither fix a bug nor add a feature    
 - `test` – for adding or updating tests    
-- `chore` – for routine tasks like config updates, package installs, etc.    
+- `chore` – for routine tasks like config updates, package installs, etc.
 
-### 🗂 Common Scopes (based on your repo):
+### 📌 Special Clarification:
 
-- `html` – changes to HTML files    
-- `css` – changes to CSS files    
-- `responsive-design` – flexbox, grid, media queries    
-- `mini-projects` – small application files    
-- `docs` – documentation or README updates    
+> - Use `docs` even inside `.html`, `.css`, or `.js` files **if you're only adding or editing comments** (non-functional).  
+> - Use `feat`, `fix`, etc., when you're making changes to actual code or markup.
 
-### ✅ Examples:
+---
+
+## ✅ Examples:
 
 - `feat(html): add typography.html for text and heading tags`    
 - `style(css): improve spacing and font styles in typography.css`    
