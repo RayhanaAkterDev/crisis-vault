@@ -24,10 +24,20 @@ type(scope): message
 
 > - Use `docs` even inside `.html`, `.css`, or `.js` files **if you're only adding or editing comments** (non-functional).  
 > - Use `feat`, `fix`, etc., when you're making changes to actual code or markup.
+> - Use `refactor` when you **clean up or improve code structure** without changing its behavior (e.g., renaming variables, removing repetition).
+> - Use `test` when you're **adding or modifying test cases** (e.g., unit tests, manual test instructions) — not actual code functionality.
 
 ---
 
 ## ✅ Examples:
+
+| Situation                                          | Correct Commit                                               |
+| -------------------------------------------------- | ------------------------------------------------------------ |
+| Adding new form elements in HTML                   | `feat(html): add 06-forms.html with basic form structure`    |
+| Adding comments inside HTML file to explain inputs | `docs(html): add comments for input fields in 06-forms.html` |
+| Writing markdown notes about forms in README       | `docs(html-css): add form section to README.md`              |
+
+### ✅ Example Commit Messages:
 
 - `feat(html): add typography.html for text and heading tags`    
 - `style(css): improve spacing and font styles in typography.css`    
@@ -39,8 +49,9 @@ type(scope): message
 
 - Use **present tense**: “add”, not “added” or “adds”    
 - Keep it **short and meaningful**    
-- Group changes under one commit per logical task (avoid “multi-topic” commits)    
-- Prefer clarity over creativity in professional repos    
+- Group changes under one commit per logical task    
+- Avoid mixing unrelated changes in one commit    
+- Prefer clarity over creativity in professional repos
 
 ---
 
