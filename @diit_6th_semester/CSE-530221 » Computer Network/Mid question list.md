@@ -3,7 +3,7 @@
 - [x] What is computer network? #ch1 
 - [x] Classified different types of network according to distance. #ch1 
 - [x] How does computer network differ from distribution system? #ch1 
-- [*] Write down some of the design issues that should be considered for an efficient network. #ch1 
+- [>] Write down some of the design issues that should be considered for an efficient network. #ch1 
 - [x] Mention the difference between connectionless an connection oriented network system. #ch1 
 - [x] Define intranet, extranet, and the internet. #ch1 
 
@@ -19,7 +19,7 @@
 - [x] What are the key elements of protocol? #ch1 
 - [ ] Describe the function of different/each layer of TCP/IP. #ch1 
 - [ ] Why TCP/IP model is more popular than OSI model? #ch1 
-- [ ] With a configuration of TCP/IP show the operation of the following - #ch1 
+- [-] With a configuration of TCP/IP show the operation of the following - #ch1 
 	- action to sender
 	- action to router
 	- action receiver
