@@ -5,7 +5,7 @@
 5. Write down the differences between system software and application software. #board_2020 
 6. Define system program
 7. What is operating system? write down the functionalities
-8. Describe general machine structure with proper diagram. #board_2022 #board_2020 
+8. *Describe general machine structure with proper diagram.* #board_2022 #board_2020 
 9. Describe Component of a General Machine Structure.
 10. What is Machine system?
 11. Illustrate how Components of Machine Structure interact.

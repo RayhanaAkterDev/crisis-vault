@@ -1,6 +1,6 @@
 - With the aid of a block diagram, describe the Von-Neumann machine structure. #board_2021 
 - Explain machine language with example. #board_2021 
-- Describe micro flowchart for ADD instruction step by step. #board_2021 #board_2022 
+- *Describe micro flowchart for ADD instruction step by step.* #board_2021 #board_2022 
 - Explain child window creation and child window activation. #board_2021 
 - Explain frame, client and child windows in details. #board_2020 
 - Define Internet programming. #board_2020 
