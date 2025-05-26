@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists (ES).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -49,8 +49,7 @@
               "title": "Chapter 2 - Question Lists"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,11 +264,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "945fe41930253b2f",
+  "active": "decbf16e66cf7fda",
   "lastOpenFiles": [
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
-    "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists (ES).md",
+    "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 6 - WWW, Kernel, ASP/Chapter 6 - Question Lists.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
     "Journal/Daily_Notes/2025-05-26.md",
