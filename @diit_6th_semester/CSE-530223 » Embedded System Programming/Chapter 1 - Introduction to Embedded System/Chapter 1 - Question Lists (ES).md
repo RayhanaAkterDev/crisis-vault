@@ -1,12 +1,16 @@
-1. ✅ *What is Embedded system?* #board_2022 #board_2021 #board_2020 ✅
-2. *Write down the applications of embedded system.* #board_2022 #board_2020 
+1. ✅ *What is Embedded system?* #board_2022 #board_2021 #board_2020 
+2. ✅ *Write down the applications of embedded system.* #board_2022 #board_2020 
 3. ✅ Describe different types of embedded system briefly. #board_2021 
+4. 
+
+
+
 4. Briefly describe the design of an embedded system with example.
 5. What are the Possible Organization of an Embedded System?
 6. What is the Concept of embedded programming system? 
 7. Describe the characteristics of an embedded system.
    
-8. Define Embedded system programming. Give an example of an embedded system and describe how it works.
+8. Give an example of an embedded system and describe how it works.
 9. ✅ Explain IoT in Embedded system programming (with example). #board_2022 #board_2020 
 10. What are the essential components of embedded system?
 11. Explain real time embedded system.
@@ -21,3 +25,7 @@
 19. ✅ *Define system programming?* #board_2022 #board_2021 
 20. Give a concept of System Programming.
 21. What is the difference between Visual Programming & System Programming?
+
+###### Extra
+
+- Define Embedded system programming.
