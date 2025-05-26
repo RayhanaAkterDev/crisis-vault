@@ -2,30 +2,32 @@
 2. ✅ *Write down the applications of embedded system.* #board_2022 #board_2020 
 3. ✅ *Describe different types of embedded system briefly.* #board_2021 
 4. ✅ *Explain IoT in Embedded system programming with example.* #board_2022 #board_2020 
-5. 
+5. Define system programming? Explain the components of system programming. #board_2022 #board_2020  
+6. Differentiate system software and application software. #board_2020 
+7. What is Visual Programming? #board_2020 
+8. ✅ Write some pros and cons of visual programming. #board_2020 
 
 
 
-5. Briefly describe the design of an embedded system with example.
-6. What are the Possible Organization of an Embedded System?
-7. What is the Concept of embedded programming system? 
-8. Describe the characteristics of an embedded system.
-   
-9. Give an example of an embedded system and describe how it works.
-10. 
-11. What are the essential components of embedded system?
-12. Explain real time embedded system.
-13. ✅ (Define) What is Visual Programming? #board_2020 
-14. ✅ Write some pros and cons of visual programming. #board_2020 
-15. Compare between regular programming language and visual programming language. #board_2020 
+9. Briefly describe the design of an embedded system with example.
+10. What are the Possible Organization of an Embedded System?
+11. What is the Concept of embedded programming system? 
+12. Describe the characteristics of an embedded system.   
+13. Give an example of an embedded system and describe how it works.11. 
+14. What are the essential components of embedded system?
+
+
+
+15. 
+16. Compare between regular programming language and visual programming language. #board_2020 
     
-16. What is a visual programming language? #board_2021 
-17. List the benefits and drawbacks of visual programming language against traditional programming languages. #board_2021 
-18. Give a concept of Visual System Programming
-19. Draw Visual Programming Flowchart.
-20. ✅ *Define system programming?* #board_2022 #board_2021 
-21. Give a concept of System Programming.
-22. What is the difference between Visual Programming & System Programming?
+17. #board_2021 
+18. List the benefits and drawbacks of visual programming language against traditional programming languages. #board_2021 
+19. Give a concept of Visual System Programming
+20. Draw Visual Programming Flowchart.
+21. 
+22. Give a concept of System Programming.
+23. What is the difference between Visual Programming & System Programming?
 
 ###### Extra
 
