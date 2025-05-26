@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
+                "file": "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists (ES).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "@questions_list"
+              "title": "Chapter 1 - Question Lists (ES)"
             }
           },
           {
@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists (ES).md",
+                "file": "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Question Lists (ES)"
+              "title": "Chapter 3 - Question Lists"
+            }
+          },
+          {
+            "id": "04cbd4a48d658378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2 - Question Lists"
             }
           }
         ],
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kernel",
+                "query": "mkdir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,26 +267,26 @@
   },
   "active": "945fe41930253b2f",
   "lastOpenFiles": [
+    "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
+    "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
+    "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists (ES).md",
+    "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 6 - WWW, Kernel, ASP/Chapter 6 - Question Lists.md",
+    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
     "Journal/Daily_Notes/2025-05-26.md",
     "Journal/Daily_Notes/2025-05-25.md",
     "Journal/Daily_Notes/2025-05-24.md",
-    "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists (ES).md",
     "@coding_notes/How to commit.md",
     "Tasks.md",
-    "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 6 - WWW, Kernel, ASP/Chapter 6 - Question Lists.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 4 - Web server and API/Chapter 4 - Question Lists.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 005 » Define topology. Discuss different types of network topologies..md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Non-Chapter Questions.md",
     "@coding_notes/Documentation Comments in Code.md",
-    "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 7 - XML/Chapter 7 - Question Lists.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 5 - Multithread, XSLT/Chapter 5 - Question Lists.md",
-    "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/CSE-530221 » Computer Network.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/Chapter 1 - Introduction.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Mid question list.md",
     "@self_dscipline/🧠 Building Self-Discipline.md",
-    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/@questions_list.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 009 » What is protocol. What are the key elements of protocols.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 010 » What are the key elements of protocols.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 007 » Draw a hybrid topology with a star backbone and a star backbone and four ring networks.md",
