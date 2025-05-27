@@ -260,8 +260,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "task-status:Change Checkbox Status": false,
-      "periodic-notes:Open today": false
+      "task-status:Change Checkbox Status": false
     }
   },
   "active": "decbf16e66cf7fda",
