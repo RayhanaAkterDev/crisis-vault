@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML basic structure and tags.md",
+                "file": "@coding_notes/how to rebase commit.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@001 » HTML basic structure and tags"
+              "title": "how to rebase commit"
             }
           }
         ]
@@ -238,8 +238,8 @@
   },
   "active": "5222fa0f3ea0ec53",
   "lastOpenFiles": [
-    "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML basic structure and tags.md",
+    "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
     "@coding_notes/how to rebase commit.md",
     "@coding_notes/How to commit.md",
