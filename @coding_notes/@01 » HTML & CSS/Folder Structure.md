@@ -4,14 +4,16 @@
 frontend-foundations/
 └── html-css/
     ├── html/
-    │   ├── 01-basic-structure.html         # doctype, head/body, elements
-    │   ├── 02-text-elements.html           # headings, paragraphs, span, div
+	│   ├── 01-basic-structure.html         # doctype, head/body, elements
+    │   ├── 02-text-elements.html           # headings, paragraphs, span
     │   ├── 03-lists-and-links.html         # ul, ol, a (anchor tag)
     │   ├── 04-images-and-media.html        # img, audio, video, iframe
     │   ├── 05-tables.html                  # table, tr, th, td
     │   ├── 06-forms.html                   # input types, labels, buttons
     │   ├── 07-semantic-tags.html           # header, footer, nav, main, article, section
-    │   ├── 08-accessibility-demo.html      # alt text, labels, ARIA roles
+    │   ├── 08-block-and-inline-elements.html # div, span, block vs inline behavior
+    │   ├── 09-accessibility-demo.html      # alt text, labels, ARIA roles, screen readers
+    │   ├── 10-html-entities.html           # &nbsp;, &lt;, &gt;, &copy;, &hearts;
     │   └── cheatsheet.md                   # HTML quick notes
 
     ├── css/
