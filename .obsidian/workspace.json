@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how to rebase commit.md",
+                "file": "@coding_notes/How to commit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how to rebase commit"
+              "title": "How to commit"
             }
           }
         ]
@@ -238,7 +238,7 @@
   },
   "active": "5222fa0f3ea0ec53",
   "lastOpenFiles": [
-    "how to rebase commit.md",
+    "@coding_notes/how to rebase commit.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
     "Journal/Daily_Notes/2025-05-27.md",
