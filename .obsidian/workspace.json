@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-27.md",
-                "mode": "source",
+                "file": "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-27"
+              "title": "Folder Structure"
             }
           }
         ]
@@ -238,11 +238,14 @@
   },
   "active": "5222fa0f3ea0ec53",
   "lastOpenFiles": [
-    "@coding_notes/How to commit.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML basic structure and tags.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
+    "@coding_notes/@01 » HTML & CSS/Folder Structure.md",
     "@coding_notes/how to rebase commit.md",
+    "@coding_notes/How to commit.md",
+    "Journal/Daily_Notes/2025-05-27.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
-    "Journal/Daily_Notes/2025-05-27.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists (ES).md",
     "Journal/Daily_Notes/2025-05-26.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 6 - WWW, Kernel, ASP/Chapter 6 - Question Lists.md",
@@ -261,9 +264,6 @@
     "@diit_6th_semester/CSE-530221 » Computer Network/Mid question list.md",
     "@self_dscipline/🧠 Building Self-Discipline.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 009 » What is protocol. What are the key elements of protocols.md",
-    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 010 » What are the key elements of protocols.md",
-    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 007 » Draw a hybrid topology with a star backbone and a star backbone and four ring networks.md",
-    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 006 » Discuss different types of network topologies.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/96fe0be1f5e8f2e6cfbc6d6cd8950f34.jpg",
     "@coding_notes/@01 » HTML & CSS/Responsive Design",
     "@coding_notes/@01 » HTML & CSS/CSS3",
