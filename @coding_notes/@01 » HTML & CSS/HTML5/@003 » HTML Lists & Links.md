@@ -18,6 +18,8 @@
     - `href` → target link URL    
     - `target="_blank"` → opens in new tab  
 
+---
+
 🔗 **Practice code**: https://github.com/sumayaakter533/Frontend-Bootcamp/blob/0ee68835872f49bcdf0fc4f3b0dd717cdc7cf238/html-css/html/03-lists-and-links.html
 
 ```ad-todo

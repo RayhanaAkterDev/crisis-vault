@@ -18,6 +18,8 @@
 - `<textarea>` → Multi-line input box for messages    
 - `<button>` → Creates the submit button    
 
+---
+
 🔗 **Practice code**: https://github.com/sumayaakter533/Frontend-Bootcamp/blob/ecb92007214197672eaac99626746b1db5f78b89/html-css/html/06-forms.html
 
 ```ad-todo

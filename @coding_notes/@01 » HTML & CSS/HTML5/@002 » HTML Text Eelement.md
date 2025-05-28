@@ -14,6 +14,8 @@
 - `<br>` → Line break.    
 - `<hr>` → Horizontal rule (section break).
 
+---
+
 🔗 **Practice code**: https://github.com/sumayaakter533/Frontend-Bootcamp/blob/0ee68835872f49bcdf0fc4f3b0dd717cdc7cf238/html-css/html/02-text-elements.html
 
 ```ad-todo
