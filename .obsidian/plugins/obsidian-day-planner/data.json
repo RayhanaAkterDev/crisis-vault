@@ -20,7 +20,7 @@
   "defaultDurationMinutes": 30,
   "minimalDurationMinutes": 10,
   "showTimestampInTaskBlock": true,
-  "showUncheduledTasks": true,
+  "showUncheduledTasks": false,
   "showUnscheduledNestedTasks": true,
   "showNow": true,
   "showNext": true,
