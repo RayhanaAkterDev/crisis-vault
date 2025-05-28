@@ -24,31 +24,44 @@
 
 - No closing tag, just a single tag.    
 - Often used for media, line breaks, or metadata.    
-- Example: `<img />`, `<br />`, `<hr />`, `<input />`    
+- Example:
 	- `<img />`    
-	- `<br />`
-    
-- `<hr />`
-    
-- `<input />`
+	- `<br />`    
+	- `<hr />`    
+	- `<input />`
 
 ### 3. Block-Level Tags
 
 - Start on a new line and take full width.    
 - Used for layout and sections.    
-- Example: `<div>`, `<p>`, `<h1>`, `<section>`, `<article>`    
+- Example: 
+	- - `<div>...</div>`    
+	- `<p>...</p>`    
+	- `<h1>...</h1>`    
+	- `<section>...</section>`    
+	- `<article>...</article>`
 
 ### 4. Inline Tags
 
 - Flow within text without breaking line.    
 - Used for formatting small parts of content.    
-- Example: `<span>`, `<a>`, `<strong>`, `<em>`    
+- Example: 
+	- `<span>...</span>`    
+	- `<a>...</a>`    
+	- `<strong>...</strong>`    
+	- `<em>...</em>`
 
 ### 5. Semantic Tags
 
 - Describe the meaning of content clearly.    
 - Improve accessibility and SEO.    
-- Example: `<header>`, `<nav>`, `<footer>`, `<main>`, `<article>`, `<section>`    
+- Example: 
+	- `<header>...</header>`    
+	- `<nav>...</nav>`    
+	- `<footer>...</footer>`    
+	- `<main>...</main>`    
+	- `<article>...</article>`    
+	- `<section>...</section>`
 
 ### 6. Deprecated Tags
 
