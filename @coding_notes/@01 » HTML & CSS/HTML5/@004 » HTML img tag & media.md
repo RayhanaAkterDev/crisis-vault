@@ -28,5 +28,17 @@
 
 **Practice code link**:  https://github.com/sumayaakter533/Frontend-Bootcamp/blob/58fd25c3a3ce5c0542e81713638b0e40e5564af5/html-css/html/04-images-and-media.html
 
-```ad-
+```ad-todo
+title: Demo code output
+
+<img src="photo-demo.avif" alt="Local Photo" />
+<audio controls>
+  <source src="song.mp3" type="audio/mp3" />
+</audio>
+<video src="video.mp4" controls></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CFiCdpnn-jo?si=uoUpnZQQbPIjcfGr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
+
+---
+
+> 🧠 _Tip_: Use `alt` for accessibility, and make sure your media paths are correct (relative or absolute).

@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c348a07f5d96c3b8",
+        "id": "bdb199060d6d9159",
         "type": "tabs",
         "children": [
           {
-            "id": "a954d2e6c6744185",
+            "id": "ee6c6d01cfd45b33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "@001 » HTML Basic Structure"
-            }
-          },
-          {
-            "id": "eb497f0d0e58375e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@002 » HTML Text Eelement.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@002 » HTML Text Eelement"
-            }
-          },
-          {
-            "id": "e3e733086bac741f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@004 » HTML img tag & media.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@004 » HTML img tag & media"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,11 +232,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e3e733086bac741f",
+  "active": "ee6c6d01cfd45b33",
   "lastOpenFiles": [
-    "Journal/Daily_Notes/2025-05-28.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@004 » HTML img tag & media.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@002 » HTML Text Eelement.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/photo-demo.avif",
+    "Journal/Daily_Notes/2025-05-28.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@003 » HTML Lists & Links.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
     "@coding_notes/How to commit.md",
@@ -292,7 +260,6 @@
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 4 - Web server and API/Chapter 4 - Question Lists.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 005 » Define topology. Discuss different types of network topologies..md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Non-Chapter Questions.md",
-    "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 7 - XML/Chapter 7 - Question Lists.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/96fe0be1f5e8f2e6cfbc6d6cd8950f34.jpg",
     "@coding_notes/@01 » HTML & CSS/Responsive Design",
     "@coding_notes/@01 » HTML & CSS/CSS3",
@@ -312,7 +279,6 @@
     "@self_dscipline/@attachment/497581101_122228334812240244_3212243682799661590_n.jpg",
     "@self_dscipline/@attachment/497955622_122160979856503043_3513902695446083502_n.jpg",
     "@self_dscipline/@attachment/497471466_122228336474240244_1437163668653820512_n.jpg",
-    "Journal/Daily_Notes/Pasted image 20250517085849.png",
     "@diit_6th_semester/CSE-530219 » Software Engineering/601 - Software Engineering.canvas",
     "Untitled.canvas"
   ]
