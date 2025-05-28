@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fbdbc5b9be9f163c",
+        "id": "c348a07f5d96c3b8",
         "type": "tabs",
         "children": [
           {
-            "id": "d7cfc30d0734007c",
+            "id": "a954d2e6c6744185",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@coding_notes/How to commit.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "How to commit"
+              "title": "New tab"
             }
           }
         ]
@@ -236,10 +232,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d7cfc30d0734007c",
+  "active": "a954d2e6c6744185",
   "lastOpenFiles": [
     "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@002 » HTML Text Eelements.md",
+    "@coding_notes/How to commit.md",
     "@coding_notes/How should I learn.md",
     "Journal/Daily_Notes/2025-05-28.md",
     "Journal/Daily_Notes/2025-05-27.md",
@@ -249,7 +246,6 @@
     "@coding_notes/Remaining Tasks.md",
     "@coding_notes/how to rebase commit.md",
     "@coding_notes/Documentation Comments in Code.md",
-    "@coding_notes/How to commit.md",
     "Journal/Daily_Notes/2025-05-26.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
