@@ -14,13 +14,17 @@
 - `<br>` → Line break.    
 - `<hr>` → Horizontal rule (section break).
 
-```html
+🔗 **Practice code**: https://github.com/sumayaakter533/Frontend-Bootcamp/blob/0ee68835872f49bcdf0fc4f3b0dd717cdc7cf238/html-css/html/02-text-elements.html
+
+```ad-todo
+title: Code example with output
+
 <h1>Main Heading</h1>
 <p>This is a paragraph.</p>
 <strong>Important</strong>
 <em>emphasized</em>
-<br> line break.
 <hr>
+<br> line break.	
 ```
 
 ---
