@@ -20,6 +20,8 @@
 🔗 **Practice code**: https://github.com/sumayaakter533/Frontend-Bootcamp/blob/aeb097cdbd44b5218bbc854276d5c5f1a7f12ec3/html-css/html/09-accessibility-demo.html
 
 ```ad-todo
+title: Demo code output
+
 <!-- Image with alt text -->
 <img src="logo.png" alt="Company Logo" />
 
