@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-28.md",
+                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-28"
+              "title": "@002 »"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,11 +263,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b7fa56370f704afb",
+  "active": "5222fa0f3ea0ec53",
   "lastOpenFiles": [
-    "@coding_notes/How should I learn.md",
-    "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
     "Journal/Daily_Notes/2025-05-28.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
+    "@coding_notes/How should I learn.md",
     "@coding_notes/@01 » HTML & CSS/📂 Folder Structure.md",
     "@coding_notes/What to do one by one.md",
     "@coding_notes/Remaining Tasks.md",
@@ -277,7 +277,6 @@
     "@coding_notes/How to commit.md",
     "Journal/Daily_Notes/2025-05-27.md",
     "Journal/Daily_Notes/2025-05-26.md",
-    "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 3 - Active X/Chapter 3 - Question Lists.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 1 - Introduction to Embedded System/Chapter 1 - Question Lists (ES).md",
