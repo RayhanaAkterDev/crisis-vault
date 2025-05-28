@@ -1,14 +1,23 @@
 # 📄 Topic: HTML Basic Structure
 
 - HTML » _Hypertext Markup Language_.
-- Used to build structure/layout of web pages.
+- Used to build structure/layout (*not logic or behavior*) of web pages.
 - Not a programming language — but a **markup** language.
-	- *Markup language is used to define content structure, not logic or behavior.*
 
 ---
 
-## 🧱 Code Structure
+## 🔍 Key Tags & Purpose
 
+- `<!DOCTYPE html>` → Declares document type — HTML5 version.
+- `<html>` → Root container of the document.
+	- `<html lang="en">` - Sets page language (here, English).
+- `<head>` → Metadata *(like title, character encoding, and viewport settings)* not visible on page
+- `<meta>` → Encoding + responsiveness
+	- `<meta charset="UTF-8">` – Ensures proper character display.   
+	- `<meta name="viewport" content="width=device-width, initial-scale=1.0">` – Makes the layout responsive on mobile devices.
+- `<title>` → Title in browser tab.
+- `<body>` → Visible page content.
+  
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -25,20 +34,6 @@
   </body>
 </html>
 ```
-
----
-
-### 🔍 Key Tags & Purpose
-
-- `<!DOCTYPE html>` → Declares document type *(HTML5 version)*.
-- `<html>` → Root container of the document.
-	- `<html lang="en">` - Sets page language (here, English).
-- `<head>` → Metadata *(like title, character encoding, and viewport settings)* not visible on page
-- `<meta>` → Encoding + responsiveness
-	- `<meta charset="UTF-8">` – Ensures proper character display.   
-	- `<meta name="viewport" content="width=device-width, initial-scale=1.0">` – Makes the layout responsive on mobile devices.
-- `<title>` → Title in browser tab.
-- `<body>` → Visible page content.
 
 ---
 
