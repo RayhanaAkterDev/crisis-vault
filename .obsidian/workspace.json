@@ -8,49 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee6c6d01cfd45b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@004 » HTML img tag & media.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@004 » HTML img tag & media"
-            }
-          },
-          {
-            "id": "9a99a1b2b172f027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@005 » HTML Tables.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@005 » HTML Tables"
-            }
-          },
-          {
             "id": "985b2644b7ebcf2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@006 » HTML forms.md",
+                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@007 » HTML Semantic Accessibility.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@006 » HTML forms"
+              "title": "@007 » HTML Semantic Accessibility"
+            }
+          },
+          {
+            "id": "600907beff0db903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@007 » HTML Semantic Accessibility.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "@007 » HTML Semantic Accessibility"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,9 +255,10 @@
     "@coding_notes/@01 » HTML & CSS/HTML5/@005 » HTML Tables.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@006 » HTML forms.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@004 » HTML img tag & media.md",
-    "@coding_notes/@01 » HTML & CSS/HTML5/@003 » HTML Lists & Links.md",
-    "@coding_notes/@01 » HTML & CSS/HTML5/@002 » HTML Text Eelement.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@002 » HTML Text Eelement.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@003 » HTML Lists & Links.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@007 » HTML Semantic Accessibility.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/photo-demo.avif",
     "Journal/Daily_Notes/2025-05-28.md",
     "@coding_notes/How to commit.md",
@@ -293,7 +279,6 @@
     "Journal/Daily_Notes/2025-05-25.md",
     "Journal/Daily_Notes/2025-05-24.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 4 - Web server and API/Chapter 4 - Question Lists.md",
-    "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/📘 005 » Define topology. Discuss different types of network topologies..md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/96fe0be1f5e8f2e6cfbc6d6cd8950f34.jpg",
     "@coding_notes/@01 » HTML & CSS/Responsive Design",
     "@coding_notes/@01 » HTML & CSS/CSS3",

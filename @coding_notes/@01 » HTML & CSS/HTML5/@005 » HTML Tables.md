@@ -15,7 +15,7 @@
 - `<th>` → Table header cell (bold + centered by default)    
 - `<td>` → Table data cell (normal cell)    
 
-**Practice code link**: https://github.com/sumayaakter533/Frontend-Bootcamp/blob/58fd25c3a3ce5c0542e81713638b0e40e5564af5/html-css/html/05-tables.html
+🔗 **Practice code**: https://github.com/sumayaakter533/Frontend-Bootcamp/blob/58fd25c3a3ce5c0542e81713638b0e40e5564af5/html-css/html/05-tables.html
 
 ```ad-todo
 title: Demo code output
