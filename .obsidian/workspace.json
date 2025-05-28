@@ -11,13 +11,32 @@
             "id": "a954d2e6c6744185",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "@001 » HTML Basic Structure"
+            }
+          },
+          {
+            "id": "eb497f0d0e58375e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@003 » HTML Lists & Links.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "@003 » HTML Lists & Links"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,10 +251,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a954d2e6c6744185",
+  "active": "eb497f0d0e58375e",
   "lastOpenFiles": [
+    "@coding_notes/@01 » HTML & CSS/HTML5/@002 » HTML Text Eelement.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@003 » HTML Lists & Links.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
-    "@coding_notes/@01 » HTML & CSS/HTML5/@002 » HTML Text Eelements.md",
     "@coding_notes/How to commit.md",
     "@coding_notes/How should I learn.md",
     "Journal/Daily_Notes/2025-05-28.md",
@@ -259,7 +279,6 @@
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Non-Chapter Questions.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 7 - XML/Chapter 7 - Question Lists.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 5 - Multithread, XSLT/Chapter 5 - Question Lists.md",
-    "@diit_6th_semester/CSE-530221 » Computer Network/CSE-530221 » Computer Network.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/96fe0be1f5e8f2e6cfbc6d6cd8950f34.jpg",
     "@coding_notes/@01 » HTML & CSS/Responsive Design",
     "@coding_notes/@01 » HTML & CSS/CSS3",
