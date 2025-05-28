@@ -15,7 +15,7 @@
 - `<dt>` → Term (inside `<dl>`).    
 - `<dd>` → Description (inside `<dl>`).    
 - `<a>` → Anchor tag, creates a hyperlink.    
-    - `href` → target link URL    
+    - `href` → target link URL (hypertext reference link)
     - `target="_blank"` → opens in new tab  
 
 ---
