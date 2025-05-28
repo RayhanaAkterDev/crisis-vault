@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@coding_notes/How to commit.md",
+                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to commit"
+              "title": "@001 » HTML Basic Structure"
+            }
+          },
+          {
+            "id": "908cd4dca513114b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@010 » HTML Tag Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "@010 » HTML Tag Types"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,22 +251,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8f0b057ce8fea9f9",
+  "active": "908cd4dca513114b",
   "lastOpenFiles": [
+    "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@010 » HTML Tag Types.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/Untitled 1.md",
+    "@coding_notes/How to commit.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@007 » HTML Semantic Accessibility.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@009 » HTML Accessibility.md",
     "Journal/Daily_Notes/2025-05-28.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@008 » HTML Block VS Inline Elements.md",
     "@coding_notes/@01 » HTML & CSS/@attachments",
-    "@coding_notes/@01 » HTML & CSS/HTML5/Untitled.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@003 » HTML Lists & Links.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@002 » HTML Text Eelement.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@006 » HTML forms.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@005 » HTML Tables.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@004 » HTML img tag & media.md",
-    "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
     "@coding_notes/@01 » HTML & CSS/@attachments/photo-demo.avif",
-    "@coding_notes/How to commit.md",
     "@coding_notes/How should I learn.md",
     "Journal/Daily_Notes/2025-05-27.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/hover-note.md",
