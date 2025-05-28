@@ -1,3 +1,0 @@
-- HTML - Hypertext Markup Language. 
-- Not a programming language but a core language that is used to design the structure of the (contents of web pages.
-- 

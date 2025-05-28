@@ -251,7 +251,7 @@
   "Editor@@img-center-align": true,
   "Editor@@img-darken": true,
   "Editor@@zoom-off": true,
-  "Editor@@codeblock-style-select": "codeblock-style-one-dark",
+  "Editor@@codeblock-style-select": "codeblock-style-dracula",
   "Editor@@seamless-embeds": true,
   "Editor@@callout-content-radius": "4px",
   "Components@@setting-item-title-icon-remove": false,
