@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -42,14 +42,15 @@
               "type": "markdown",
               "state": {
                 "file": "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "@002 »"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,14 +265,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5222fa0f3ea0ec53",
+  "active": "841abf22d726c3eb",
   "lastOpenFiles": [
-    "Journal/Daily_Notes/2025-05-27.md",
-    "Journal/Daily_Notes/2025-05-28.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
-    "@coding_notes/@01 » HTML & CSS/HTML5/hover-note.md",
-    "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
     "@coding_notes/How should I learn.md",
+    "Journal/Daily_Notes/2025-05-28.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@002 ».md",
+    "Journal/Daily_Notes/2025-05-27.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/hover-note.md",
     "@coding_notes/@01 » HTML & CSS/📂 Folder Structure.md",
     "@coding_notes/What to do one by one.md",
     "@coding_notes/Remaining Tasks.md",

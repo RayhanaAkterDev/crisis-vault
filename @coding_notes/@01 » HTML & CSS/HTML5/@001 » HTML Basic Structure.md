@@ -3,6 +3,7 @@
 - HTML » _Hypertext Markup Language_.
 - Used to build structure/layout of web pages.
 - Not a programming language — but a **markup** language.
+	- *Markup language is used to define content structure, not logic or behavior.*
 
 ---
 
@@ -19,6 +20,8 @@
   </head>
   <body>
     <!-- Main content -->
+    <h1>Hello, World!</h1>
+    <p>This is a basic HTML5 document.</p>
   </body>
 </html>
 ```
@@ -27,7 +30,7 @@
 
 ### 🔍 Key Tags & Purpose
 
-- `<!DOCTYPE html>` → Declares HTML5 version *(document type)*.
+- `<!DOCTYPE html>` → Declares document type *(HTML5 version)*.
 - `<html>` → Root container of the document.
 	- `<html lang="en">` - Sets page language (here, English).
 - `<head>` → Metadata *(like title, character encoding, and viewport settings)* not visible on page
