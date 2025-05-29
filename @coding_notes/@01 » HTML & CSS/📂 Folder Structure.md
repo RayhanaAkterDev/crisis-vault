@@ -1,7 +1,7 @@
 # 📂 Detailed Folder Structure (with Topics)
 
 ```cpp
-frontend-foundations/
+frontend-bootcamp/
 └── html-css/
     ├── html/
 	│   ├── 01-basic-structure.html         # doctype, head/body, elements
@@ -9,7 +9,8 @@ frontend-foundations/
     │   ├── 03-lists-and-links.html         # ul, ol, a (anchor tag)
     │   ├── 04-images-and-media.html        # img, audio, video, iframe
     │   ├── 05-tables.html                  # table, tr, th, td
-    │   ├── 06-forms.html                   # input types, labels, buttons
+    │   ├── 06-forms.html                  # input types, labels, buttons
+    │   ├── 06.1-advanced-form-elements.html   # input types, validation, fieldset, etc.
     │   ├── 07-semantic-tags.html           # header, footer, nav, main, article, section
     │   ├── 08-block-and-inline-elements.html # div, span, block vs inline behavior
     │   ├── 09-accessibility-demo.html      # alt text, labels, ARIA roles, screen readers

@@ -6,17 +6,25 @@
 
 ---
 
-## ✅ HTML5 Semantic Structure
+## ✅ HTML5 Elements, Structure & Accessibility
 **Deadline:** 20 May 2025 → 24 May 2025 (5 days)
 
 ### 🎯 Learning Topics:
-- Semantic tags: `<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`    
-- Form elements: `<form>`, `<input>`, `<label>`, `<button>`    
-- Accessibility basics: alt text, heading order, label association    
+
+- **Core Elements**: Headings, paragraphs, links, images, tables, etc.    
+- **Semantic Structure**: `<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`, `<article>`    
+- **Forms (Basic)**: `<form>`, `<input>`, `<label>`, `<button>`    
+- **Forms (Advanced)**: Input types (`email`, `number`, `range`, etc.), `required`, `pattern`, `min`, `max`, `maxlength`, `<fieldset>`, `<legend>`    
+- **Accessibility**: alt text, label association, heading order, `aria-*` roles    
 
 ### 🧩 Mini Tasks:
-- Build a basic blog layout using only semantic tags.    
-- Add a contact form with proper labels and accessibility features.    
+
+- Build a basic blog layout using semantic tags    
+- Add a contact form with proper labels and validation    
+- Use fieldset and legends for form grouping    
+- Explore input types by building a sample feedback form    
+- Observe form behavior with/without required inputs    
+- Practice using screen reader tools or `aria` attributes
 
 ---
 
