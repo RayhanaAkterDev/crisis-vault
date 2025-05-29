@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/daily_template.md",
+                "file": "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily_template"
+              "title": "Phase 1 - Frontend Core Foundations"
             }
           }
         ]
@@ -229,8 +229,7 @@
               "title": "🧠 Building Self-Discipline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,17 +251,20 @@
   },
   "active": "8f0b057ce8fea9f9",
   "lastOpenFiles": [
-    "Templates/daily_template.md",
+    "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
+    "@coding_notes/Documentation Comments in Code.md",
+    "@coding_notes/@01 » HTML & CSS/📂 Folder Structure.md",
+    "@coding_notes/What to do one by one.md",
+    "@coding_notes/How should I learn.md",
+    "@coding_notes/Remaining Tasks.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
     "Journal/Daily_Notes/2025-05-29.md",
+    "Templates/daily_template.md",
     "Journal/Daily_Notes/2025-05-28.md",
     "@coding_notes/How to commit.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@004 » HTML img tag & media.md",
     "@coding_notes/@01 » HTML & CSS/@attachments/lukasz-rawa-cv7Aes8qmb0-unsplash.jpg",
     "@coding_notes/@01 » HTML & CSS/HTML5/@003 » HTML Lists & Links.md",
-    "@coding_notes/How should I learn.md",
-    "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
-    "@coding_notes/@01 » HTML & CSS/📂 Folder Structure.md",
-    "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@010 » HTML Tag Types.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/Untitled 1.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@007 » HTML Semantic Accessibility.md",
@@ -275,10 +277,7 @@
     "@coding_notes/@01 » HTML & CSS/@attachments/photo-demo.avif",
     "Journal/Daily_Notes/2025-05-27.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/hover-note.md",
-    "@coding_notes/What to do one by one.md",
-    "@coding_notes/Remaining Tasks.md",
     "@coding_notes/how to rebase commit.md",
-    "@coding_notes/Documentation Comments in Code.md",
     "Journal/Daily_Notes/2025-05-26.md",
     "@diit_6th_semester/CSE-530223 » Embedded System Programming/Chapter 2 - System Programming/Chapter 2 - Question Lists.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/96fe0be1f5e8f2e6cfbc6d6cd8950f34.jpg",
