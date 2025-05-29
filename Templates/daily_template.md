@@ -10,21 +10,24 @@ title: End Goal » 2026 Vision ✨
 ```
 
 ---
-## 🌸Today’s Tasks:
+## ✅ Focus Areas for Today
 
-> [!todo] Tasks List
-> - [ ] 9:00 AM - 10:00 AM 
-> - [ ] 6:00 PM - 8:00 PM 
+> [!todo] Personal & Coding Goals
+> - [ ] Take Medicines
+> 	- [ ] After breakfast
+> 	- [ ] After dinner
+> - [ ] Do exercise for 10 min
 > ---
-> - [ ] **Coding Tasks**:
-> 	- [ ] Task-1
-> 	- [ ] Task-2
+> - [ ] 💻 **Coding Milestones**:
+> 	- [ ] @task-1 » 
+> 	- [ ] @task-2 » 
+> 	- [ ] @task-3 » 
 > ---
-> - [ ] Watch a motivational video.
-> - [ ] Write today's daily reflection. 
+> - [ ] Watch a motivational video 🎥
+> - [ ] Write today's daily reflection 📝
 
 ---
-## 🌻 Daily Reflection & Quote
+## 🌻 Evening Reflection & Quote
 
 ```ad-summary
 title: Daily Reflection
@@ -39,5 +42,5 @@ title: Daily Reflection
 
 ```ad-quote
 title: Quote of the day
-> Give at least 6-8 hours for coding everyday — Most prioritized work
+Give at least 6-8 hours for coding everyday — Most prioritized work
 ``` 
