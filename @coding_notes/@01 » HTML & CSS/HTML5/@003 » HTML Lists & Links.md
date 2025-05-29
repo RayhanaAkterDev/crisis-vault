@@ -36,6 +36,10 @@ title: Demo code output
 <a href="https://example.com" target="_blank">Visit Example</a>
 ```
 
+![[Pasted image 20250529133257.png]]
+
+![[Pasted image 20250529133326.png]]
+
 ---
 
 > 🧠 _Tip_: Use `<dl>` for term–definition pairs like glossaries or FAQs.  
