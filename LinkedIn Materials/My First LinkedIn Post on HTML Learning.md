@@ -1,32 +1,22 @@
-### 📝 Draft: HTML Learning Summary Post
+👋 **Hello LinkedIn! I'm officially starting my Web Development Journey!** 🚀
 
-Here's a first version you can edit or post once your LinkedIn is ready:
+I’m Rayhana Akter Sumaya — a CSE student with a strong passion for building beautiful, accessible websites. I’ve just completed the **HTML Fundamentals** phase of my learning, and I wanted to mark this milestone by sharing my progress publicly.
 
----
+📚 So far, I’ve learned to:
 
-🌐 **HTML Fundamentals: My First Frontend Milestone!**
+- Structure web pages using clean, semantic HTML    
+- Work with text, lists, links, images, and media    
+- Build forms with validation and accessibility    
+- Understand block vs inline elements and HTML entities
 
-As part of my frontend journey, I’ve completed the full core of HTML. This phase helped me understand how websites are structured and how content is presented meaningfully and accessibly.
+🔧 Behind the scenes:
 
-✅ Topics I’ve covered:
+- I’ve kept organized notes in Obsidian    
+- Practiced each topic with mini projects    
+- Documented everything in a GitHub repo    
 
-- Basic HTML document structure (`<!DOCTYPE>`, `<head>`, `<body>`)    
-- Text formatting using headings, paragraphs, span    
-- Lists and links (unordered, ordered, anchor tags)    
-- Media elements: images, audio, video, iframe    
-- HTML tables for displaying structured data    
-- Forms and advanced form elements with validation    
-- Semantic tags like `<header>`, `<nav>`, `<main>`, etc.    
-- Block vs inline elements    
-- Accessibility basics (alt text, labels, ARIA)    
-- HTML entities like `&lt;`, `&copy;`, and more    
+🎯 **Next Step**: CSS Foundations — layouts, styling, and responsiveness!
 
-🧠 For each topic, I:
+This is just the beginning. I’m here to **learn, grow, and connect** with the tech community. If you're also learning frontend, feel free to connect — let’s grow together! 💬
 
-- Took notes in Obsidian in my own words    
-- Practiced by building small demos and components    
-- Organized everything in my GitHub repo    
-
-🎯 Next up: CSS fundamentals!
-
-#frontend #webdevelopment #html #codingjourney #100DaysOfCode #learntocode #cse
+#webdevelopment #frontend #html #cse #codingjourney #100DaysOfCode #learntocode #womenintech

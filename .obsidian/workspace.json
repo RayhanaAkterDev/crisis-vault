@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "My First LinkedIn Post on HTML Learning"
             }
+          },
+          {
+            "id": "a2dde0ea3701cfdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinkedIn Materials/Tasks to do before post the post.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks to do before post the post"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "d42fce614bffbe12",
@@ -235,10 +250,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cf92349f6e345c05",
+  "active": "a2dde0ea3701cfdb",
   "lastOpenFiles": [
-    "Journal/Daily_Notes/Untitled.md",
     "LinkedIn Materials/My First LinkedIn Post on HTML Learning.md",
+    "LinkedIn Materials/Tasks to do before post the post.md",
+    "Journal/Daily_Notes/Untitled.md",
     "@coding_notes/What to do one by one.md",
     "LinkedIn Materials",
     "@coding_notes/How should I learn.md",
@@ -273,7 +289,6 @@
     "@coding_notes/@01 » HTML & CSS/HTML5/@002 » HTML Text Eelement.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@005 » HTML Tables.md",
     "@coding_notes/@01 » HTML & CSS/@attachments/photo-demo.avif",
-    "Journal/Daily_Notes/2025-05-27.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/96fe0be1f5e8f2e6cfbc6d6cd8950f34.jpg",
     "@coding_notes/@01 » HTML & CSS/Responsive Design",
     "@coding_notes/@01 » HTML & CSS/CSS3",
