@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@coding_notes/@01 » HTML & CSS/📂 Folder Structure.md",
+                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@006 » HTML forms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "@006 » HTML forms"
+            }
+          },
+          {
+            "id": "f475ddcf5db66b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@coding_notes/@01 » HTML & CSS/HTML5/@006.1 » Advanced Forms Elements & Validation.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📂 Folder Structure"
+              "title": "@006.1 » Advanced Forms Elements & Validation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +209,7 @@
               "type": "markdown",
               "state": {
                 "file": "Journal/Daily_Notes/2025-05-29.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -236,11 +251,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9131443bd6880014",
+  "active": "f475ddcf5db66b15",
   "lastOpenFiles": [
-    "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
-    "@coding_notes/@01 » HTML & CSS/📂 Folder Structure.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@006 » HTML forms.md",
+    "@coding_notes/@01 » HTML & CSS/HTML5/@006.1 » Advanced Forms Elements & Validation.md",
     "Journal/Daily_Notes/2025-05-29.md",
+    "@coding_notes/@01 » HTML & CSS/📂 Folder Structure.md",
+    "@Coding_WebDev_JobPrep/Phase 1 - Frontend Core Foundations.md",
     "@self_dscipline/🧠 Building Self-Discipline.md",
     "Journal/Daily_Notes/2025-05-28.md",
     "Templates/daily_template.md",
@@ -260,13 +277,11 @@
     "@coding_notes/@01 » HTML & CSS/HTML5/@008 » HTML Block VS Inline Elements.md",
     "@coding_notes/@01 » HTML & CSS/@attachments",
     "@coding_notes/@01 » HTML & CSS/HTML5/@002 » HTML Text Eelement.md",
-    "@coding_notes/@01 » HTML & CSS/HTML5/@006 » HTML forms.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@005 » HTML Tables.md",
     "@coding_notes/@01 » HTML & CSS/@attachments/photo-demo.avif",
     "Journal/Daily_Notes/2025-05-27.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/hover-note.md",
     "@coding_notes/how to rebase commit.md",
-    "Journal/Daily_Notes/2025-05-26.md",
     "@diit_6th_semester/CSE-530221 » Computer Network/Chapter 1 - Introduction/96fe0be1f5e8f2e6cfbc6d6cd8950f34.jpg",
     "@coding_notes/@01 » HTML & CSS/Responsive Design",
     "@coding_notes/@01 » HTML & CSS/CSS3",
