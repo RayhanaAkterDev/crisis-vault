@@ -32,6 +32,10 @@
 <span>Demo inline</span>
 ```
 
+![[Pasted image 20250529132722.png]]
+
+![[Pasted image 20250529132806.png]]
+
 ---
 
 > 🧠 _Tip_: Use **block** tags to structure layout, and **inline** tags for styling small parts inside text.
