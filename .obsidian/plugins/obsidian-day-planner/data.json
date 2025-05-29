@@ -8,7 +8,7 @@
   "startHour": 0,
   "timelineDateFormat": "YYYY-MM-DD",
   "centerNeedle": false,
-  "plannerHeading": "🌸 Today’s Missions:",
+  "plannerHeading": "🎯 Today’s Tasks:",
   "plannerHeadingLevel": 3,
   "timelineColored": true,
   "timelineStartColor": "#006466",
