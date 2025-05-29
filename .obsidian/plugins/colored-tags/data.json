@@ -24,7 +24,14 @@
     "ch3": 12,
     "ch1": 13,
     "ch2": 14,
-    "phero": 15
+    "phero": 15,
+    "frontend": 16,
+    "webdevelopment": 17,
+    "html": 18,
+    "codingjourney": 19,
+    "100DaysOfCode": 20,
+    "learntocode": 21,
+    "cse": 22
   },
   "_version": 3
 }
