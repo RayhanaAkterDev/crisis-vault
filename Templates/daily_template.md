@@ -3,10 +3,13 @@
 Week No. [[Journal/Weekly_Dashboard/<%moment(tp.file.title).format("gggg-[W]ww")%>|<%moment(tp.file.title).format("gggg-[W]ww")%>]]
 **[[Journal/Daily_Notes/<% moment(tp.file.title, "YYYY-MM-DD").subtract(1, "days").format("YYYY-MM-DD") %>|⏪ Yesterday]] ⏩ [[Journal/Daily_Notes/<% moment(tp.file.title, "YYYY-MM-DD").add(1, "days").format("YYYY-MM-DD") %>|Tomorrow]]**
 
-## ✨ Focus of the Day:  
-> *(e.g., Study, Self-care, Rest)*
+## ✨ End Goal » 2026 Vision
 
+> - ["] Become a better version of myself by December 2026 — skilled, confident, and job-ready.
+
+---
 ## 🌸 Today’s Missions:
+
 - [ ] **Task 1** – *(e.g., Study math for 1 hour)*
 - [ ] **Task 2** – *(e.g., Walk for 10 mins)*
 - [ ] **Task 3** – *(e.g., Take vitamins)*
@@ -15,14 +18,33 @@ Week No. [[Journal/Weekly_Dashboard/<%moment(tp.file.title).format("gggg-[W]ww")
 
 ---
 
-### ✨ Daily Reminder:  
->"Today's small victories will build tomorrow's big dreams. Finish what you started."
+```ad-attention
+title: Learning Steps ⚡⚡⚡
+- Understand the concept
+- Write a short note on the topic
+- Do a small code practice
+- Reflect on Learning Topics.
+```
 
->"When you say you’ll do something — do it.  
-Every task is a promise.  
-The more promises you keep, the more your brain learns: _I can trust you._  
-And trust builds confidence.  
-Confidence becomes unstoppable energy."
+
+---
+## 🌸 Daily Reflection
+
+```ad-summary
+title: Daily Reflection
+
+- [?] What went well today?  
+- [?] What did I learn today?  
+- [?] Did I complete all the tasks?  
+- [?] What can I improve tomorrow?  
+- [?] Did I make progress toward my goal?  
+
+```
+
 
 ---
 
+```ad-quote
+title: Quote of the day
+> Give at least 6-8 hours for coding everyday — Most prioritized work.
+``` 
