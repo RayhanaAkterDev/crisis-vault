@@ -18,15 +18,18 @@ frontend-bootcamp/
     │   └── cheatsheet.md                   # HTML quick notes
 
     ├── css/
-    │   ├── 01-selectors-and-specificity.css   # element, class, id, grouping
-    │   ├── 02-box-model.css                  # margin, padding, border
-    │   ├── 03-typography.css                 # fonts, colors, text styles
-    │   ├── 04-backgrounds-borders.css        # background-color, images, gradients
-    │   ├── 05-positioning.css                # static, relative, absolute, fixed
-    │   ├── 06-display-visibility.css         # display, visibility, z-index
-    │   ├── 07-pseudo-classes.css             # hover, active, nth-child, etc.
-    │   ├── 08-universal-reset.css            # normalize/reset CSS
-    │   └── cheatsheet.md                     # CSS quick notes
+	│   ├── 01-intro-to-css.css          # CSS syntax, comments, types (inline, internal, external)
+	│   ├── 02-selectors-and-specificity.css     # element, class, id, grouping, specificity
+	│   ├── 03-pseudo-classes-and-elements.css   # hover, active, first-child, before, after
+	│   ├── 04-units-and-measurements.css        # px, em, rem, %, vh, vw
+	│   ├── 05-box-model.css                     # content, padding, border, margin
+	│   ├── 06-typography.css            # font-family, font-size, color, line-height, text-align
+	│   ├── 07-backgrounds-and-borders.css     # background-color, images, gradients, border styles
+	│   ├── 08-display-and-visibility.css # display (block, inline, none, etc.), visibility, z-index
+	│   ├── 09-positioning.css                   # static, relative, absolute, fixed, sticky
+	│   ├── 10-float-and-clear.css               # float, clear, clearfix (if included in course)
+	│   ├── 11-universal-reset.css               # normalize.css, universal selector reset
+	│   ├── cheatsheet.md                        # Summary notes of all topics
 
     └── responsive-design/
         ├── 01-flexbox-layout.html            # one-directional layout

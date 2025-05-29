@@ -35,8 +35,7 @@
               "title": "2025-05-30"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,10 +235,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a2dde0ea3701cfdb",
+  "active": "8b2287d31dfb4d93",
   "lastOpenFiles": [
-    "@coding_notes/@01 » HTML & CSS/📂 Folder Structure.md",
     "Journal/Daily_Notes/2025-05-30.md",
+    "@coding_notes/@01 » HTML & CSS/📂 Folder Structure.md",
     "Journal/Daily_Notes/2025-05-29.md",
     "Journal/Daily_Notes/2025-05-31.md",
     "Journal/Daily_Notes/2025-05-28.md",
