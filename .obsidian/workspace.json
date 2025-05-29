@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf92349f6e345c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinkedIn Materials/My First LinkedIn Post on HTML Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My First LinkedIn Post on HTML Learning"
-            }
-          },
-          {
             "id": "a2dde0ea3701cfdb",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "2025-05-30"
+            }
+          },
+          {
+            "id": "8d6d87bc090fc543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily_Notes/2025-05-29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-29"
             }
           }
         ],
@@ -246,13 +246,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "task-status:Change Checkbox Status": false
+      "task-status:Change Checkbox Status": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "a2dde0ea3701cfdb",
+  "active": "8d6d87bc090fc543",
   "lastOpenFiles": [
-    "Journal/Daily_Notes/2025-05-29.md",
+    "Templates/daily_template.md",
     "Journal/Daily_Notes/2025-05-30.md",
+    "Journal/Daily_Notes/2025-05-29.md",
     "LinkedIn Materials/Tasks to do before post the post.md",
     "LinkedIn Materials/My First LinkedIn Post on HTML Learning.md",
     "Journal/Daily_Notes/Untitled.md",
@@ -275,7 +277,6 @@
     "@coding_notes/@01 » HTML & CSS/HTML5/@011 » Advanced Forms Elements & Validation.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@006 » HTML forms.md",
     "@self_dscipline/🧠 Building Self-Discipline.md",
-    "Templates/daily_template.md",
     "@coding_notes/Remaining Tasks.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
     "@coding_notes/@01 » HTML & CSS/GitHub/How to commit.md",

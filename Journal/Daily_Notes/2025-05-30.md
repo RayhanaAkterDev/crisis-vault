@@ -14,6 +14,7 @@ title: End Goal » 2026 Vision ✨
 
 > [!todo] Personal & Coding Goals
 > - [ ] Take Medicines
+> 	- [ ] Before breakfast
 > 	- [ ] After breakfast
 > 	- [ ] After dinner
 > - [ ] Do exercise for 10 min
