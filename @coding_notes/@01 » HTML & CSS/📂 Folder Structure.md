@@ -55,16 +55,21 @@ frontend-bootcamp/
 
 ```cpp
 frontend-bootcamp/
-	├── html-css/
-	│   ├── html/                # HTML-only practice
-	│   ├── css/                 # Topic-wise raw CSS files
-	│   ├── css-demos/               # HTML+CSS topic-based practice
-	│   ├── responsive/          # Media queries and layout techniques
-	│   └── images/              # Images, fonts (optional)
-		├── mini-tasks/              # Small challenges (like 1-section layouts)
-		├── projects/                # Full HTML+CSS websites or landing pages
-	├── tailwind/                # Tailwind CSS specific practice	
-		├── projects/                # Full HTML+CSS websites or landing pages
-├── git-github/              # Git basics, commands, workflows
-└── README.md                # Roadmap and section descriptions
+├── html-css/
+│   ├── html/                   # HTML-only practice (semantic tags, forms)
+│   ├── css/                    # Topic-wise raw CSS files (selectors, box model, etc.)
+│   ├── css-demos/              # HTML+CSS topic-based practice (with linked CSS)
+│   ├── responsive/             # Media queries & responsive layout techniques
+│   ├── mini-tasks/             # Small layout challenges (e.g., navbar, card, footer)
+│   ├── projects/               # Full-page HTML+CSS projects (landing pages, etc.)
+│   └── images/                 # Shared assets like images/fonts (used across HTML & CSS)
+│
+├── tailwind/                   # Tailwind CSS-specific practice
+│   ├── basics/                 # Utility class practice (spacing, colors, etc.)
+│   └── projects/               # Tailwind-only landing pages or components
+│
+├── git-github/                 # Git basics, commands, GitHub workflows
+│   └── mini-tasks/             # Git init, commit, branch exercises
+│
+└── README.md                   # Overview, roadmap, and learning sections
 ```
