@@ -39,3 +39,32 @@ frontend-bootcamp/
         ├── 05-mobile-first-practice.html     # responsive layout with breakpoints
         ├── 06-navbar-responsive.html         # responsive navbar demo
         └── notes.md                          # layout strategies & tips
+        
+    └──javascript/
+	│   ├── 01-variables/
+	│   ├── 02-data-types/
+	│   ├── 03-operators/
+	│   ├── 04-conditionals/
+	│   ├── 05-loops/
+	│   ├── 06-functions/
+	│   ├── 07-arrays/
+	│   ├── 08-objects/
+	│   ├── 09-dom-basics/
+	│   └── README.md
+	```
+
+```cpp
+frontend-bootcamp/
+	├── html-css/
+	│   ├── html/                # HTML-only practice
+	│   ├── css/                 # Topic-wise raw CSS files
+	│   ├── css-demos/               # HTML+CSS topic-based practice
+	│   ├── responsive/          # Media queries and layout techniques
+	│   └── images/              # Images, fonts (optional)
+		├── mini-tasks/              # Small challenges (like 1-section layouts)
+		├── projects/                # Full HTML+CSS websites or landing pages
+	├── tailwind/                # Tailwind CSS specific practice	
+		├── projects/                # Full HTML+CSS websites or landing pages
+├── git-github/              # Git basics, commands, workflows
+└── README.md                # Roadmap and section descriptions
+```
