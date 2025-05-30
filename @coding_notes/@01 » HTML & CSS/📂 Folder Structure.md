@@ -59,10 +59,12 @@ frontend-bootcamp/
 │   ├── html/                   # HTML-only practice (semantic tags, forms)
 │   ├── css/                    # Topic-wise raw CSS files (selectors, box model, etc.)
 │   ├── css-demos/              # HTML+CSS topic-based practice (with linked CSS)
+│   ├── assets/                 # Shared assets like images/fonts (used across HTML & CSS)
+	│   ├── images/
+	│   ├── medias/
 │   ├── responsive/             # Media queries & responsive layout techniques
 │   ├── mini-tasks/             # Small layout challenges (e.g., navbar, card, footer)
 │   ├── projects/               # Full-page HTML+CSS projects (landing pages, etc.)
-│   └── images/                 # Shared assets like images/fonts (used across HTML & CSS)
 │
 ├── tailwind/                   # Tailwind CSS-specific practice
 │   ├── basics/                 # Utility class practice (spacing, colors, etc.)
