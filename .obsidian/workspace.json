@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "@coding_notes/@01 » HTML & CSS/📂 Folder Structure.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "8f112ace402a832e",
@@ -235,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
