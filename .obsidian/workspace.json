@@ -194,7 +194,7 @@
               "type": "markdown",
               "state": {
                 "file": "Journal/Daily_Notes/2025-05-30.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -232,8 +232,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "task-status:Change Checkbox Status": false,
-      "periodic-notes:Open today": false
+      "task-status:Change Checkbox Status": false
     }
   },
   "active": "a2dde0ea3701cfdb",
