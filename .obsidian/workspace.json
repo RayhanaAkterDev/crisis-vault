@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily_Notes/2025-05-31.md",
+                "file": "@Coding_WebDev_JobPrep/Full Stack Developer Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-31"
+              "title": "Full Stack Developer Roadmap"
             }
           }
         ]
@@ -238,13 +238,14 @@
   },
   "active": "eed3c9b116929a76",
   "lastOpenFiles": [
+    "@coding_notes/How should I learn.md",
+    "@coding_notes/@01 » HTML & CSS/📂 Folder Structure.md",
     "LinkedIn Materials/My First LinkedIn Post on HTML Learning.md",
     "Journal/Daily_Notes/2025-05-31.md",
     "LinkedIn Materials/Tasks to do before post the post.md",
     "Journal/Daily_Notes/2025-05-30.md",
     "@coding_notes/What to do one by one.md",
     "Reminders.md",
-    "@coding_notes/@01 » HTML & CSS/📂 Folder Structure.md",
     "@coding_notes/@01 » HTML & CSS/CSS3/@001 » Intro To CSS.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@002 » HTML Text Eelement.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/@001 » HTML Basic Structure.md",
@@ -256,7 +257,6 @@
     "Journal/Daily_Notes/2025-05-28.md",
     "Templates/daily_template.md",
     "LinkedIn Materials",
-    "@coding_notes/How should I learn.md",
     "@coding_notes/@01 » HTML & CSS/HTML5/Documentation Comments in Code.md",
     "@coding_notes/@01 » HTML & CSS/GitHub",
     "@coding_notes/@01 » HTML & CSS/@attachments/blog-post-layout.png",
