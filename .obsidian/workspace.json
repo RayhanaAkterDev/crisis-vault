@@ -15,7 +15,7 @@
               "state": {
                 "file": "Journal/Daily_Notes/2025-06-01.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2025-06-01"
