@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Journal/Daily_Notes/2025-06-01.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "d42fce614bffbe12",
@@ -232,7 +232,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "task-status:Change Checkbox Status": false
+      "task-status:Change Checkbox Status": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "eed3c9b116929a76",
